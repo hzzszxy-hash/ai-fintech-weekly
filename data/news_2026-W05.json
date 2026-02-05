@@ -1,0 +1,331 @@
+{
+  "fetch_date": "2026-02-05",
+  "week": "2026-W05",
+  "total_count": 20,
+  "en_news": [
+    {
+      "title": "'Doing AI' is the new black",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93RnpmRFo4YW14Y1RvQWR5ZEZ3TFNveDhaaXZLcE1KaDZTNjIxMTk2MlduSUdLSjJWSUxWeHhjWUU1a2k1Y2J6QngxTXhfWVJoYVpqS2ZyNHpXMC10LTJvdS1RMmQzMV9YQ0pmZ1NyYm16eDlsaVlCWUxR?oc=5",
+      "source": "FinTech Futures",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE93RnpmRFo4YW14Y1RvQWR5ZEZ3TFNveDhaaXZLcE1KaDZTNjIxMTk2MlduSUdLSjJWSUxWeHhjWUU1a2k1Y2J6QngxTXhfWVJoYVpqS2ZyNHpXMC10LTJvdS1RMmQzMV9YQ0pmZ1NyYm16eDlsaVlCWUxR?oc=5\" target=\"_blank\">'Doing AI' is the new black</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Women in tech and finance are more at risk from AI-led job losses",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlgyWUVpVGQyTUxDSi1fSTBySW5IY1U3U3RQU0dGMGlCMjVGdUJYZHBJZVJ1QXFTYXFSRFZGY0FSWXRhaDNzQWpZU2JhcktZNHhaVXhOaS1jeGVWWS1jdzFXMkQwUU9MR1JFTG45U3REQVRFT213amptbzdmUlhidnBiQmVHb2o3LV9ncm1uOFl6U3AtTnVkM1RDblhzaFJ6el8xZWprbThSMUlWSUFIc0ZjdE0wUnFMeFNPMDhR?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlgyWUVpVGQyTUxDSi1fSTBySW5IY1U3U3RQU0dGMGlCMjVGdUJYZHBJZVJ1QXFTYXFSRFZGY0FSWXRhaDNzQWpZU2JhcktZNHhaVXhOaS1jeGVWWS1jdzFXMkQwUU9MR1JFTG45U3REQVRFT213amptbzdmUlhidnBiQmVHb2o3LV9ncm1uOFl6U3AtTnVkM1RDblhzaFJ6el8xZWprbThSMUlWSUFIc0ZjdE0wUnFMeFNPMDhR?oc=5\" target=\"_blank\">Women in tech and finance are more at risk from AI-led job losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5",
+      "source": "InvestmentNews",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5\" target=\"_blank\">Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "lang": "en"
+    },
+    {
+      "title": "EnFi secures $15m Series A to scale AI credit workforce",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjQtUkRNWkdsRE1VR1Y1VHhCUFZZeFpjRGl5bHVJN1hiT0R0QTZTY3YxN2FVMWpSQ0VQTUUwVzRqbTJCSmR4eTR6NDQtZHduaE9Xb1NWdjZFdFFxWVc1X1pEQWdLWHB2MldTNlRlR1g4Ni0wM1VKOEw4TWlpNjk3WDNKUGloUUQ2dHZNWTBoeXJmREk?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjQtUkRNWkdsRE1VR1Y1VHhCUFZZeFpjRGl5bHVJN1hiT0R0QTZTY3YxN2FVMWpSQ0VQTUUwVzRqbTJCSmR4eTR6NDQtZHduaE9Xb1NWdjZFdFFxWVc1X1pEQWdLWHB2MldTNlRlR1g4Ni0wM1VKOEw4TWlpNjk3WDNKUGloUUQ2dHZNWTBoeXJmREk?oc=5\" target=\"_blank\">EnFi secures $15m Series A to scale AI credit workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI-enabled feedback helps fintechs differentiate impact from access",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjliblhTd1cyV3YtZTlDczR6RWRuU1NXQ1JMYmdfd0dqazY2RzZtVzNHRHNLSGVCTFhfTWVabzlVYlBjWmNqMkdLbm5nLVJqWEpwdFV2N3BKUXhCd0Zhd0h3UlBodGY5U3Y0LWpwdEhpbFdVSHh0dGFKQ0JaaEU2TC10TU5RNnJ1YW4teFBFT1JpZw?oc=5",
+      "source": "ImpactAlpha",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjliblhTd1cyV3YtZTlDczR6RWRuU1NXQ1JMYmdfd0dqazY2RzZtVzNHRHNLSGVCTFhfTWVabzlVYlBjWmNqMkdLbm5nLVJqWEpwdFV2N3BKUXhCd0Zhd0h3UlBodGY5U3Y0LWpwdEhpbFdVSHh0dGFKQ0JaaEU2TC10TU5RNnJ1YW4teFBFT1JpZw?oc=5\" target=\"_blank\">AI-enabled feedback helps fintechs differentiate impact from access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ImpactAlpha</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How is Oracle’s AI Changing Financial Institutions?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9GSV9CTTZxSnBmaUpXX0s4aVI4QTUwUkwwQUZqZDBZYUUxeGJMNE11VnVYdG1mMmRIWHUwSFRQb2E3dms3T3VJcDdYVlRJQ3NvdnpYeDAwMXhBQ3djcTE1M0U1ejdlb29LT2tRcmctaFRwa2JRS2VuS2c1dDFtZElLLWVuNV9kVVE?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9GSV9CTTZxSnBmaUpXX0s4aVI4QTUwUkwwQUZqZDBZYUUxeGJMNE11VnVYdG1mMmRIWHUwSFRQb2E3dms3T3VJcDdYVlRJQ3NvdnpYeDAwMXhBQ3djcTE1M0U1ejdlb29LT2tRcmctaFRwa2JRS2VuS2c1dDFtZElLLWVuNV9kVVE?oc=5\" target=\"_blank\">How is Oracle’s AI Changing Financial Institutions?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "4 takeaways for finance teams as they implement AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxCZ3ZwZWZDWXJKeGJsUDdyb0ZiaWdCSzZfVGR6cDJDaGtqc3lXLVRUcV9lbVNhclZhb0lHakYtS3BGQl96UWh6QUQzZ3h2MXZIWEtkemhiemZUeUFyMFZqb0JfdUdFYmJGVUFBeXN0X2hkdTV3NGg5ZEZONVNGUEFSbVE3d2NFZTE3NllEQmp2Szg?oc=5",
+      "source": "MIT Sloan",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxCZ3ZwZWZDWXJKeGJsUDdyb0ZiaWdCSzZfVGR6cDJDaGtqc3lXLVRUcV9lbVNhclZhb0lHakYtS3BGQl96UWh6QUQzZ3h2MXZIWEtkemhiemZUeUFyMFZqb0JfdUdFYmJGVUFBeXN0X2hkdTV3NGg5ZEZONVNGUEFSbVE3d2NFZTE3NllEQmp2Szg?oc=5\" target=\"_blank\">4 takeaways for finance teams as they implement AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Sloan</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Sage Intacct for Schools: AI Innovations for Education Finance Leaders",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGEyYWw0SmJpbUd6THJGV3Jxd1kwVTZGeVdaV3FUSDdtbjVnUi1EWGRxcXZXNk9jUHVreS0tekF6cUR5VGwtUXAtTXQ3QUpzSzFUelhXVnNYUXh0V3k3QXROVXh6MmtBS1R5NExJSEt4czBzczIzbVdTc3ZNZklvQU1HU1oxZWRBTDR0eXRzVnRRcUV2U0RVTjZxaFhhX3lKaVp4eUpvZHVNaDVyQjBCd1RrdmNNX0xsUzk5eg?oc=5",
+      "source": "CLA (CliftonLarsonAllen)",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGEyYWw0SmJpbUd6THJGV3Jxd1kwVTZGeVdaV3FUSDdtbjVnUi1EWGRxcXZXNk9jUHVreS0tekF6cUR5VGwtUXAtTXQ3QUpzSzFUelhXVnNYUXh0V3k3QXROVXh6MmtBS1R5NExJSEt4czBzczIzbVdTc3ZNZklvQU1HU1oxZWRBTDR0eXRzVnRRcUV2U0RVTjZxaFhhX3lKaVp4eUpvZHVNaDVyQjBCd1RrdmNNX0xsUzk5eg?oc=5\" target=\"_blank\">Sage Intacct for Schools: AI Innovations for Education Finance Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CLA (CliftonLarsonAllen)</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI Threatens a Wall Street Cash Cow: Financial and Legal Data",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQY0xGM0FNd1dTWTZKa2t1TlNaaDkwc2dJTG1NeHBubF9VVW1uV2puOUk1LUdCQ3NxQWR3YmYyVW1PcV9mamRlVkJtWEprTGNwaVpfUGUwLVFwS2tSNUplcGNLdjk5bDBHa2JHLWFJOGFEeFBONnRvUS0xVVlxT2V6b014dVF0cVN4OWpzcXY1TGVlem5CY1lNUUR3Qkgyd0xpWENIMjd3QkN3eFdMYjctZHc2ZlZUUWx3YjU1a1VpcTB4RGozRGdvS2h5RVFjbW83dS0tYmNXbWR4Rktkbmg1bXJsY3p2amdwWHo5cmRvNG5iN2NDUnVyYmUwdE5EVFhZeHlPeTVlZjVvblFyWmFSejFmV2RGOTEzZGZXYS1GMGVoaXh1U3p6Vlh5S2F3TUxtZXZuMGxzeFh4a0l5ZW1qUlRkSGIweEJNeTMwZUx4V0ZvQnhRVGIydmpjQlFtYWRDM2pTNU1mSGJ0Vi01c3pzenl1cThLRExMdnZ6ek9zemlqMEU1QUxaenJPLVhrdXlSOVJVdFdNWmZkX2NyZmlWd2pkRHVQcUNzRkQ1Zg?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirANBVV95cUxQY0xGM0FNd1dTWTZKa2t1TlNaaDkwc2dJTG1NeHBubF9VVW1uV2puOUk1LUdCQ3NxQWR3YmYyVW1PcV9mamRlVkJtWEprTGNwaVpfUGUwLVFwS2tSNUplcGNLdjk5bDBHa2JHLWFJOGFEeFBONnRvUS0xVVlxT2V6b014dVF0cVN4OWpzcXY1TGVlem5CY1lNUUR3Qkgyd0xpWENIMjd3QkN3eFdMYjctZHc2ZlZUUWx3YjU1a1VpcTB4RGozRGdvS2h5RVFjbW83dS0tYmNXbWR4Rktkbmg1bXJsY3p2amdwWHo5cmRvNG5iN2NDUnVyYmUwdE5EVFhZeHlPeTVlZjVvblFyWmFSejFmV2RGOTEzZGZXYS1GMGVoaXh1U3p6Vlh5S2F3TUxtZXZuMGxzeFh4a0l5ZW1qUlRkSGIweEJNeTMwZUx4V0ZvQnhRVGIydmpjQlFtYWRDM2pTNU1mSGJ0Vi01c3pzenl1cThLRExMdnZ6ek9zemlqMEU1QUxaenJPLVhrdXlSOVJVdFdNWmZkX2NyZmlWd2pkRHVQcUNzRkQ1Zg?oc=5\" target=\"_blank\">AI Threatens a Wall Street Cash Cow: Financial and Legal Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Six months of work in two days: Banks race to scale AI as risks rise",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGJGTkRxQldBa3JGQm1pazJ1b3Y2aWlOZW1NRUlVZ3hTLTZ2ZS1jcWVYRmwxSWdxTVFaVklzc3hNN3JpSlJlUGo1MjlwcnFxZFBWWjM1a0RoV0pIcVBfVG1LbW5IanZjeWl4YjZYUkFGVVBTUVdHQl8ySVpIcDNWc2FRbFF6ZUwxNUNkQUxabFNkVmMwa2djZHFNbUdDYjZUQnV3SHA4WHViVF9CeS0yTEx5eFBVUVk4QlE1VWNzSmR5NlRreEJNLWExbzI?oc=5",
+      "source": "AFR",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGJGTkRxQldBa3JGQm1pazJ1b3Y2aWlOZW1NRUlVZ3hTLTZ2ZS1jcWVYRmwxSWdxTVFaVklzc3hNN3JpSlJlUGo1MjlwcnFxZFBWWjM1a0RoV0pIcVBfVG1LbW5IanZjeWl4YjZYUkFGVVBTUVdHQl8ySVpIcDNWc2FRbFF6ZUwxNUNkQUxabFNkVmMwa2djZHFNbUdDYjZUQnV3SHA4WHViVF9CeS0yTEx5eFBVUVk4QlE1VWNzSmR5NlRreEJNLWExbzI?oc=5\" target=\"_blank\">Six months of work in two days: Banks race to scale AI as risks rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFR</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Banking in the AI Era: Oracle's Innovative Agentic Platform",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUprVW5xbEF1SFNfNzVWZC14cEw0blF6S052V3VpZ2hqZk84M2RUYkRMWlhQeGQyYTU2MzR5ZVNOTjNNUXpGc0RqQUQtNlBoTVlzZ2RKa3p2RUZhYXFiU3d4Q2pNMFBkLUFLdEwtbWFFVHlMYjVqNzQyQmNqdkFXOW5sWW9fMTFJd1hXakhDTF93SWNJcndQLV9B?oc=5",
+      "source": "Technology Magazine",
+      "published": "2026-02-03",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUprVW5xbEF1SFNfNzVWZC14cEw0blF6S052V3VpZ2hqZk84M2RUYkRMWlhQeGQyYTU2MzR5ZVNOTjNNUXpGc0RqQUQtNlBoTVlzZ2RKa3p2RUZhYXFiU3d4Q2pNMFBkLUFLdEwtbWFFVHlMYjVqNzQyQmNqdkFXOW5sWW9fMTFJd1hXakhDTF93SWNJcndQLV9B?oc=5\" target=\"_blank\">Banking in the AI Era: Oracle's Innovative Agentic Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Portland startup Zelody uses AI to solve banking software integration",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzRVcFg1SnRValFUTG9HdnFJMzljV25xb0IwTzQ1bmc5YXFvbHlIb1E1MGQtWlhpaWxFcUd6NjVrTlA2RXY5M1lPR011ODNmdjJycy1SWXJUMlZuT2ZGWUtzaEZWcjh1T2VZQjBhMlFFVE1xVkRleU1zRWQ4TzctamozczNGSXQwZXI2ZzdrSm9zQllqekJuTHJn?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORzRVcFg1SnRValFUTG9HdnFJMzljV25xb0IwTzQ1bmc5YXFvbHlIb1E1MGQtWlhpaWxFcUd6NjVrTlA2RXY5M1lPR011ODNmdjJycy1SWXJUMlZuT2ZGWUtzaEZWcjh1T2VZQjBhMlFFVE1xVkRleU1zRWQ4TzctamozczNGSXQwZXI2ZzdrSm9zQllqekJuTHJn?oc=5\" target=\"_blank\">Portland startup Zelody uses AI to solve banking software integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Supervision of artificial intelligence in finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzNBQ01pLTJBMkx6MHZHZHUwXzM3bE4wUDU0Z1hoYXkwMjE5dnBTaEpvLTZzNzBjZl85YWFLOW1ZempUYTROd25qSGlzRmNGeFo5WURJekpBZ2xlWGhBOWNyMlZkcHcyMEE4N3Q5bVNkLXB3cmg4M243TjFwcWdQc1ZDd3NYVDZJRGNGcS1yZUtpRUNzRXRGSWhSaFhrNFQ1ckFBTXpR?oc=5",
+      "source": "OECD",
+      "published": "2026-01-23",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzNBQ01pLTJBMkx6MHZHZHUwXzM3bE4wUDU0Z1hoYXkwMjE5dnBTaEpvLTZzNzBjZl85YWFLOW1ZempUYTROd25qSGlzRmNGeFo5WURJekpBZ2xlWGhBOWNyMlZkcHcyMEE4N3Q5bVNkLXB3cmg4M243TjFwcWdQc1ZDd3NYVDZJRGNGcS1yZUtpRUNzRXRGSWhSaFhrNFQ1ckFBTXpR?oc=5\" target=\"_blank\">Supervision of artificial intelligence in finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OECD</font>",
+      "lang": "en"
+    }
+  ],
+  "zh_news": [
+    {
+      "title": "魔数智擎发布金融业务化AI实践案例 获《中国金融电脑》全文刊载",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41bzJXSmo5al9VRnhsTmZXQlhpdUlJMFhEdXBxMlREM0VZZFY4clZUWGlDcFRuM1VzTlpucXhjS3J2b3M5Yi1ObkJOSTdrMndWN3FGaGFHc1oyaGFPN0tUaUZBekJ0b2VsSVZJ?oc=5",
+      "source": "新华报业网",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE41bzJXSmo5al9VRnhsTmZXQlhpdUlJMFhEdXBxMlREM0VZZFY4clZUWGlDcFRuM1VzTlpucXhjS3J2b3M5Yi1ObkJOSTdrMndWN3FGaGFHc1oyaGFPN0tUaUZBekJ0b2VsSVZJ?oc=5\" target=\"_blank\">魔数智擎发布金融业务化AI实践案例 获《中国金融电脑》全文刊载</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "中信集团深入推进“人工智能+”行动，赋能产业蝶变、管理增效- 新闻动态",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waUZzUVNMNDF0VXNMNDRwSXYzeXduZ0toUXVXR1VKNEVRSEdsSHloOTVRR19zRTc1dUZXZWx4d3ZCeW5ValdJQXM3OVZSY3drVm90Umc4d09Gd0x4dlRVNlhMNA?oc=5",
+      "source": "group.citic",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waUZzUVNMNDF0VXNMNDRwSXYzeXduZ0toUXVXR1VKNEVRSEdsSHloOTVRR19zRTc1dUZXZWx4d3ZCeW5ValdJQXM3OVZSY3drVm90Umc4d09Gd0x4dlRVNlhMNA?oc=5\" target=\"_blank\">中信集团深入推进“人工智能+”行动，赋能产业蝶变、管理增效- 新闻动态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">group.citic</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5",
+      "source": "东方财富",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5\" target=\"_blank\">兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "人工智能+ 金融行为测评系统落地天开园",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGZpV1dpdkZhZGxZVGNWMExjZUJqMVRwZlJlSGExRVgxRG5RMjI4Ni12bTNzZ3dROWtvZ3NVRHdIdGtXXzhjdDRJTFNkY2lxelVmTDR6amtNUkh1cXlKcTN0QnJGS19yenlUeHlqdW1oUjJFY2gzVThOUFhpd2R5Tg?oc=5",
+      "source": "天津日报",
+      "published": "2026-02-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGZpV1dpdkZhZGxZVGNWMExjZUJqMVRwZlJlSGExRVgxRG5RMjI4Ni12bTNzZ3dROWtvZ3NVRHdIdGtXXzhjdDRJTFNkY2lxelVmTDR6amtNUkh1cXlKcTN0QnJGS19yenlUeHlqdW1oUjJFY2gzVThOUFhpd2R5Tg?oc=5\" target=\"_blank\">人工智能+ 金融行为测评系统落地天开园</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天津日报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "宜人智科全面赋能金融科技AI战略深化落地",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40RmQ4azJ4MkZ2UjJIQmk0WkxtamJHTzlQdjJPVlgxTGtsX0VCaHRVNUltUVhjMzlXOGF4WDBrVVpfNUd2SnlhVUoxc3N0eW9uUTZMMUNVNkx6VGhwb003VjNQdWZjdWpzQ3Bv?oc=5",
+      "source": "新华报业网",
+      "published": "2026-01-29",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE40RmQ4azJ4MkZ2UjJIQmk0WkxtamJHTzlQdjJPVlgxTGtsX0VCaHRVNUltUVhjMzlXOGF4WDBrVVpfNUd2SnlhVUoxc3N0eW9uUTZMMUNVNkx6VGhwb003VjNQdWZjdWpzQ3Bv?oc=5\" target=\"_blank\">宜人智科全面赋能金融科技AI战略深化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI金融科技受益于算力板块业绩释放，关注金融科技ETF兴业（563570.SH）",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xYW5yN0RlNTR0UjhhLVBfX04zbXV4ajdHa0JuMkp3V295SGZkLVNRWmZlN3BONnQ1c3Y5SWtOQnItNnlHYk5lSTgzbC1sOHZ2Z01sT1ZjUXBERVBpcTI3YVVSdWpGN3lELUUtTktGQ3dIVzJMRVd0XzBEZFE?oc=5",
+      "source": "新浪财经",
+      "published": "2026-01-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4xYW5yN0RlNTR0UjhhLVBfX04zbXV4ajdHa0JuMkp3V295SGZkLVNRWmZlN3BONnQ1c3Y5SWtOQnItNnlHYk5lSTgzbC1sOHZ2Z01sT1ZjUXBERVBpcTI3YVVSdWpGN3lELUUtTktGQ3dIVzJMRVd0XzBEZFE?oc=5\" target=\"_blank\">AI金融科技受益于算力板块业绩释放，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "杨涛：金融大模型迎来应用“黄金期”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMVRxRXF3bksyRmplTV8yVVZpZnpFUnRTTjhxdFduUERrM0RvQW9GQzJOZ09XU1JETHBjelN5NVVCU19SeFpWOHN6dUJDWTdnZ0tWWHNROGZCWTZ5MjUtcmt2LV9mZ3hiWEVJ?oc=5",
+      "source": "财经号",
+      "published": "2026-01-22",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMVRxRXF3bksyRmplTV8yVVZpZnpFUnRTTjhxdFduUERrM0RvQW9GQzJOZ09XU1JETHBjelN5NVVCU19SeFpWOHN6dUJDWTdnZ0tWWHNROGZCWTZ5MjUtcmt2LV9mZ3hiWEVJ?oc=5\" target=\"_blank\">杨涛：金融大模型迎来应用“黄金期”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财经号</font>",
+      "lang": "zh"
+    }
+  ],
+  "all_news": [
+    {
+      "title": "'Doing AI' is the new black",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93RnpmRFo4YW14Y1RvQWR5ZEZ3TFNveDhaaXZLcE1KaDZTNjIxMTk2MlduSUdLSjJWSUxWeHhjWUU1a2k1Y2J6QngxTXhfWVJoYVpqS2ZyNHpXMC10LTJvdS1RMmQzMV9YQ0pmZ1NyYm16eDlsaVlCWUxR?oc=5",
+      "source": "FinTech Futures",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE93RnpmRFo4YW14Y1RvQWR5ZEZ3TFNveDhaaXZLcE1KaDZTNjIxMTk2MlduSUdLSjJWSUxWeHhjWUU1a2k1Y2J6QngxTXhfWVJoYVpqS2ZyNHpXMC10LTJvdS1RMmQzMV9YQ0pmZ1NyYm16eDlsaVlCWUxR?oc=5\" target=\"_blank\">'Doing AI' is the new black</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Women in tech and finance are more at risk from AI-led job losses",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlgyWUVpVGQyTUxDSi1fSTBySW5IY1U3U3RQU0dGMGlCMjVGdUJYZHBJZVJ1QXFTYXFSRFZGY0FSWXRhaDNzQWpZU2JhcktZNHhaVXhOaS1jeGVWWS1jdzFXMkQwUU9MR1JFTG45U3REQVRFT213amptbzdmUlhidnBiQmVHb2o3LV9ncm1uOFl6U3AtTnVkM1RDblhzaFJ6el8xZWprbThSMUlWSUFIc0ZjdE0wUnFMeFNPMDhR?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlgyWUVpVGQyTUxDSi1fSTBySW5IY1U3U3RQU0dGMGlCMjVGdUJYZHBJZVJ1QXFTYXFSRFZGY0FSWXRhaDNzQWpZU2JhcktZNHhaVXhOaS1jeGVWWS1jdzFXMkQwUU9MR1JFTG45U3REQVRFT213amptbzdmUlhidnBiQmVHb2o3LV9ncm1uOFl6U3AtTnVkM1RDblhzaFJ6el8xZWprbThSMUlWSUFIc0ZjdE0wUnFMeFNPMDhR?oc=5\" target=\"_blank\">Women in tech and finance are more at risk from AI-led job losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "魔数智擎发布金融业务化AI实践案例 获《中国金融电脑》全文刊载",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41bzJXSmo5al9VRnhsTmZXQlhpdUlJMFhEdXBxMlREM0VZZFY4clZUWGlDcFRuM1VzTlpucXhjS3J2b3M5Yi1ObkJOSTdrMndWN3FGaGFHc1oyaGFPN0tUaUZBekJ0b2VsSVZJ?oc=5",
+      "source": "新华报业网",
+      "published": "2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE41bzJXSmo5al9VRnhsTmZXQlhpdUlJMFhEdXBxMlREM0VZZFY4clZUWGlDcFRuM1VzTlpucXhjS3J2b3M5Yi1ObkJOSTdrMndWN3FGaGFHc1oyaGFPN0tUaUZBekJ0b2VsSVZJ?oc=5\" target=\"_blank\">魔数智擎发布金融业务化AI实践案例 获《中国金融电脑》全文刊载</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5",
+      "source": "InvestmentNews",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5\" target=\"_blank\">Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "lang": "en"
+    },
+    {
+      "title": "EnFi secures $15m Series A to scale AI credit workforce",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjQtUkRNWkdsRE1VR1Y1VHhCUFZZeFpjRGl5bHVJN1hiT0R0QTZTY3YxN2FVMWpSQ0VQTUUwVzRqbTJCSmR4eTR6NDQtZHduaE9Xb1NWdjZFdFFxWVc1X1pEQWdLWHB2MldTNlRlR1g4Ni0wM1VKOEw4TWlpNjk3WDNKUGloUUQ2dHZNWTBoeXJmREk?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjQtUkRNWkdsRE1VR1Y1VHhCUFZZeFpjRGl5bHVJN1hiT0R0QTZTY3YxN2FVMWpSQ0VQTUUwVzRqbTJCSmR4eTR6NDQtZHduaE9Xb1NWdjZFdFFxWVc1X1pEQWdLWHB2MldTNlRlR1g4Ni0wM1VKOEw4TWlpNjk3WDNKUGloUUQ2dHZNWTBoeXJmREk?oc=5\" target=\"_blank\">EnFi secures $15m Series A to scale AI credit workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI-enabled feedback helps fintechs differentiate impact from access",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjliblhTd1cyV3YtZTlDczR6RWRuU1NXQ1JMYmdfd0dqazY2RzZtVzNHRHNLSGVCTFhfTWVabzlVYlBjWmNqMkdLbm5nLVJqWEpwdFV2N3BKUXhCd0Zhd0h3UlBodGY5U3Y0LWpwdEhpbFdVSHh0dGFKQ0JaaEU2TC10TU5RNnJ1YW4teFBFT1JpZw?oc=5",
+      "source": "ImpactAlpha",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjliblhTd1cyV3YtZTlDczR6RWRuU1NXQ1JMYmdfd0dqazY2RzZtVzNHRHNLSGVCTFhfTWVabzlVYlBjWmNqMkdLbm5nLVJqWEpwdFV2N3BKUXhCd0Zhd0h3UlBodGY5U3Y0LWpwdEhpbFdVSHh0dGFKQ0JaaEU2TC10TU5RNnJ1YW4teFBFT1JpZw?oc=5\" target=\"_blank\">AI-enabled feedback helps fintechs differentiate impact from access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ImpactAlpha</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How is Oracle’s AI Changing Financial Institutions?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9GSV9CTTZxSnBmaUpXX0s4aVI4QTUwUkwwQUZqZDBZYUUxeGJMNE11VnVYdG1mMmRIWHUwSFRQb2E3dms3T3VJcDdYVlRJQ3NvdnpYeDAwMXhBQ3djcTE1M0U1ejdlb29LT2tRcmctaFRwa2JRS2VuS2c1dDFtZElLLWVuNV9kVVE?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9GSV9CTTZxSnBmaUpXX0s4aVI4QTUwUkwwQUZqZDBZYUUxeGJMNE11VnVYdG1mMmRIWHUwSFRQb2E3dms3T3VJcDdYVlRJQ3NvdnpYeDAwMXhBQ3djcTE1M0U1ejdlb29LT2tRcmctaFRwa2JRS2VuS2c1dDFtZElLLWVuNV9kVVE?oc=5\" target=\"_blank\">How is Oracle’s AI Changing Financial Institutions?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "4 takeaways for finance teams as they implement AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxCZ3ZwZWZDWXJKeGJsUDdyb0ZiaWdCSzZfVGR6cDJDaGtqc3lXLVRUcV9lbVNhclZhb0lHakYtS3BGQl96UWh6QUQzZ3h2MXZIWEtkemhiemZUeUFyMFZqb0JfdUdFYmJGVUFBeXN0X2hkdTV3NGg5ZEZONVNGUEFSbVE3d2NFZTE3NllEQmp2Szg?oc=5",
+      "source": "MIT Sloan",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxCZ3ZwZWZDWXJKeGJsUDdyb0ZiaWdCSzZfVGR6cDJDaGtqc3lXLVRUcV9lbVNhclZhb0lHakYtS3BGQl96UWh6QUQzZ3h2MXZIWEtkemhiemZUeUFyMFZqb0JfdUdFYmJGVUFBeXN0X2hkdTV3NGg5ZEZONVNGUEFSbVE3d2NFZTE3NllEQmp2Szg?oc=5\" target=\"_blank\">4 takeaways for finance teams as they implement AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Sloan</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Sage Intacct for Schools: AI Innovations for Education Finance Leaders",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGEyYWw0SmJpbUd6THJGV3Jxd1kwVTZGeVdaV3FUSDdtbjVnUi1EWGRxcXZXNk9jUHVreS0tekF6cUR5VGwtUXAtTXQ3QUpzSzFUelhXVnNYUXh0V3k3QXROVXh6MmtBS1R5NExJSEt4czBzczIzbVdTc3ZNZklvQU1HU1oxZWRBTDR0eXRzVnRRcUV2U0RVTjZxaFhhX3lKaVp4eUpvZHVNaDVyQjBCd1RrdmNNX0xsUzk5eg?oc=5",
+      "source": "CLA (CliftonLarsonAllen)",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGEyYWw0SmJpbUd6THJGV3Jxd1kwVTZGeVdaV3FUSDdtbjVnUi1EWGRxcXZXNk9jUHVreS0tekF6cUR5VGwtUXAtTXQ3QUpzSzFUelhXVnNYUXh0V3k3QXROVXh6MmtBS1R5NExJSEt4czBzczIzbVdTc3ZNZklvQU1HU1oxZWRBTDR0eXRzVnRRcUV2U0RVTjZxaFhhX3lKaVp4eUpvZHVNaDVyQjBCd1RrdmNNX0xsUzk5eg?oc=5\" target=\"_blank\">Sage Intacct for Schools: AI Innovations for Education Finance Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CLA (CliftonLarsonAllen)</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI Threatens a Wall Street Cash Cow: Financial and Legal Data",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQY0xGM0FNd1dTWTZKa2t1TlNaaDkwc2dJTG1NeHBubF9VVW1uV2puOUk1LUdCQ3NxQWR3YmYyVW1PcV9mamRlVkJtWEprTGNwaVpfUGUwLVFwS2tSNUplcGNLdjk5bDBHa2JHLWFJOGFEeFBONnRvUS0xVVlxT2V6b014dVF0cVN4OWpzcXY1TGVlem5CY1lNUUR3Qkgyd0xpWENIMjd3QkN3eFdMYjctZHc2ZlZUUWx3YjU1a1VpcTB4RGozRGdvS2h5RVFjbW83dS0tYmNXbWR4Rktkbmg1bXJsY3p2amdwWHo5cmRvNG5iN2NDUnVyYmUwdE5EVFhZeHlPeTVlZjVvblFyWmFSejFmV2RGOTEzZGZXYS1GMGVoaXh1U3p6Vlh5S2F3TUxtZXZuMGxzeFh4a0l5ZW1qUlRkSGIweEJNeTMwZUx4V0ZvQnhRVGIydmpjQlFtYWRDM2pTNU1mSGJ0Vi01c3pzenl1cThLRExMdnZ6ek9zemlqMEU1QUxaenJPLVhrdXlSOVJVdFdNWmZkX2NyZmlWd2pkRHVQcUNzRkQ1Zg?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirANBVV95cUxQY0xGM0FNd1dTWTZKa2t1TlNaaDkwc2dJTG1NeHBubF9VVW1uV2puOUk1LUdCQ3NxQWR3YmYyVW1PcV9mamRlVkJtWEprTGNwaVpfUGUwLVFwS2tSNUplcGNLdjk5bDBHa2JHLWFJOGFEeFBONnRvUS0xVVlxT2V6b014dVF0cVN4OWpzcXY1TGVlem5CY1lNUUR3Qkgyd0xpWENIMjd3QkN3eFdMYjctZHc2ZlZUUWx3YjU1a1VpcTB4RGozRGdvS2h5RVFjbW83dS0tYmNXbWR4Rktkbmg1bXJsY3p2amdwWHo5cmRvNG5iN2NDUnVyYmUwdE5EVFhZeHlPeTVlZjVvblFyWmFSejFmV2RGOTEzZGZXYS1GMGVoaXh1U3p6Vlh5S2F3TUxtZXZuMGxzeFh4a0l5ZW1qUlRkSGIweEJNeTMwZUx4V0ZvQnhRVGIydmpjQlFtYWRDM2pTNU1mSGJ0Vi01c3pzenl1cThLRExMdnZ6ek9zemlqMEU1QUxaenJPLVhrdXlSOVJVdFdNWmZkX2NyZmlWd2pkRHVQcUNzRkQ1Zg?oc=5\" target=\"_blank\">AI Threatens a Wall Street Cash Cow: Financial and Legal Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Six months of work in two days: Banks race to scale AI as risks rise",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGJGTkRxQldBa3JGQm1pazJ1b3Y2aWlOZW1NRUlVZ3hTLTZ2ZS1jcWVYRmwxSWdxTVFaVklzc3hNN3JpSlJlUGo1MjlwcnFxZFBWWjM1a0RoV0pIcVBfVG1LbW5IanZjeWl4YjZYUkFGVVBTUVdHQl8ySVpIcDNWc2FRbFF6ZUwxNUNkQUxabFNkVmMwa2djZHFNbUdDYjZUQnV3SHA4WHViVF9CeS0yTEx5eFBVUVk4QlE1VWNzSmR5NlRreEJNLWExbzI?oc=5",
+      "source": "AFR",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGJGTkRxQldBa3JGQm1pazJ1b3Y2aWlOZW1NRUlVZ3hTLTZ2ZS1jcWVYRmwxSWdxTVFaVklzc3hNN3JpSlJlUGo1MjlwcnFxZFBWWjM1a0RoV0pIcVBfVG1LbW5IanZjeWl4YjZYUkFGVVBTUVdHQl8ySVpIcDNWc2FRbFF6ZUwxNUNkQUxabFNkVmMwa2djZHFNbUdDYjZUQnV3SHA4WHViVF9CeS0yTEx5eFBVUVk4QlE1VWNzSmR5NlRreEJNLWExbzI?oc=5\" target=\"_blank\">Six months of work in two days: Banks race to scale AI as risks rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFR</font>",
+      "lang": "en"
+    },
+    {
+      "title": "中信集团深入推进“人工智能+”行动，赋能产业蝶变、管理增效- 新闻动态",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waUZzUVNMNDF0VXNMNDRwSXYzeXduZ0toUXVXR1VKNEVRSEdsSHloOTVRR19zRTc1dUZXZWx4d3ZCeW5ValdJQXM3OVZSY3drVm90Umc4d09Gd0x4dlRVNlhMNA?oc=5",
+      "source": "group.citic",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waUZzUVNMNDF0VXNMNDRwSXYzeXduZ0toUXVXR1VKNEVRSEdsSHloOTVRR19zRTc1dUZXZWx4d3ZCeW5ValdJQXM3OVZSY3drVm90Umc4d09Gd0x4dlRVNlhMNA?oc=5\" target=\"_blank\">中信集团深入推进“人工智能+”行动，赋能产业蝶变、管理增效- 新闻动态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">group.citic</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5",
+      "source": "东方财富",
+      "published": "2026-02-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5\" target=\"_blank\">兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Banking in the AI Era: Oracle's Innovative Agentic Platform",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUprVW5xbEF1SFNfNzVWZC14cEw0blF6S052V3VpZ2hqZk84M2RUYkRMWlhQeGQyYTU2MzR5ZVNOTjNNUXpGc0RqQUQtNlBoTVlzZ2RKa3p2RUZhYXFiU3d4Q2pNMFBkLUFLdEwtbWFFVHlMYjVqNzQyQmNqdkFXOW5sWW9fMTFJd1hXakhDTF93SWNJcndQLV9B?oc=5",
+      "source": "Technology Magazine",
+      "published": "2026-02-03",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUprVW5xbEF1SFNfNzVWZC14cEw0blF6S052V3VpZ2hqZk84M2RUYkRMWlhQeGQyYTU2MzR5ZVNOTjNNUXpGc0RqQUQtNlBoTVlzZ2RKa3p2RUZhYXFiU3d4Q2pNMFBkLUFLdEwtbWFFVHlMYjVqNzQyQmNqdkFXOW5sWW9fMTFJd1hXakhDTF93SWNJcndQLV9B?oc=5\" target=\"_blank\">Banking in the AI Era: Oracle's Innovative Agentic Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Portland startup Zelody uses AI to solve banking software integration",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzRVcFg1SnRValFUTG9HdnFJMzljV25xb0IwTzQ1bmc5YXFvbHlIb1E1MGQtWlhpaWxFcUd6NjVrTlA2RXY5M1lPR011ODNmdjJycy1SWXJUMlZuT2ZGWUtzaEZWcjh1T2VZQjBhMlFFVE1xVkRleU1zRWQ4TzctamozczNGSXQwZXI2ZzdrSm9zQllqekJuTHJn?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORzRVcFg1SnRValFUTG9HdnFJMzljV25xb0IwTzQ1bmc5YXFvbHlIb1E1MGQtWlhpaWxFcUd6NjVrTlA2RXY5M1lPR011ODNmdjJycy1SWXJUMlZuT2ZGWUtzaEZWcjh1T2VZQjBhMlFFVE1xVkRleU1zRWQ4TzctamozczNGSXQwZXI2ZzdrSm9zQllqekJuTHJn?oc=5\" target=\"_blank\">Portland startup Zelody uses AI to solve banking software integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "lang": "en"
+    },
+    {
+      "title": "人工智能+ 金融行为测评系统落地天开园",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGZpV1dpdkZhZGxZVGNWMExjZUJqMVRwZlJlSGExRVgxRG5RMjI4Ni12bTNzZ3dROWtvZ3NVRHdIdGtXXzhjdDRJTFNkY2lxelVmTDR6amtNUkh1cXlKcTN0QnJGS19yenlUeHlqdW1oUjJFY2gzVThOUFhpd2R5Tg?oc=5",
+      "source": "天津日报",
+      "published": "2026-02-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGZpV1dpdkZhZGxZVGNWMExjZUJqMVRwZlJlSGExRVgxRG5RMjI4Ni12bTNzZ3dROWtvZ3NVRHdIdGtXXzhjdDRJTFNkY2lxelVmTDR6amtNUkh1cXlKcTN0QnJGS19yenlUeHlqdW1oUjJFY2gzVThOUFhpd2R5Tg?oc=5\" target=\"_blank\">人工智能+ 金融行为测评系统落地天开园</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天津日报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "宜人智科全面赋能金融科技AI战略深化落地",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40RmQ4azJ4MkZ2UjJIQmk0WkxtamJHTzlQdjJPVlgxTGtsX0VCaHRVNUltUVhjMzlXOGF4WDBrVVpfNUd2SnlhVUoxc3N0eW9uUTZMMUNVNkx6VGhwb003VjNQdWZjdWpzQ3Bv?oc=5",
+      "source": "新华报业网",
+      "published": "2026-01-29",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE40RmQ4azJ4MkZ2UjJIQmk0WkxtamJHTzlQdjJPVlgxTGtsX0VCaHRVNUltUVhjMzlXOGF4WDBrVVpfNUd2SnlhVUoxc3N0eW9uUTZMMUNVNkx6VGhwb003VjNQdWZjdWpzQ3Bv?oc=5\" target=\"_blank\">宜人智科全面赋能金融科技AI战略深化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI金融科技受益于算力板块业绩释放，关注金融科技ETF兴业（563570.SH）",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xYW5yN0RlNTR0UjhhLVBfX04zbXV4ajdHa0JuMkp3V295SGZkLVNRWmZlN3BONnQ1c3Y5SWtOQnItNnlHYk5lSTgzbC1sOHZ2Z01sT1ZjUXBERVBpcTI3YVVSdWpGN3lELUUtTktGQ3dIVzJMRVd0XzBEZFE?oc=5",
+      "source": "新浪财经",
+      "published": "2026-01-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4xYW5yN0RlNTR0UjhhLVBfX04zbXV4ajdHa0JuMkp3V295SGZkLVNRWmZlN3BONnQ1c3Y5SWtOQnItNnlHYk5lSTgzbC1sOHZ2Z01sT1ZjUXBERVBpcTI3YVVSdWpGN3lELUUtTktGQ3dIVzJMRVd0XzBEZFE?oc=5\" target=\"_blank\">AI金融科技受益于算力板块业绩释放，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Supervision of artificial intelligence in finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzNBQ01pLTJBMkx6MHZHZHUwXzM3bE4wUDU0Z1hoYXkwMjE5dnBTaEpvLTZzNzBjZl85YWFLOW1ZempUYTROd25qSGlzRmNGeFo5WURJekpBZ2xlWGhBOWNyMlZkcHcyMEE4N3Q5bVNkLXB3cmg4M243TjFwcWdQc1ZDd3NYVDZJRGNGcS1yZUtpRUNzRXRGSWhSaFhrNFQ1ckFBTXpR?oc=5",
+      "source": "OECD",
+      "published": "2026-01-23",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzNBQ01pLTJBMkx6MHZHZHUwXzM3bE4wUDU0Z1hoYXkwMjE5dnBTaEpvLTZzNzBjZl85YWFLOW1ZempUYTROd25qSGlzRmNGeFo5WURJekpBZ2xlWGhBOWNyMlZkcHcyMEE4N3Q5bVNkLXB3cmg4M243TjFwcWdQc1ZDd3NYVDZJRGNGcS1yZUtpRUNzRXRGSWhSaFhrNFQ1ckFBTXpR?oc=5\" target=\"_blank\">Supervision of artificial intelligence in finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OECD</font>",
+      "lang": "en"
+    },
+    {
+      "title": "杨涛：金融大模型迎来应用“黄金期”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMVRxRXF3bksyRmplTV8yVVZpZnpFUnRTTjhxdFduUERrM0RvQW9GQzJOZ09XU1JETHBjelN5NVVCU19SeFpWOHN6dUJDWTdnZ0tWWHNROGZCWTZ5MjUtcmt2LV9mZ3hiWEVJ?oc=5",
+      "source": "财经号",
+      "published": "2026-01-22",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMVRxRXF3bksyRmplTV8yVVZpZnpFUnRTTjhxdFduUERrM0RvQW9GQzJOZ09XU1JETHBjelN5NVVCU19SeFpWOHN6dUJDWTdnZ0tWWHNROGZCWTZ5MjUtcmt2LV9mZ3hiWEVJ?oc=5\" target=\"_blank\">杨涛：金融大模型迎来应用“黄金期”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财经号</font>",
+      "lang": "zh"
+    }
+  ]
+}

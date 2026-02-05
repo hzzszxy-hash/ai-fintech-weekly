@@ -28,7 +28,7 @@
 
         {% if summary and summary.summary %}
         <section class="summary-section">
-            <div class="summary-content markdown">
+            <div class="summary-content">
                 {{ summary.summary | safe }}
             </div>
         </section>
@@ -39,13 +39,20 @@
             <div class="news-list">
                 {% for item in news.en_news %}
                 <article class="news-card">
-                    <h3><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+                    <h3>
+                        <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                    </h3>
+                    {% if item.title_zh and item.title_zh != item.title %}
+                    <p class="title-zh">📝 {{ item.title_zh }}</p>
+                    {% endif %}
                     <div class="news-meta">
                         <span class="source">{{ item.source }}</span>
                         <span class="date">{{ item.published }}</span>
                     </div>
-                    {% if item.summary %}
-                    <p class="news-summary">{{ item.summary | truncate(200) }}</p>
+                    {% if item.ai_summary %}
+                    <p class="news-summary">{{ item.ai_summary }}</p>
+                    {% elif item.summary %}
+                    <p class="news-summary">{{ item.summary | truncate(150) }}</p>
                     {% endif %}
                 </article>
                 {% else %}
@@ -59,13 +66,17 @@
             <div class="news-list">
                 {% for item in news.zh_news %}
                 <article class="news-card">
-                    <h3><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+                    <h3>
+                        <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                    </h3>
                     <div class="news-meta">
                         <span class="source">{{ item.source }}</span>
                         <span class="date">{{ item.published }}</span>
                     </div>
-                    {% if item.summary %}
-                    <p class="news-summary">{{ item.summary | truncate(200) }}</p>
+                    {% if item.ai_summary %}
+                    <p class="news-summary">{{ item.ai_summary }}</p>
+                    {% elif item.summary %}
+                    <p class="news-summary">{{ item.summary | truncate(150) }}</p>
                     {% endif %}
                 </article>
                 {% else %}
@@ -77,7 +88,7 @@
 
     <footer>
         <div class="container">
-            <p>Powered by GitHub Actions + OpenAI | <a href="https://github.com">View on GitHub</a></p>
+            <p>Powered by GitHub Actions + AI | <a href="https://github.com/hzzszxy-hash/ai-fintech-weekly">View on GitHub</a></p>
             <p class="disclaimer">新闻内容来自公开渠道，总结由 AI 生成，仅供参考</p>
         </div>
     </footer>

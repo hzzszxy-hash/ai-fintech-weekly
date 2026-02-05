@@ -45,7 +45,15 @@ def format_news_for_prompt(news_data: dict) -> str:
 
 def generate_summary(news_data: dict) -> dict:
     """使用 OpenAI 生成周报总结"""
-    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+    # 支持代理平台：通过 OPENAI_BASE_URL 环境变量设置自定义 API 地址
+    base_url = os.environ.get("OPENAI_BASE_URL")
+    api_key = os.environ.get("OPENAI_API_KEY")
+    model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")  # 支持自定义模型
+    
+    client = OpenAI(
+        api_key=api_key,
+        base_url=base_url  # 如果为 None，则使用默认的 OpenAI 地址
+    )
     
     news_text = format_news_for_prompt(news_data)
     week = news_data.get("week", datetime.now().strftime("%Y-W%W"))
@@ -74,7 +82,7 @@ def generate_summary(news_data: dict) -> dict:
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model=model,
             messages=[
                 {"role": "system", "content": "你是一位资深金融科技分析师，擅长将复杂的技术新闻转化为易于理解的商业洞察。"},
                 {"role": "user", "content": prompt}
@@ -89,7 +97,7 @@ def generate_summary(news_data: dict) -> dict:
             "week": week,
             "generated_at": datetime.now().isoformat(),
             "summary": summary,
-            "model": "gpt-4o-mini",
+            "model": model,
             "news_count": len(news_data.get("all_news", []))
         }
     

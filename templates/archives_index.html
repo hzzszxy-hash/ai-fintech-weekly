@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>历史存档 | AI Fintech Weekly</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🤖 AI Fintech Weekly</h1>
+            <p class="subtitle">AI 金融科技周报 · 历史存档</p>
+            <nav>
+                <a href="index.html">本周</a>
+                <a href="archives.html" class="active">历史存档</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="archives-section">
+            <h2>📚 历史周报</h2>
+            
+            {% if weeks %}
+            <div class="archives-list">
+                {% for week in weeks %}
+                <a href="archives/{{ week.week }}.html" class="archive-card">
+                    <span class="week-badge">{{ week.week }}</span>
+                    <span class="date">{{ week.fetch_date }}</span>
+                    <span class="count">{{ week.total_count }} 条新闻</span>
+                </a>
+                {% endfor %}
+            </div>
+            {% else %}
+            <p class="empty">暂无历史存档</p>
+            {% endif %}
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Powered by GitHub Actions + OpenAI | <a href="https://github.com">View on GitHub</a></p>
+            <p class="disclaimer">新闻内容来自公开渠道，总结由 AI 生成，仅供参考</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ week }} | AI Fintech Weekly</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🤖 AI Fintech Weekly</h1>
+            <p class="subtitle">AI 金融科技周报 · {{ week }}</p>
+            <nav>
+                <a href="../index.html">本周</a>
+                <a href="../archives.html" class="active">历史存档</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="meta-info">
+            <a href="../archives.html" class="back-link">← 返回存档列表</a>
+            <span class="week-badge">{{ week }}</span>
+            <span class="date">抓取于: {{ news.fetch_date }}</span>
+            <span class="count">共 {{ news.total_count }} 条新闻</span>
+        </section>
+
+        {% if summary and summary.summary %}
+        <section class="summary-section">
+            <div class="summary-content markdown">
+                {{ summary.summary | safe }}
+            </div>
+        </section>
+        {% endif %}
+
+        <section class="news-section">
+            <h2>📰 英文新闻 ({{ news.en_news | length }})</h2>
+            <div class="news-list">
+                {% for item in news.en_news %}
+                <article class="news-card">
+                    <h3><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+                    <div class="news-meta">
+                        <span class="source">{{ item.source }}</span>
+                        <span class="date">{{ item.published }}</span>
+                    </div>
+                    {% if item.summary %}
+                    <p class="news-summary">{{ item.summary | truncate(200) }}</p>
+                    {% endif %}
+                </article>
+                {% else %}
+                <p class="empty">本周暂无英文新闻</p>
+                {% endfor %}
+            </div>
+        </section>
+
+        <section class="news-section">
+            <h2>📰 中文新闻 ({{ news.zh_news | length }})</h2>
+            <div class="news-list">
+                {% for item in news.zh_news %}
+                <article class="news-card">
+                    <h3><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+                    <div class="news-meta">
+                        <span class="source">{{ item.source }}</span>
+                        <span class="date">{{ item.published }}</span>
+                    </div>
+                    {% if item.summary %}
+                    <p class="news-summary">{{ item.summary | truncate(200) }}</p>
+                    {% endif %}
+                </article>
+                {% else %}
+                <p class="empty">本周暂无中文新闻</p>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Powered by GitHub Actions + OpenAI | <a href="https://github.com">View on GitHub</a></p>
+            <p class="disclaimer">新闻内容来自公开渠道，总结由 AI 生成，仅供参考</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,15 @@
+# AI Fintech Weekly - Dependencies
+
+# News fetching
+feedparser>=6.0.10
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# AI summarization
+openai>=1.0.0
+
+# Site generation
+Jinja2>=3.1.0
+
+# Utilities
+python-dateutil>=2.8.0

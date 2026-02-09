@@ -5,14 +5,54 @@
   "lookback_days": 7,
   "en_news": [
     {
-      "title": "Startups Line Up IPOs Amid Heated Market",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnhDWURsNjJDZWFmeWdsV3ItOVhNLTRPWUFrRjNzMFBVWGFnMFB2Y19nN3M1b0dFRGVLWXJjZmdmOGFfNEtueWRVYlliT2lPSFJUSWViVU1HazYyTW5tX3NhTkJWR3JUWkV1dzFyWm9Cc20tdHpDaGpoTjQ2U2JmLTJoM042UElx?oc=5",
-      "source": "조선일보",
+      "title": "AI Era Requires Continuous Tax and Finance Transformation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWJRTEcxNDQ5NzJ2R2lfNXVrZkNtQlJWTUQ1UkRRS1J4OUhvS2NIZUQ5cHBxSzBQWm5wSExmRkE5aU5zbnRua2lDX3liMGIwUUppRXdWclVySDBFSG4wTzNJWDdWb2FOMDRRcENIcDFXemlEQkl4ZzN3ajVRQ3hCWjFDSUtaZFBQX2tuVjFxdWtGMElDSWFfSGhXcmo5TExiamVQSVNjeWRQcnFDY0h2UVNkOXZTS3c?oc=5",
+      "source": "news.bloombergtax.com",
       "published": "2026-02-09",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnhDWURsNjJDZWFmeWdsV3ItOVhNLTRPWUFrRjNzMFBVWGFnMFB2Y19nN3M1b0dFRGVLWXJjZmdmOGFfNEtueWRVYlliT2lPSFJUSWViVU1HazYyTW5tX3NhTkJWR3JUWkV1dzFyWm9Cc20tdHpDaGpoTjQ2U2JmLTJoM042UElx?oc=5\" target=\"_blank\">Startups Line Up IPOs Amid Heated Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWJRTEcxNDQ5NzJ2R2lfNXVrZkNtQlJWTUQ1UkRRS1J4OUhvS2NIZUQ5cHBxSzBQWm5wSExmRkE5aU5zbnRua2lDX3liMGIwUUppRXdWclVySDBFSG4wTzNJWDdWb2FOMDRRcENIcDFXemlEQkl4ZzN3ajVRQ3hCWjFDSUtaZFBQX2tuVjFxdWtGMElDSWFfSGhXcmo5TExiamVQSVNjeWRQcnFDY0h2UVNkOXZTS3c?oc=5\" target=\"_blank\">AI Era Requires Continuous Tax and Finance Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.bloombergtax.com</font>",
       "lang": "en",
-      "title_zh": "初创企业排队上市，炽热市场情绪推高IPO进程",
-      "ai_summary": "在流动性充裕与风险偏好回升的推动下，多家成长型初创企业加快IPO进程，集中筹备上市。报道强调，估值提升与发行窗口期打开令一级、二级市场互动升温，但也带来定价泡沫风险，投资者需关注盈利质量与锁定期后抛压。"
+      "title_zh": "AI时代要求税务与财务实现持续变革",
+      "ai_summary": "文章指出，生成式AI正在重塑企业税务与财务职能，从合规申报到战略决策都需数字化与智能化升级。企业必须持续投资数据基础设施、自动化与人才培训，重构税务流程和组织架构，以提升合规效率、风险管控和业务洞察，否则将在AI驱动的竞争中落后。"
+    },
+    {
+      "title": "ING: Turning AI Pilots Into Production",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVXZwZTBvc0FGSjY0R2VET09Vb0JxNE1iZmhQcHdpYUw3azEyN2JoQjlmbUZob1dKaG9uNTJ3VlVKTVVVX0d4aUhQY1I2dHZzWGdjZmh6Rk5Jb1lwNHdTUDloSnNtMVdVSzVXOVVvZTUzTVFtNWVZ?oc=5",
+      "source": "FF News | Fintech Finance",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVXZwZTBvc0FGSjY0R2VET09Vb0JxNE1iZmhQcHdpYUw3azEyN2JoQjlmbUZob1dKaG9uNTJ3VlVKTVVVX0d4aUhQY1I2dHZzWGdjZmh6Rk5Jb1lwNHdTUDloSnNtMVdVSzVXOVVvZTUzTVFtNWVZ?oc=5\" target=\"_blank\">ING: Turning AI Pilots Into Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FF News | Fintech Finance</font>",
+      "lang": "en",
+      "title_zh": "荷兰国际集团：将AI试点转化为生产力应用",
+      "ai_summary": "报道以ING为例，介绍其如何把众多AI试点项目落地到生产环境，实现风控、客户服务和运营效率的规模化优化。关键在于统一数据与技术平台、建立清晰的治理与合规框架，并让业务与技术团队协同迭代，从“玩概念”转向可衡量的业务价值。"
+    },
+    {
+      "title": "BoostenX Launches \"Velocity Revenue Engine(TM)\": The AI Growth Architecture for Fintech, Luxury, Green Infrastructure, and SaaS Enterprises",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUlBSVpSVWpscFNPd0k2VDhBRDdqUUgxNWx6dDlDeDVXNmNOelp2VnZmaGswbkVDNGJhb3pkclM3N2FLSE5EVld0U3lmeHhTNlBwMTN4VEhDZDBGdFNwX2ZBUjFDR1EzQTBfckJNamViUTJYaU9pY1BnNXlrMWdQR25CaGlERXZkR1lNQ2RKNE9Jb3htLXpuWTYtUGFoUXgyeE1FV05IRjhNbnZLZ0xrNFRvNkFSdw?oc=5",
+      "source": "Digital Journal",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUlBSVpSVWpscFNPd0k2VDhBRDdqUUgxNWx6dDlDeDVXNmNOelp2VnZmaGswbkVDNGJhb3pkclM3N2FLSE5EVld0U3lmeHhTNlBwMTN4VEhDZDBGdFNwX2ZBUjFDR1EzQTBfckJNamViUTJYaU9pY1BnNXlrMWdQR25CaGlERXZkR1lNQ2RKNE9Jb3htLXpuWTYtUGFoUXgyeE1FV05IRjhNbnZLZ0xrNFRvNkFSdw?oc=5\" target=\"_blank\">BoostenX Launches \"Velocity Revenue Engine(TM)\": The AI Growth Architecture for Fintech, Luxury, Green Infrastructure, and SaaS Enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
+      "lang": "en",
+      "title_zh": "BoostenX推出“Velocity Revenue Engine™”：面向金融科技、奢侈品、绿色基础设施和SaaS企业的AI增长架构",
+      "ai_summary": "BoostenX发布Velocity Revenue Engine，这是一套面向金融科技、奢侈品、绿色基建和SaaS企业的AI增长架构，旨在通过数据驱动的定价、营销与销售自动化提升收入转化效率。方案强调以可复用的“增长引擎”替代零散工具，为企业提供端到端的AI商业化能力。"
+    },
+    {
+      "title": "AI reshapes how accounting firms operate",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW54aXd4WXAxTUVXU1RTdjRYbldyLW1tM0wtald5RUJtZWtCX3hXREhSSkVoZUc5NDQ5UTBiQWN1QU0xeHRudVNuMzgyOW9PZk9KMXVYQTJybUc5dHl0TWVKUWtkVkxyWE14dTNMNUxBNjBCS1oyU3JDdHN3bG1IajJvQUQ?oc=5",
+      "source": "Hartford Business Journal",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW54aXd4WXAxTUVXU1RTdjRYbldyLW1tM0wtald5RUJtZWtCX3hXREhSSkVoZUc5NDQ5UTBiQWN1QU0xeHRudVNuMzgyOW9PZk9KMXVYQTJybUc5dHl0TWVKUWtkVkxyWE14dTNMNUxBNjBCS1oyU3JDdHN3bG1IajJvQUQ?oc=5\" target=\"_blank\">AI reshapes how accounting firms operate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartford Business Journal</font>",
+      "lang": "en",
+      "title_zh": "AI重塑会计师事务所的运营方式",
+      "ai_summary": "文章展示AI在会计行业的渗透，包括自动化记账、智能审计、报税辅助与数据分析等，显著降低人工成本并提升准确率。与此同时，会计师事务所正从基础核算转向咨询与高价值服务，行业需要重构岗位技能和盈利模式，以适应AI驱动的运营变革。"
+    },
+    {
+      "title": "The Best Artificial Intelligence ETF to Invest $1,000 in Right Now",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBfRG5pLWJOaWJBb0JiRi1NMWhkOUd2R0NqcXpNS1hRRFlCUDh5c2ZXcEh0UTdIQm5iN0hlZWgyQ09pZV9oTnRtVlZJNEhyeDNNT3l5OG55M01mYzJoUXJaeGlPMkRyOWtJV2ZvTGxDdTNPRy1VWDFQQVd0VVJPY3hnRkRWaC1XaENpdEdR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBfRG5pLWJOaWJBb0JiRi1NMWhkOUd2R0NqcXpNS1hRRFlCUDh5c2ZXcEh0UTdIQm5iN0hlZWgyQ09pZV9oTnRtVlZJNEhyeDNNT3l5OG55M01mYzJoUXJaeGlPMkRyOWtJV2ZvTGxDdTNPRy1VWDFQQVd0VVJPY3hnRkRWaC1XaENpdEdR?oc=5\" target=\"_blank\">The Best Artificial Intelligence ETF to Invest $1,000 in Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en",
+      "title_zh": "现在投入1000美元的最佳人工智能ETF",
+      "ai_summary": "文章从估值、持仓构成与长期增长前景出发，筛选出当前性价比较高的一只AI主题ETF，适合作为约1000美元的小额长期配置标的。核心逻辑在于抓住AI基础设施、芯片与平台公司的中长期成长红利，同时通过ETF分散个股风险。"
     },
     {
       "title": "From AI investment to GDP growth: An ecosystem view",
@@ -21,48 +61,8 @@
       "published": "2026-02-09",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1EUmJyajFkQUV0REF0R01UeFVaQnpiaGp0SVR0N0JkQTBjX2NXWmtpTXJkclhYdzZRR1pOMWRSNml4R1Zabi1FcTlQVFgzV3VQMjRLNmdyMmNlVmw4bXBMSm9NRTBHVDlJZGRCV3N4T3doeUkwRnFtaUJ3?oc=5\" target=\"_blank\">From AI investment to GDP growth: An ecosystem view</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEPR</font>",
       "lang": "en",
-      "title_zh": "从AI投资到GDP增长：一种生态系统视角",
-      "ai_summary": "文章从宏观与产业生态角度分析AI投资如何转化为生产率提升与GDP增长，强调算力、数据、人才、制度等要素的协同。作者指出，仅有资本投入不足以驱动长期增长，需构建完备创新生态，避免AI投资过度集中、资源错配与收益不平衡。"
-    },
-    {
-      "title": "How to hedge a bubble, AI edition",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOci1ldUtlVklvQ05nS05IY1FEdktsLTdELU45djl5eWR3cmZWYnh5cWFYWTNaazctTnlVX3FtRlFyeXdQcDVpWWd0VHZmUGFTVTJDcFBoLW81cnA5c0p3NzE5LXdCeGlQZHh6U1VtTnJ6RlljQ2ZvQnFSVXhyc25kUzdOQTdueGd1Mk5ndHdhZ2gzVFlIMlE?oc=5",
-      "source": "The Economist",
-      "published": "2026-02-08",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOci1ldUtlVklvQ05nS05IY1FEdktsLTdELU45djl5eWR3cmZWYnh5cWFYWTNaazctTnlVX3FtRlFyeXdQcDVpWWd0VHZmUGFTVTJDcFBoLW81cnA5c0p3NzE5LXdCeGlQZHh6U1VtTnJ6RlljQ2ZvQnFSVXhyc25kUzdOQTdueGd1Mk5ndHdhZ2gzVFlIMlE?oc=5\" target=\"_blank\">How to hedge a bubble, AI edition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "lang": "en",
-      "title_zh": "如何对冲泡沫：AI版",
-      "ai_summary": "《经济学人》讨论当前AI相关资产可能存在泡沫，提出通过分散配置、期权、价值股对冲以及关注底层基础设施而非单一热门股等策略来管理风险。文章提醒投资者既要参与AI长期变革红利，又要警惕情绪驱动的估值过高带来的回撤。"
-    },
-    {
-      "title": "AI Fear Grips Wall Street as a New Stock Market Reality Sets In",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xd2N5eG1NV0huZGdnb2xaeWFyTU9EOGx2NjYwc1RXX2ZMOWVxcmFILTRsaGhlajJsbHF1eExWYk1CdERNMVY0Tm9xX1d5QkR0TVJBenNHNTRpWUFHRlZKdWhhRF9iRDg1dTlZM2NsU2VWYmxvY2ozM3Rrbw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-02-08",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9xd2N5eG1NV0huZGdnb2xaeWFyTU9EOGx2NjYwc1RXX2ZMOWVxcmFILTRsaGhlajJsbHF1eExWYk1CdERNMVY0Tm9xX1d5QkR0TVJBenNHNTRpWUFHRlZKdWhhRF9iRDg1dTlZM2NsU2VWYmxvY2ozM3Rrbw?oc=5\" target=\"_blank\">AI Fear Grips Wall Street as a New Stock Market Reality Sets In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "lang": "en",
-      "title_zh": "华尔街被AI恐慌笼罩：股市进入新的现实阶段",
-      "ai_summary": "报道称，AI主题带动的行情进入震荡期，市场开始重新评估科技巨头和芯片股的盈利可持续性，引发华尔街“AI恐慌”。资金在高估值AI龙头与传统价值板块之间重新配置，标志着市场从单边AI狂热转向对业绩兑现和利率环境更敏感的新阶段。"
-    },
-    {
-      "title": "Naver tops $9.1B in revenue, bets on AI agents and fintech monetization",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazNwR0dQTGUtOE9FSnpkakNOQ3I4dkxUQXUwVUhabGdYUC1ZV09WNkhadms5eWp2Z2N2Ymx3d0EyQjFaV3JyTUR2M2ZzOWVIX2Q5cWdLd2cxc2VnMFlfbHJpN1ZoVGhFQ3JNcWI0MEIySFFHc0xRaTdMUWlfZVkzTTZXeEw3cE1yVmJETktENFR3ZURiVXZZYkFyRVV0TG5VOWFBdVFhTVPSAa4BQVVfeXFMUGR0bjNmb0k2UDViR1I3cV9CNW05Qy1lTmlwMkx1NjJsdG52RzhmRlYtWkJCM0tpeHU3N2F2aWEtaGFiYzJ0WklGZ2N6Rk5KemlWWTMteGphYm1FUHVDemlZM014UFBTOWp3X3dZd0FETVRadUFDb1lDYjJUQl9zeWRHOGFoZkhMa2tyQ2k4dVJlWERHWktJVkh3X00yaUg1Z0k2a1ZFbmd6bVIwV01n?oc=5",
-      "source": "upi.com",
-      "published": "2026-02-07",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazNwR0dQTGUtOE9FSnpkakNOQ3I4dkxUQXUwVUhabGdYUC1ZV09WNkhadms5eWp2Z2N2Ymx3d0EyQjFaV3JyTUR2M2ZzOWVIX2Q5cWdLd2cxc2VnMFlfbHJpN1ZoVGhFQ3JNcWI0MEIySFFHc0xRaTdMUWlfZVkzTTZXeEw3cE1yVmJETktENFR3ZURiVXZZYkFyRVV0TG5VOWFBdVFhTVPSAa4BQVVfeXFMUGR0bjNmb0k2UDViR1I3cV9CNW05Qy1lTmlwMkx1NjJsdG52RzhmRlYtWkJCM0tpeHU3N2F2aWEtaGFiYzJ0WklGZ2N6Rk5KemlWWTMteGphYm1FUHVDemlZM014UFBTOWp3X3dZd0FETVRadUFDb1lDYjJUQl9zeWRHOGFoZkhMa2tyQ2k4dVJlWERHWktJVkh3X00yaUg1Z0k2a1ZFbmd6bVIwV01n?oc=5\" target=\"_blank\">Naver tops $9.1B in revenue, bets on AI agents and fintech monetization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
-      "lang": "en",
-      "title_zh": "Naver营收突破91亿美元，押注AI智能体与金融科技变现",
-      "ai_summary": "Naver公布营收突破91亿美元，业绩增长主要来自广告、内容与金融科技业务。公司将重点投资AI Agent、搜索与自动化服务，并通过支付、理财等金融科技场景加速商业化。报道认为，Naver正尝试用AI驱动平台整体变现能力提升，对韩系科技股估值形成支撑。"
-    },
-    {
-      "title": "From go-live to always-live: How agentic AI is rewriting the finance transformation playbook",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGlWVTAzQUJVcGtNVVlRWmx5akVWNUpxMWt2c1NUN2FVUUZUc3NIcDE3d0dieHc5VkNjYVFla3NqRjYxUnluQXBILXQzTVhSRlJyODBsT1BtS0hkYXFUOWdJQXB3cEpqd1A1dERhd2lxMi0tX0gyRWxXSWNVanotTnpsdGJHNm9BZmsyeWhZUjVkX1NhQno5b0pSSHhTMTJiQ2I3YURId3FsZkJza2paa1U1YU1xR1hMMXhkWmRleDZZS0E4TjVjWlhFUjA?oc=5",
-      "source": "cio.com",
-      "published": "2026-02-06",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGlWVTAzQUJVcGtNVVlRWmx5akVWNUpxMWt2c1NUN2FVUUZUc3NIcDE3d0dieHc5VkNjYVFla3NqRjYxUnluQXBILXQzTVhSRlJyODBsT1BtS0hkYXFUOWdJQXB3cEpqd1A1dERhd2lxMi0tX0gyRWxXSWNVanotTnpsdGJHNm9BZmsyeWhZUjVkX1NhQno5b0pSSHhTMTJiQ2I3YURId3FsZkJza2paa1U1YU1xR1hMMXhkWmRleDZZS0E4TjVjWlhFUjA?oc=5\" target=\"_blank\">From go-live to always-live: How agentic AI is rewriting the finance transformation playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cio.com</font>",
-      "lang": "en",
-      "title_zh": "从一次性上线到持续“在线”：Agentic AI如何重写金融转型打法",
-      "ai_summary": "文章讨论具备自主决策与持续运行特性的Agentic AI，如何把金融机构的项目式“上线”转变为实时迭代的“永远在线”运营模式。在财务、风险管理和客户服务等场景中，引入智能代理可自动执行任务、优化流程，但同时带来治理、审计和监管的新要求。"
+      "title_zh": "从AI投资到GDP增长：一个生态系统视角",
+      "ai_summary": "CEPR文章从宏观与产业生态角度分析：AI投资要转化为GDP增长，不仅依赖算力与算法，还需要数据要素流动、人才、监管以及配套基础设施协同发展。作者强调，政策应从“单点补贴技术”转向构建完整AI创新与应用生态，以提升全要素生产率。"
     },
     {
       "title": "AI Is Only Scratching the Surface of How We Work",
@@ -71,8 +71,8 @@
       "published": "2026-02-06",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTJRT2JORWM3emxkM3ExdkJaQl9id2lQV3RZanBZcGU3aFVtMzFVcDk3ZUVtMFQ5QVlQQnRQMno2OXdyMzNBUnlza0VvYjJfdzJ2dkZEUEhCenFaYWNLT1VVekplMGlrNjRhTGZ2VzhTd2hxUEsxcHo4WmRzVU1Hc05vbmxNN0dCMWpMTEVkbnljOGNLeHRpSFhaMkI2SDg?oc=5\" target=\"_blank\">AI Is Only Scratching the Surface of How We Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Weekly</font>",
       "lang": "en",
-      "title_zh": "AI对工作方式的改变才刚刚开始",
-      "ai_summary": "FinTech Weekly指出，当前AI在办公自动化、代码生成和数据分析中的应用仍是“冰山一角”。未来，AI将在决策支持、业务流程再造和跨团队协作中扮演更核心角色，推动组织结构与技能需求重塑，金融与科技从业者需尽快完成能力升级。"
+      "title_zh": "AI对我们的工作方式改变才刚刚开始",
+      "ai_summary": "文章认为，当前AI在办公自动化、代码生成和内容创作上的应用仍处早期，更多深层次的流程重构与商业模式创新尚未展开。未来，AI预计将重塑协作方式、岗位结构和生产率边界，企业与个人需要尽早布局技能提升和流程再设计。"
     },
     {
       "title": "Why banking becomes harder with AI",
@@ -81,8 +81,8 @@
       "published": "2026-02-06",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3FPWUZraXZRMy1HejlZaEhBZHA2d2RhZWlMNzk5SzQ5eTJmakxIZWJBREFEVEtJU1JiclZLdU5fNHhMOV96X3VHZWFGTGlMWjh5Z2UtclRqd0dVdU9yOHVzTVhwVHFoUXYwdFAtQlYzMnFmQzdFZGtzRmNDMnBWNnZSUHRLdw?oc=5\" target=\"_blank\">Why banking becomes harder with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
       "lang": "en",
-      "title_zh": "为什么有了AI，银行业反而更难做了",
-      "ai_summary": "FinTech Futures指出，AI虽能提升效率和个性化服务，但也加剧了银行业竞争与合规复杂度。传统银行面临科技投入压力、人才短缺以及与科技巨头、金融科技公司争夺客户的挑战，同时监管对模型风险、偏见与可解释性提出更高要求。"
+      "title_zh": "为什么有了AI，银行业务反而更难做了",
+      "ai_summary": "FinTech Futures指出，AI虽能提升效率和客户体验，却给银行带来数据质量、模型透明度、伦理与合规等新挑战。银行需要在创新与监管之间取得平衡，投入更多资源在模型治理、解释性和安全防护上，使AI真正成为合规可控的生产力，而非新的风险源。"
     },
     {
       "title": "Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout",
@@ -91,20 +91,20 @@
       "published": "2026-02-04",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5\" target=\"_blank\">Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
       "lang": "en",
-      "title_zh": "金融科技快讯：Opto延揽CAIS老将负责AI尽调工具落地",
-      "ai_summary": "InvestmentNews报道，财富管理平台Opto聘请前CAIS高管，主导其AI驱动的投资尽调工具推出与推广。该工具旨在提升对另类与组合产品的分析效率和合规审查质量，体现资产管理行业正积极用AI改造投研和合规流程，以增强机构服务能力。"
+      "title_zh": "金融科技速递：Opto聘请CAIS资深人士负责AI尽调工具落地",
+      "ai_summary": "报道提到，财富科技平台Opto邀请前CAIS高管负责AI尽职调查工具的部署和业务拓展，旨在利用AI提升对另类投资产品的分析效率与合规审查质量。此举反映出资产管理与财富管理机构正在加速用AI改造尽调流程，以降低成本并提高透明度。"
     }
   ],
   "zh_news": [
     {
       "title": "市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQk9aVFIzM3BnaDdkQUdpMHZlRHFmVmlCQkttUEdtUV9SVmNySEJHSURkdlM0cFdZSXd5Zmp1T0lsTzhfMllMdzNKaXNUZEs5a3Zxa2JGMklWTlZqMFFlRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RLVdyWVRzQllWZXZqTXJycnFTNzNSVHNWby1hMkJOVHBZTWJPdkFoNzZ6YUIydXhhQ29Ucm5NRWVEbUZoOXR3Q0pUM1VEYkNYejY4dVlkal9XWlRlbUZ0NA?oc=5",
       "source": "证券之星",
       "published": "2026-02-09",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQk9aVFIzM3BnaDdkQUdpMHZlRHFmVmlCQkttUEdtUV9SVmNySEJHSURkdlM0cFdZSXd5Zmp1T0lsTzhfMllMdzNKaXNUZEs5a3Zxa2JGMklWTlZqMFFlRQ?oc=5\" target=\"_blank\">市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RLVdyWVRzQllWZXZqTXJycnFTNzNSVHNWby1hMkJOVHBZTWJPdkFoNzZ6YUIydXhhQ29Ucm5NRWVEbUZoOXR3Q0pUM1VEYkNYejY4dVlkal9XWlRlbUZ0NA?oc=5\" target=\"_blank\">市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
       "lang": "zh",
       "title_zh": "市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）",
-      "ai_summary": "报道指出，AIGC 等市场AI创新正在重塑国内SaaS生态，有望缩小与海外厂商在产品形态和商业模式上的差距。文中建议投资者关注受益于AI和金融数字化趋势的金融科技ETF兴业（563570.SH），作为布局国产金融IT与云服务赛道的工具。"
+      "ai_summary": "报道认为，国内在大模型、行业AI解决方案上的创新，将加速企业上云与SaaS渗透率提升，推动本土SaaS生态追赶海外。文中重点提示可关注金融科技ETF兴业（563570.SH），其受益于金融IT国产替代与AI应用落地，有望获得估值与业绩双重修复。"
     },
     {
       "title": "AI入口争夺战打响，金融科技ETF易方达涨2.28%",
@@ -114,7 +114,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1Y2Qkt4cXphODV4YXViNVRMZ2lGejFrQTE4WkI4YXdYaE1aRW5PTEt3RUstaU04RWZDcGRWR2tULWdVMVFGY0YwaGwxNldoT2ZNY0pqSUl4d2d6Wmx6T3Q1T3h5R3B1ajU2c2hmeUdJUEJCS3BXUlhFUW9ZZWtjZ1U4cHdDTnBxNlk0?oc=5\" target=\"_blank\">AI入口争夺战打响，金融科技ETF易方达涨2.28%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
       "lang": "zh",
       "title_zh": "AI入口争夺战打响，金融科技ETF易方达涨2.28%",
-      "ai_summary": "随着大模型和AI助手加速落地，互联网和金融机构围绕“AI入口”展开竞争，相关概念股和基金走强。易方达金融科技ETF单日上涨2.28%，反映资金看好AI在金融场景中的应用前景，以及金融IT、支付与数据服务等细分赛道的中长期机会。"
+      "ai_summary": "文章指出，围绕AI搜索、终端、应用平台等“入口”的竞争升温，带动相关科技与金融科技板块走强，其中金融科技ETF易方达当日上涨2.28%。资金预期AI将在支付、信贷风控与财富管理等场景加速落地，相关ETF成为配置AI+金融赛道的便捷工具。"
     },
     {
       "title": "【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估",
@@ -124,7 +124,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM2hoRl9EWm1EM1pDUFpaU2otOXBwSFdWZGxnMGtTYkl0cE11cE41c1BNVFR2Wk1lRGlQQkJYOUlSei1iSUdpNUNabDJLWGdvNFY2R0VpcDVHc3NDV3NtbDdLanVIQzgtN1U2T1M5a3JMb0hmcS05MWpWX0xtcWtwRC1ueHkwek1IV0lmSG1JUnZrcHhQQ3FDVThIbEc2MFlFcG5Qc0taNVRLVDl5aGdTU3NWb0pBSmYxRU9McEFQdnFEZ0VidFIwamdpUkFiM29lN29EbmVwRUQ5T08wVVNLZThBLXdKWXRQWnJYbVVqakdGTlFsT01JWnpwalZ6WVE?oc=5\" target=\"_blank\">【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "lang": "zh",
       "title_zh": "【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估",
-      "ai_summary": "文章指出，数字人民币试点和基础设施建设持续加速，将带动支付清算、账户体系、风控合规等金融科技需求释放。在AI与央行数字货币结合的背景下，金融IT服务商、银行科技子公司等有望迎来估值重估，相关AI金融指数和主题产品值得关注。"
+      "ai_summary": "文章指出，数字人民币试点与基础设施建设持续加速，将带动支付清算、钱包技术、安全风控等金融科技需求上升。随着应用场景拓展和数据价值释放，相关金融科技企业的盈利模式与估值体系有望重塑，AI指数及相关主题或迎来中长期配置窗口。"
     },
     {
       "title": "AlphaAI获得战略资金以支持AI金融基础设施发展",
@@ -134,7 +134,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOHdXM1hkaVhBWV9aQUZ2QkQ5czVjaW5NeDF5NjZRLVhuVVdyZlJzNEJRRmNQcHF5WE00SnBVcmpCZFhIb0lPWjNrMkI5Mm5RTlNCT2wwd2l3LTFxTDRKajBfbldLdGdmZFpRQ0hwcGZCVjR0dVdXLVpJZkVJNFJUcDZscVdBSjZPa01fRjdTWDZKa040R2FveGUtcXRpNEtnRzBZWVVoMFFzam1PUTNycmhfdFlsY1BwWXRhU1JIbnFEbC1yT192blVfWVJTV1ZmMVdId09BQUhvWkxUVzM1ZktNMXZLd2tFVk52RzJfZUl0Zw?oc=5\" target=\"_blank\">AlphaAI获得战略资金以支持AI金融基础设施发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "lang": "zh",
       "title_zh": "AlphaAI获得战略资金以支持AI金融基础设施发展",
-      "ai_summary": "AlphaAI宣布获得战略投资，资金将用于构建面向机构和开发者的AI金融基础设施，包括数据处理、风控建模与智能交易等能力开放。该轮融资体现资本对AI赋能金融市场基础设施的看好，有望加速算法服务标准化和合规化进程。"
+      "ai_summary": "AlphaAI宣布获得战略融资，用于建设面向加密及传统金融的AI基础设施，如智能风控、量化交易与市场监控系统。资金将用于技术研发、算力扩容和生态合作，旨在降低机构使用AI的门槛，提升金融市场的效率与安全性。"
     },
     {
       "title": "人工智能+金融：打造数字化转型新引擎",
@@ -144,7 +144,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hd3EwMlpobU5iam1CVmZUMUdLb2l0UDhxSHFBT3JrSGlGV3hZNWd6ZHQ3aC03NUI3Y3hxMnVxX2ZHeDZONWR1c2UxQTZYSmEyX2NmaFczMktaSnkxYkc1cENzU1B6WkpqSEhB?oc=5\" target=\"_blank\">人工智能+金融：打造数字化转型新引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财经号</font>",
       "lang": "zh",
       "title_zh": "人工智能+金融：打造数字化转型新引擎",
-      "ai_summary": "文章系统阐述AI在风控、营销、投顾、运营等金融场景的应用，认为人工智能已成为金融机构数字化转型的核心引擎。通过大模型、知识图谱和智能风控，银行与券商可提升效率与服务体验，但需同步强化数据安全、算法透明和合规管理。"
+      "ai_summary": "文章系统梳理AI在银行、保险、证券等领域的应用，包括智能风控、精准营销、智能投顾与运营自动化等。作者认为，AI已从辅助工具上升为金融机构数字化转型的核心引擎，能显著提升风控能力与服务效率，但也需要同步强化数据治理与监管合规。"
     },
     {
       "title": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
@@ -154,19 +154,69 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5\" target=\"_blank\">兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "lang": "zh",
       "title_zh": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
-      "ai_summary": "兴业银行CIO唐家才表示，AI应用已从简单辅助工具上升为驱动业务创新和流程再造的核心引擎。兴业正通过大模型、智能风控和运营自动化重构IT架构与业务流程，以提升获客、风控与服务能力，同时探索更深层的数据治理和模型安全机制。"
+      "ai_summary": "兴业银行CIO唐家才表示，AI正从简单的办公助手升级为驱动银行业务重构的核心引擎，深入风控、运营、营销与产品创新全流程。兴业银行正加大在数据中台、大模型和场景化应用上的投入，通过“AI+金融”实现服务效率提升与精细化风险管理。"
     }
   ],
   "all_news": [
     {
+      "title": "AI Era Requires Continuous Tax and Finance Transformation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWJRTEcxNDQ5NzJ2R2lfNXVrZkNtQlJWTUQ1UkRRS1J4OUhvS2NIZUQ5cHBxSzBQWm5wSExmRkE5aU5zbnRua2lDX3liMGIwUUppRXdWclVySDBFSG4wTzNJWDdWb2FOMDRRcENIcDFXemlEQkl4ZzN3ajVRQ3hCWjFDSUtaZFBQX2tuVjFxdWtGMElDSWFfSGhXcmo5TExiamVQSVNjeWRQcnFDY0h2UVNkOXZTS3c?oc=5",
+      "source": "news.bloombergtax.com",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWJRTEcxNDQ5NzJ2R2lfNXVrZkNtQlJWTUQ1UkRRS1J4OUhvS2NIZUQ5cHBxSzBQWm5wSExmRkE5aU5zbnRua2lDX3liMGIwUUppRXdWclVySDBFSG4wTzNJWDdWb2FOMDRRcENIcDFXemlEQkl4ZzN3ajVRQ3hCWjFDSUtaZFBQX2tuVjFxdWtGMElDSWFfSGhXcmo5TExiamVQSVNjeWRQcnFDY0h2UVNkOXZTS3c?oc=5\" target=\"_blank\">AI Era Requires Continuous Tax and Finance Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.bloombergtax.com</font>",
+      "lang": "en",
+      "title_zh": "AI时代要求税务与财务实现持续变革",
+      "ai_summary": "文章指出，生成式AI正在重塑企业税务与财务职能，从合规申报到战略决策都需数字化与智能化升级。企业必须持续投资数据基础设施、自动化与人才培训，重构税务流程和组织架构，以提升合规效率、风险管控和业务洞察，否则将在AI驱动的竞争中落后。"
+    },
+    {
+      "title": "ING: Turning AI Pilots Into Production",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVXZwZTBvc0FGSjY0R2VET09Vb0JxNE1iZmhQcHdpYUw3azEyN2JoQjlmbUZob1dKaG9uNTJ3VlVKTVVVX0d4aUhQY1I2dHZzWGdjZmh6Rk5Jb1lwNHdTUDloSnNtMVdVSzVXOVVvZTUzTVFtNWVZ?oc=5",
+      "source": "FF News | Fintech Finance",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVXZwZTBvc0FGSjY0R2VET09Vb0JxNE1iZmhQcHdpYUw3azEyN2JoQjlmbUZob1dKaG9uNTJ3VlVKTVVVX0d4aUhQY1I2dHZzWGdjZmh6Rk5Jb1lwNHdTUDloSnNtMVdVSzVXOVVvZTUzTVFtNWVZ?oc=5\" target=\"_blank\">ING: Turning AI Pilots Into Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FF News | Fintech Finance</font>",
+      "lang": "en",
+      "title_zh": "荷兰国际集团：将AI试点转化为生产力应用",
+      "ai_summary": "报道以ING为例，介绍其如何把众多AI试点项目落地到生产环境，实现风控、客户服务和运营效率的规模化优化。关键在于统一数据与技术平台、建立清晰的治理与合规框架，并让业务与技术团队协同迭代，从“玩概念”转向可衡量的业务价值。"
+    },
+    {
+      "title": "BoostenX Launches \"Velocity Revenue Engine(TM)\": The AI Growth Architecture for Fintech, Luxury, Green Infrastructure, and SaaS Enterprises",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUlBSVpSVWpscFNPd0k2VDhBRDdqUUgxNWx6dDlDeDVXNmNOelp2VnZmaGswbkVDNGJhb3pkclM3N2FLSE5EVld0U3lmeHhTNlBwMTN4VEhDZDBGdFNwX2ZBUjFDR1EzQTBfckJNamViUTJYaU9pY1BnNXlrMWdQR25CaGlERXZkR1lNQ2RKNE9Jb3htLXpuWTYtUGFoUXgyeE1FV05IRjhNbnZLZ0xrNFRvNkFSdw?oc=5",
+      "source": "Digital Journal",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUlBSVpSVWpscFNPd0k2VDhBRDdqUUgxNWx6dDlDeDVXNmNOelp2VnZmaGswbkVDNGJhb3pkclM3N2FLSE5EVld0U3lmeHhTNlBwMTN4VEhDZDBGdFNwX2ZBUjFDR1EzQTBfckJNamViUTJYaU9pY1BnNXlrMWdQR25CaGlERXZkR1lNQ2RKNE9Jb3htLXpuWTYtUGFoUXgyeE1FV05IRjhNbnZLZ0xrNFRvNkFSdw?oc=5\" target=\"_blank\">BoostenX Launches \"Velocity Revenue Engine(TM)\": The AI Growth Architecture for Fintech, Luxury, Green Infrastructure, and SaaS Enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
+      "lang": "en",
+      "title_zh": "BoostenX推出“Velocity Revenue Engine™”：面向金融科技、奢侈品、绿色基础设施和SaaS企业的AI增长架构",
+      "ai_summary": "BoostenX发布Velocity Revenue Engine，这是一套面向金融科技、奢侈品、绿色基建和SaaS企业的AI增长架构，旨在通过数据驱动的定价、营销与销售自动化提升收入转化效率。方案强调以可复用的“增长引擎”替代零散工具，为企业提供端到端的AI商业化能力。"
+    },
+    {
+      "title": "AI reshapes how accounting firms operate",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW54aXd4WXAxTUVXU1RTdjRYbldyLW1tM0wtald5RUJtZWtCX3hXREhSSkVoZUc5NDQ5UTBiQWN1QU0xeHRudVNuMzgyOW9PZk9KMXVYQTJybUc5dHl0TWVKUWtkVkxyWE14dTNMNUxBNjBCS1oyU3JDdHN3bG1IajJvQUQ?oc=5",
+      "source": "Hartford Business Journal",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW54aXd4WXAxTUVXU1RTdjRYbldyLW1tM0wtald5RUJtZWtCX3hXREhSSkVoZUc5NDQ5UTBiQWN1QU0xeHRudVNuMzgyOW9PZk9KMXVYQTJybUc5dHl0TWVKUWtkVkxyWE14dTNMNUxBNjBCS1oyU3JDdHN3bG1IajJvQUQ?oc=5\" target=\"_blank\">AI reshapes how accounting firms operate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartford Business Journal</font>",
+      "lang": "en",
+      "title_zh": "AI重塑会计师事务所的运营方式",
+      "ai_summary": "文章展示AI在会计行业的渗透，包括自动化记账、智能审计、报税辅助与数据分析等，显著降低人工成本并提升准确率。与此同时，会计师事务所正从基础核算转向咨询与高价值服务，行业需要重构岗位技能和盈利模式，以适应AI驱动的运营变革。"
+    },
+    {
+      "title": "The Best Artificial Intelligence ETF to Invest $1,000 in Right Now",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBfRG5pLWJOaWJBb0JiRi1NMWhkOUd2R0NqcXpNS1hRRFlCUDh5c2ZXcEh0UTdIQm5iN0hlZWgyQ09pZV9oTnRtVlZJNEhyeDNNT3l5OG55M01mYzJoUXJaeGlPMkRyOWtJV2ZvTGxDdTNPRy1VWDFQQVd0VVJPY3hnRkRWaC1XaENpdEdR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-02-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBfRG5pLWJOaWJBb0JiRi1NMWhkOUd2R0NqcXpNS1hRRFlCUDh5c2ZXcEh0UTdIQm5iN0hlZWgyQ09pZV9oTnRtVlZJNEhyeDNNT3l5OG55M01mYzJoUXJaeGlPMkRyOWtJV2ZvTGxDdTNPRy1VWDFQQVd0VVJPY3hnRkRWaC1XaENpdEdR?oc=5\" target=\"_blank\">The Best Artificial Intelligence ETF to Invest $1,000 in Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en",
+      "title_zh": "现在投入1000美元的最佳人工智能ETF",
+      "ai_summary": "文章从估值、持仓构成与长期增长前景出发，筛选出当前性价比较高的一只AI主题ETF，适合作为约1000美元的小额长期配置标的。核心逻辑在于抓住AI基础设施、芯片与平台公司的中长期成长红利，同时通过ETF分散个股风险。"
+    },
+    {
       "title": "市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQk9aVFIzM3BnaDdkQUdpMHZlRHFmVmlCQkttUEdtUV9SVmNySEJHSURkdlM0cFdZSXd5Zmp1T0lsTzhfMllMdzNKaXNUZEs5a3Zxa2JGMklWTlZqMFFlRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RLVdyWVRzQllWZXZqTXJycnFTNzNSVHNWby1hMkJOVHBZTWJPdkFoNzZ6YUIydXhhQ29Ucm5NRWVEbUZoOXR3Q0pUM1VEYkNYejY4dVlkal9XWlRlbUZ0NA?oc=5",
       "source": "证券之星",
       "published": "2026-02-09",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQk9aVFIzM3BnaDdkQUdpMHZlRHFmVmlCQkttUEdtUV9SVmNySEJHSURkdlM0cFdZSXd5Zmp1T0lsTzhfMllMdzNKaXNUZEs5a3Zxa2JGMklWTlZqMFFlRQ?oc=5\" target=\"_blank\">市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RLVdyWVRzQllWZXZqTXJycnFTNzNSVHNWby1hMkJOVHBZTWJPdkFoNzZ6YUIydXhhQ29Ucm5NRWVEbUZoOXR3Q0pUM1VEYkNYejY4dVlkal9XWlRlbUZ0NA?oc=5\" target=\"_blank\">市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
       "lang": "zh",
       "title_zh": "市场AI创新将驱动国内SaaS生态追赶海外，关注金融科技ETF兴业（563570.SH）",
-      "ai_summary": "报道指出，AIGC 等市场AI创新正在重塑国内SaaS生态，有望缩小与海外厂商在产品形态和商业模式上的差距。文中建议投资者关注受益于AI和金融数字化趋势的金融科技ETF兴业（563570.SH），作为布局国产金融IT与云服务赛道的工具。"
+      "ai_summary": "报道认为，国内在大模型、行业AI解决方案上的创新，将加速企业上云与SaaS渗透率提升，推动本土SaaS生态追赶海外。文中重点提示可关注金融科技ETF兴业（563570.SH），其受益于金融IT国产替代与AI应用落地，有望获得估值与业绩双重修复。"
     },
     {
       "title": "AI入口争夺战打响，金融科技ETF易方达涨2.28%",
@@ -176,17 +226,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1Y2Qkt4cXphODV4YXViNVRMZ2lGejFrQTE4WkI4YXdYaE1aRW5PTEt3RUstaU04RWZDcGRWR2tULWdVMVFGY0YwaGwxNldoT2ZNY0pqSUl4d2d6Wmx6T3Q1T3h5R3B1ajU2c2hmeUdJUEJCS3BXUlhFUW9ZZWtjZ1U4cHdDTnBxNlk0?oc=5\" target=\"_blank\">AI入口争夺战打响，金融科技ETF易方达涨2.28%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
       "lang": "zh",
       "title_zh": "AI入口争夺战打响，金融科技ETF易方达涨2.28%",
-      "ai_summary": "随着大模型和AI助手加速落地，互联网和金融机构围绕“AI入口”展开竞争，相关概念股和基金走强。易方达金融科技ETF单日上涨2.28%，反映资金看好AI在金融场景中的应用前景，以及金融IT、支付与数据服务等细分赛道的中长期机会。"
-    },
-    {
-      "title": "Startups Line Up IPOs Amid Heated Market",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnhDWURsNjJDZWFmeWdsV3ItOVhNLTRPWUFrRjNzMFBVWGFnMFB2Y19nN3M1b0dFRGVLWXJjZmdmOGFfNEtueWRVYlliT2lPSFJUSWViVU1HazYyTW5tX3NhTkJWR3JUWkV1dzFyWm9Cc20tdHpDaGpoTjQ2U2JmLTJoM042UElx?oc=5",
-      "source": "조선일보",
-      "published": "2026-02-09",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnhDWURsNjJDZWFmeWdsV3ItOVhNLTRPWUFrRjNzMFBVWGFnMFB2Y19nN3M1b0dFRGVLWXJjZmdmOGFfNEtueWRVYlliT2lPSFJUSWViVU1HazYyTW5tX3NhTkJWR3JUWkV1dzFyWm9Cc20tdHpDaGpoTjQ2U2JmLTJoM042UElx?oc=5\" target=\"_blank\">Startups Line Up IPOs Amid Heated Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-      "lang": "en",
-      "title_zh": "初创企业排队上市，炽热市场情绪推高IPO进程",
-      "ai_summary": "在流动性充裕与风险偏好回升的推动下，多家成长型初创企业加快IPO进程，集中筹备上市。报道强调，估值提升与发行窗口期打开令一级、二级市场互动升温，但也带来定价泡沫风险，投资者需关注盈利质量与锁定期后抛压。"
+      "ai_summary": "文章指出，围绕AI搜索、终端、应用平台等“入口”的竞争升温，带动相关科技与金融科技板块走强，其中金融科技ETF易方达当日上涨2.28%。资金预期AI将在支付、信贷风控与财富管理等场景加速落地，相关ETF成为配置AI+金融赛道的便捷工具。"
     },
     {
       "title": "From AI investment to GDP growth: An ecosystem view",
@@ -195,28 +235,8 @@
       "published": "2026-02-09",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1EUmJyajFkQUV0REF0R01UeFVaQnpiaGp0SVR0N0JkQTBjX2NXWmtpTXJkclhYdzZRR1pOMWRSNml4R1Zabi1FcTlQVFgzV3VQMjRLNmdyMmNlVmw4bXBMSm9NRTBHVDlJZGRCV3N4T3doeUkwRnFtaUJ3?oc=5\" target=\"_blank\">From AI investment to GDP growth: An ecosystem view</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEPR</font>",
       "lang": "en",
-      "title_zh": "从AI投资到GDP增长：一种生态系统视角",
-      "ai_summary": "文章从宏观与产业生态角度分析AI投资如何转化为生产率提升与GDP增长，强调算力、数据、人才、制度等要素的协同。作者指出，仅有资本投入不足以驱动长期增长，需构建完备创新生态，避免AI投资过度集中、资源错配与收益不平衡。"
-    },
-    {
-      "title": "How to hedge a bubble, AI edition",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOci1ldUtlVklvQ05nS05IY1FEdktsLTdELU45djl5eWR3cmZWYnh5cWFYWTNaazctTnlVX3FtRlFyeXdQcDVpWWd0VHZmUGFTVTJDcFBoLW81cnA5c0p3NzE5LXdCeGlQZHh6U1VtTnJ6RlljQ2ZvQnFSVXhyc25kUzdOQTdueGd1Mk5ndHdhZ2gzVFlIMlE?oc=5",
-      "source": "The Economist",
-      "published": "2026-02-08",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOci1ldUtlVklvQ05nS05IY1FEdktsLTdELU45djl5eWR3cmZWYnh5cWFYWTNaazctTnlVX3FtRlFyeXdQcDVpWWd0VHZmUGFTVTJDcFBoLW81cnA5c0p3NzE5LXdCeGlQZHh6U1VtTnJ6RlljQ2ZvQnFSVXhyc25kUzdOQTdueGd1Mk5ndHdhZ2gzVFlIMlE?oc=5\" target=\"_blank\">How to hedge a bubble, AI edition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "lang": "en",
-      "title_zh": "如何对冲泡沫：AI版",
-      "ai_summary": "《经济学人》讨论当前AI相关资产可能存在泡沫，提出通过分散配置、期权、价值股对冲以及关注底层基础设施而非单一热门股等策略来管理风险。文章提醒投资者既要参与AI长期变革红利，又要警惕情绪驱动的估值过高带来的回撤。"
-    },
-    {
-      "title": "AI Fear Grips Wall Street as a New Stock Market Reality Sets In",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xd2N5eG1NV0huZGdnb2xaeWFyTU9EOGx2NjYwc1RXX2ZMOWVxcmFILTRsaGhlajJsbHF1eExWYk1CdERNMVY0Tm9xX1d5QkR0TVJBenNHNTRpWUFHRlZKdWhhRF9iRDg1dTlZM2NsU2VWYmxvY2ozM3Rrbw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-02-08",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9xd2N5eG1NV0huZGdnb2xaeWFyTU9EOGx2NjYwc1RXX2ZMOWVxcmFILTRsaGhlajJsbHF1eExWYk1CdERNMVY0Tm9xX1d5QkR0TVJBenNHNTRpWUFHRlZKdWhhRF9iRDg1dTlZM2NsU2VWYmxvY2ozM3Rrbw?oc=5\" target=\"_blank\">AI Fear Grips Wall Street as a New Stock Market Reality Sets In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "lang": "en",
-      "title_zh": "华尔街被AI恐慌笼罩：股市进入新的现实阶段",
-      "ai_summary": "报道称，AI主题带动的行情进入震荡期，市场开始重新评估科技巨头和芯片股的盈利可持续性，引发华尔街“AI恐慌”。资金在高估值AI龙头与传统价值板块之间重新配置，标志着市场从单边AI狂热转向对业绩兑现和利率环境更敏感的新阶段。"
+      "title_zh": "从AI投资到GDP增长：一个生态系统视角",
+      "ai_summary": "CEPR文章从宏观与产业生态角度分析：AI投资要转化为GDP增长，不仅依赖算力与算法，还需要数据要素流动、人才、监管以及配套基础设施协同发展。作者强调，政策应从“单点补贴技术”转向构建完整AI创新与应用生态，以提升全要素生产率。"
     },
     {
       "title": "【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估",
@@ -226,17 +246,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM2hoRl9EWm1EM1pDUFpaU2otOXBwSFdWZGxnMGtTYkl0cE11cE41c1BNVFR2Wk1lRGlQQkJYOUlSei1iSUdpNUNabDJLWGdvNFY2R0VpcDVHc3NDV3NtbDdLanVIQzgtN1U2T1M5a3JMb0hmcS05MWpWX0xtcWtwRC1ueHkwek1IV0lmSG1JUnZrcHhQQ3FDVThIbEc2MFlFcG5Qc0taNVRLVDl5aGdTU3NWb0pBSmYxRU9McEFQdnFEZ0VidFIwamdpUkFiM29lN29EbmVwRUQ5T08wVVNLZThBLXdKWXRQWnJYbVVqakdGTlFsT01JWnpwalZ6WVE?oc=5\" target=\"_blank\">【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "lang": "zh",
       "title_zh": "【AI指数谈】数字人民币进程加速，金融科技有望迎价值重估",
-      "ai_summary": "文章指出，数字人民币试点和基础设施建设持续加速，将带动支付清算、账户体系、风控合规等金融科技需求释放。在AI与央行数字货币结合的背景下，金融IT服务商、银行科技子公司等有望迎来估值重估，相关AI金融指数和主题产品值得关注。"
-    },
-    {
-      "title": "Naver tops $9.1B in revenue, bets on AI agents and fintech monetization",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazNwR0dQTGUtOE9FSnpkakNOQ3I4dkxUQXUwVUhabGdYUC1ZV09WNkhadms5eWp2Z2N2Ymx3d0EyQjFaV3JyTUR2M2ZzOWVIX2Q5cWdLd2cxc2VnMFlfbHJpN1ZoVGhFQ3JNcWI0MEIySFFHc0xRaTdMUWlfZVkzTTZXeEw3cE1yVmJETktENFR3ZURiVXZZYkFyRVV0TG5VOWFBdVFhTVPSAa4BQVVfeXFMUGR0bjNmb0k2UDViR1I3cV9CNW05Qy1lTmlwMkx1NjJsdG52RzhmRlYtWkJCM0tpeHU3N2F2aWEtaGFiYzJ0WklGZ2N6Rk5KemlWWTMteGphYm1FUHVDemlZM014UFBTOWp3X3dZd0FETVRadUFDb1lDYjJUQl9zeWRHOGFoZkhMa2tyQ2k4dVJlWERHWktJVkh3X00yaUg1Z0k2a1ZFbmd6bVIwV01n?oc=5",
-      "source": "upi.com",
-      "published": "2026-02-07",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazNwR0dQTGUtOE9FSnpkakNOQ3I4dkxUQXUwVUhabGdYUC1ZV09WNkhadms5eWp2Z2N2Ymx3d0EyQjFaV3JyTUR2M2ZzOWVIX2Q5cWdLd2cxc2VnMFlfbHJpN1ZoVGhFQ3JNcWI0MEIySFFHc0xRaTdMUWlfZVkzTTZXeEw3cE1yVmJETktENFR3ZURiVXZZYkFyRVV0TG5VOWFBdVFhTVPSAa4BQVVfeXFMUGR0bjNmb0k2UDViR1I3cV9CNW05Qy1lTmlwMkx1NjJsdG52RzhmRlYtWkJCM0tpeHU3N2F2aWEtaGFiYzJ0WklGZ2N6Rk5KemlWWTMteGphYm1FUHVDemlZM014UFBTOWp3X3dZd0FETVRadUFDb1lDYjJUQl9zeWRHOGFoZkhMa2tyQ2k4dVJlWERHWktJVkh3X00yaUg1Z0k2a1ZFbmd6bVIwV01n?oc=5\" target=\"_blank\">Naver tops $9.1B in revenue, bets on AI agents and fintech monetization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
-      "lang": "en",
-      "title_zh": "Naver营收突破91亿美元，押注AI智能体与金融科技变现",
-      "ai_summary": "Naver公布营收突破91亿美元，业绩增长主要来自广告、内容与金融科技业务。公司将重点投资AI Agent、搜索与自动化服务，并通过支付、理财等金融科技场景加速商业化。报道认为，Naver正尝试用AI驱动平台整体变现能力提升，对韩系科技股估值形成支撑。"
+      "ai_summary": "文章指出，数字人民币试点与基础设施建设持续加速，将带动支付清算、钱包技术、安全风控等金融科技需求上升。随着应用场景拓展和数据价值释放，相关金融科技企业的盈利模式与估值体系有望重塑，AI指数及相关主题或迎来中长期配置窗口。"
     },
     {
       "title": "AlphaAI获得战略资金以支持AI金融基础设施发展",
@@ -246,17 +256,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOHdXM1hkaVhBWV9aQUZ2QkQ5czVjaW5NeDF5NjZRLVhuVVdyZlJzNEJRRmNQcHF5WE00SnBVcmpCZFhIb0lPWjNrMkI5Mm5RTlNCT2wwd2l3LTFxTDRKajBfbldLdGdmZFpRQ0hwcGZCVjR0dVdXLVpJZkVJNFJUcDZscVdBSjZPa01fRjdTWDZKa040R2FveGUtcXRpNEtnRzBZWVVoMFFzam1PUTNycmhfdFlsY1BwWXRhU1JIbnFEbC1yT192blVfWVJTV1ZmMVdId09BQUhvWkxUVzM1ZktNMXZLd2tFVk52RzJfZUl0Zw?oc=5\" target=\"_blank\">AlphaAI获得战略资金以支持AI金融基础设施发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "lang": "zh",
       "title_zh": "AlphaAI获得战略资金以支持AI金融基础设施发展",
-      "ai_summary": "AlphaAI宣布获得战略投资，资金将用于构建面向机构和开发者的AI金融基础设施，包括数据处理、风控建模与智能交易等能力开放。该轮融资体现资本对AI赋能金融市场基础设施的看好，有望加速算法服务标准化和合规化进程。"
-    },
-    {
-      "title": "From go-live to always-live: How agentic AI is rewriting the finance transformation playbook",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGlWVTAzQUJVcGtNVVlRWmx5akVWNUpxMWt2c1NUN2FVUUZUc3NIcDE3d0dieHc5VkNjYVFla3NqRjYxUnluQXBILXQzTVhSRlJyODBsT1BtS0hkYXFUOWdJQXB3cEpqd1A1dERhd2lxMi0tX0gyRWxXSWNVanotTnpsdGJHNm9BZmsyeWhZUjVkX1NhQno5b0pSSHhTMTJiQ2I3YURId3FsZkJza2paa1U1YU1xR1hMMXhkWmRleDZZS0E4TjVjWlhFUjA?oc=5",
-      "source": "cio.com",
-      "published": "2026-02-06",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGlWVTAzQUJVcGtNVVlRWmx5akVWNUpxMWt2c1NUN2FVUUZUc3NIcDE3d0dieHc5VkNjYVFla3NqRjYxUnluQXBILXQzTVhSRlJyODBsT1BtS0hkYXFUOWdJQXB3cEpqd1A1dERhd2lxMi0tX0gyRWxXSWNVanotTnpsdGJHNm9BZmsyeWhZUjVkX1NhQno5b0pSSHhTMTJiQ2I3YURId3FsZkJza2paa1U1YU1xR1hMMXhkWmRleDZZS0E4TjVjWlhFUjA?oc=5\" target=\"_blank\">From go-live to always-live: How agentic AI is rewriting the finance transformation playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cio.com</font>",
-      "lang": "en",
-      "title_zh": "从一次性上线到持续“在线”：Agentic AI如何重写金融转型打法",
-      "ai_summary": "文章讨论具备自主决策与持续运行特性的Agentic AI，如何把金融机构的项目式“上线”转变为实时迭代的“永远在线”运营模式。在财务、风险管理和客户服务等场景中，引入智能代理可自动执行任务、优化流程，但同时带来治理、审计和监管的新要求。"
+      "ai_summary": "AlphaAI宣布获得战略融资，用于建设面向加密及传统金融的AI基础设施，如智能风控、量化交易与市场监控系统。资金将用于技术研发、算力扩容和生态合作，旨在降低机构使用AI的门槛，提升金融市场的效率与安全性。"
     },
     {
       "title": "AI Is Only Scratching the Surface of How We Work",
@@ -265,8 +265,8 @@
       "published": "2026-02-06",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTJRT2JORWM3emxkM3ExdkJaQl9id2lQV3RZanBZcGU3aFVtMzFVcDk3ZUVtMFQ5QVlQQnRQMno2OXdyMzNBUnlza0VvYjJfdzJ2dkZEUEhCenFaYWNLT1VVekplMGlrNjRhTGZ2VzhTd2hxUEsxcHo4WmRzVU1Hc05vbmxNN0dCMWpMTEVkbnljOGNLeHRpSFhaMkI2SDg?oc=5\" target=\"_blank\">AI Is Only Scratching the Surface of How We Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Weekly</font>",
       "lang": "en",
-      "title_zh": "AI对工作方式的改变才刚刚开始",
-      "ai_summary": "FinTech Weekly指出，当前AI在办公自动化、代码生成和数据分析中的应用仍是“冰山一角”。未来，AI将在决策支持、业务流程再造和跨团队协作中扮演更核心角色，推动组织结构与技能需求重塑，金融与科技从业者需尽快完成能力升级。"
+      "title_zh": "AI对我们的工作方式改变才刚刚开始",
+      "ai_summary": "文章认为，当前AI在办公自动化、代码生成和内容创作上的应用仍处早期，更多深层次的流程重构与商业模式创新尚未展开。未来，AI预计将重塑协作方式、岗位结构和生产率边界，企业与个人需要尽早布局技能提升和流程再设计。"
     },
     {
       "title": "人工智能+金融：打造数字化转型新引擎",
@@ -276,7 +276,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hd3EwMlpobU5iam1CVmZUMUdLb2l0UDhxSHFBT3JrSGlGV3hZNWd6ZHQ3aC03NUI3Y3hxMnVxX2ZHeDZONWR1c2UxQTZYSmEyX2NmaFczMktaSnkxYkc1cENzU1B6WkpqSEhB?oc=5\" target=\"_blank\">人工智能+金融：打造数字化转型新引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财经号</font>",
       "lang": "zh",
       "title_zh": "人工智能+金融：打造数字化转型新引擎",
-      "ai_summary": "文章系统阐述AI在风控、营销、投顾、运营等金融场景的应用，认为人工智能已成为金融机构数字化转型的核心引擎。通过大模型、知识图谱和智能风控，银行与券商可提升效率与服务体验，但需同步强化数据安全、算法透明和合规管理。"
+      "ai_summary": "文章系统梳理AI在银行、保险、证券等领域的应用，包括智能风控、精准营销、智能投顾与运营自动化等。作者认为，AI已从辅助工具上升为金融机构数字化转型的核心引擎，能显著提升风控能力与服务效率，但也需要同步强化数据治理与监管合规。"
     },
     {
       "title": "Why banking becomes harder with AI",
@@ -285,8 +285,8 @@
       "published": "2026-02-06",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3FPWUZraXZRMy1HejlZaEhBZHA2d2RhZWlMNzk5SzQ5eTJmakxIZWJBREFEVEtJU1JiclZLdU5fNHhMOV96X3VHZWFGTGlMWjh5Z2UtclRqd0dVdU9yOHVzTVhwVHFoUXYwdFAtQlYzMnFmQzdFZGtzRmNDMnBWNnZSUHRLdw?oc=5\" target=\"_blank\">Why banking becomes harder with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
       "lang": "en",
-      "title_zh": "为什么有了AI，银行业反而更难做了",
-      "ai_summary": "FinTech Futures指出，AI虽能提升效率和个性化服务，但也加剧了银行业竞争与合规复杂度。传统银行面临科技投入压力、人才短缺以及与科技巨头、金融科技公司争夺客户的挑战，同时监管对模型风险、偏见与可解释性提出更高要求。"
+      "title_zh": "为什么有了AI，银行业务反而更难做了",
+      "ai_summary": "FinTech Futures指出，AI虽能提升效率和客户体验，却给银行带来数据质量、模型透明度、伦理与合规等新挑战。银行需要在创新与监管之间取得平衡，投入更多资源在模型治理、解释性和安全防护上，使AI真正成为合规可控的生产力，而非新的风险源。"
     },
     {
       "title": "Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout",
@@ -295,8 +295,8 @@
       "published": "2026-02-04",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZNcHVuQkFERWZwS2hraF9teVdwUWpaUkFnQnNrVHBCWnIwYi1rRjRpNEZIVy1BY1JYV2NwNjFMeEpvQmNLRC1MZGFpU3pMak1vSXBIVVVxTmVRcHBFTE1zLUU4RnUyVkZNSWZMODNLcUF1OG03eWVLN043MXpqNWJLUGEtMXJINkRkMEFrdTMwWjNHT1pDd2diNkZKVDlfVm5QZW1YMkhTa2JFWGNGLVdIckRmcHlieWdZ?oc=5\" target=\"_blank\">Fintech bytes: Opto taps CAIS veteran to oversee AI diligence tool rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
       "lang": "en",
-      "title_zh": "金融科技快讯：Opto延揽CAIS老将负责AI尽调工具落地",
-      "ai_summary": "InvestmentNews报道，财富管理平台Opto聘请前CAIS高管，主导其AI驱动的投资尽调工具推出与推广。该工具旨在提升对另类与组合产品的分析效率和合规审查质量，体现资产管理行业正积极用AI改造投研和合规流程，以增强机构服务能力。"
+      "title_zh": "金融科技速递：Opto聘请CAIS资深人士负责AI尽调工具落地",
+      "ai_summary": "报道提到，财富科技平台Opto邀请前CAIS高管负责AI尽职调查工具的部署和业务拓展，旨在利用AI提升对另类投资产品的分析效率与合规审查质量。此举反映出资产管理与财富管理机构正在加速用AI改造尽调流程，以降低成本并提高透明度。"
     },
     {
       "title": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
@@ -306,7 +306,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aX2dQOUJweTc2cEwyOHlFMHRLUml5MVdqYUowVVhEdVdGdWZvby1tbmt3RHhwVVpsdGpmcUVtc2kyMHNmUzdkdkxmRnVLeE5lbzlldkxNWTR0bHktUzVVQ2lJbXFwZw?oc=5\" target=\"_blank\">兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "lang": "zh",
       "title_zh": "兴业银行首席信息官唐家才：AI正在从助手角色升级为驱动引擎",
-      "ai_summary": "兴业银行CIO唐家才表示，AI应用已从简单辅助工具上升为驱动业务创新和流程再造的核心引擎。兴业正通过大模型、智能风控和运营自动化重构IT架构与业务流程，以提升获客、风控与服务能力，同时探索更深层的数据治理和模型安全机制。"
+      "ai_summary": "兴业银行CIO唐家才表示，AI正从简单的办公助手升级为驱动银行业务重构的核心引擎，深入风控、运营、营销与产品创新全流程。兴业银行正加大在数据中台、大模型和场景化应用上的投入，通过“AI+金融”实现服务效率提升与精细化风险管理。"
     }
   ]
 }

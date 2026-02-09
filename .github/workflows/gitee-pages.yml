@@ -1,0 +1,59 @@
+name: Mirror to Gitee Pages
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/gitee-pages.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Publish docs/ to Gitee branch
+        env:
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+          GITEE_PAGES_BRANCH: ${{ secrets.GITEE_PAGES_BRANCH }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${GITEE_USERNAME:-}" ] || [ -z "${GITEE_TOKEN:-}" ] || [ -z "${GITEE_REPO:-}" ]; then
+            echo "Missing secrets: GITEE_USERNAME / GITEE_TOKEN / GITEE_REPO" >&2
+            exit 1
+          fi
+
+          BRANCH="${GITEE_PAGES_BRANCH:-gh-pages}"
+          PUBLISH_DIR="docs"
+
+          if [ ! -d "$PUBLISH_DIR" ]; then
+            echo "No docs/ directory found to publish" >&2
+            exit 1
+          fi
+
+          rm -rf /tmp/gitee-pages
+          mkdir -p /tmp/gitee-pages
+          cp -R "$PUBLISH_DIR"/. /tmp/gitee-pages/
+          touch /tmp/gitee-pages/.nojekyll
+
+          cd /tmp/gitee-pages
+          git init
+          git checkout -b "$BRANCH"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Publish ${GITHUB_REPOSITORY}@${GITHUB_SHA}" || true
+
+          git remote add gitee "https://${GITEE_USERNAME}:${GITEE_TOKEN}@gitee.com/${GITEE_USERNAME}/${GITEE_REPO}.git"
+          git push -f gitee "$BRANCH:$BRANCH"

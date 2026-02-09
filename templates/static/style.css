@@ -10,6 +10,9 @@
     --border: rgba(0, 0, 0, 0.10);
     --shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
     --shadow-hover: 0 16px 40px rgba(0, 0, 0, 0.10);
+    --glass: rgba(255, 255, 255, 0.72);
+    --glass-strong: rgba(255, 255, 255, 0.86);
+    --glass-border: rgba(255, 255, 255, 0.55);
 }
 
 * {
@@ -20,11 +23,24 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    background: radial-gradient(1200px 600px at 10% -10%, rgba(255, 255, 255, 0.9), rgba(245, 245, 247, 0.0)),
-                radial-gradient(900px 500px at 90% 10%, rgba(219, 234, 254, 0.65), rgba(245, 245, 247, 0.0)),
+    background: radial-gradient(1100px 600px at 10% -10%, rgba(255, 255, 255, 0.95), rgba(245, 245, 247, 0.0)),
+                radial-gradient(900px 520px at 90% 12%, rgba(219, 234, 254, 0.72), rgba(245, 245, 247, 0.0)),
+                radial-gradient(900px 520px at 60% 120%, rgba(226, 232, 240, 0.65), rgba(245, 245, 247, 0.0)),
                 var(--bg);
     color: var(--text);
     line-height: 1.6;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background:
+        radial-gradient(circle at 20% 10%, rgba(0, 113, 227, 0.06), transparent 55%),
+        radial-gradient(circle at 80% 15%, rgba(255, 255, 255, 0.55), transparent 60%),
+        radial-gradient(circle at 30% 90%, rgba(0, 0, 0, 0.04), transparent 55%);
+    opacity: 0.9;
 }
 
 a {
@@ -49,7 +65,7 @@ button:focus-visible {
     position: sticky;
     top: 0;
     z-index: 50;
-    background: rgba(245, 245, 247, 0.78);
+    background: rgba(245, 245, 247, 0.72);
     backdrop-filter: saturate(180%) blur(20px);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid var(--border);
@@ -99,7 +115,7 @@ button:focus-visible {
     padding: 0.55rem 0.9rem;
     border-radius: 999px;
     border: 1px solid var(--border);
-    background: rgba(255, 255, 255, 0.55);
+    background: rgba(255, 255, 255, 0.60);
     color: var(--text);
     transition: background 180ms ease, border-color 180ms ease, color 180ms ease;
     font-size: 0.9rem;
@@ -125,9 +141,11 @@ button:focus-visible {
     align-items: center;
     margin-bottom: 2rem;
     padding: 1rem;
-    background: var(--card-bg);
+    background: var(--glass);
+    backdrop-filter: saturate(160%) blur(18px);
+    -webkit-backdrop-filter: saturate(160%) blur(18px);
     border-radius: 14px;
-    border: 1px solid var(--border);
+    border: 1px solid rgba(0, 0, 0, 0.09);
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
 }
 
@@ -158,11 +176,13 @@ button:focus-visible {
 
 /* Summary Section */
 .summary-section {
-    background: var(--card-bg);
+    background: var(--glass);
+    backdrop-filter: saturate(160%) blur(18px);
+    -webkit-backdrop-filter: saturate(160%) blur(18px);
     border-radius: 18px;
     padding: 2rem;
     margin-bottom: 2rem;
-    border: 1px solid var(--border);
+    border: 1px solid rgba(0, 0, 0, 0.09);
     box-shadow: var(--shadow);
 }
 
@@ -224,10 +244,12 @@ button:focus-visible {
 }
 
 .news-card {
-    background: var(--card-bg);
+    background: var(--glass);
+    backdrop-filter: saturate(160%) blur(18px);
+    -webkit-backdrop-filter: saturate(160%) blur(18px);
     border-radius: 18px;
     padding: 1.35rem;
-    border: 1px solid var(--border);
+    border: 1px solid rgba(0, 0, 0, 0.09);
     box-shadow: var(--shadow);
     transition: box-shadow 220ms ease, border-color 220ms ease, background 220ms ease;
 }
@@ -235,7 +257,7 @@ button:focus-visible {
 .news-card:hover {
     box-shadow: var(--shadow-hover);
     border-color: rgba(0, 113, 227, 0.22);
-    background: rgba(255, 255, 255, 0.94);
+    background: var(--glass-strong);
 }
 
 .news-card h3 {
@@ -281,8 +303,8 @@ button:focus-visible {
     line-height: 1.7;
     margin-top: 0.75rem;
     padding: 0.75rem;
-    background: rgba(255, 255, 255, 0.7);
-    border: 1px solid rgba(0, 0, 0, 0.06);
+    background: rgba(255, 255, 255, 0.58);
+    border: 1px solid rgba(255, 255, 255, 0.55);
     border-radius: 14px;
 }
 
@@ -308,8 +330,10 @@ button:focus-visible {
     align-items: center;
     gap: 1rem;
     padding: 1rem 1.25rem;
-    background: var(--card-bg);
-    border: 1px solid var(--border);
+    background: var(--glass);
+    backdrop-filter: saturate(160%) blur(18px);
+    -webkit-backdrop-filter: saturate(160%) blur(18px);
+    border: 1px solid rgba(0, 0, 0, 0.09);
     border-radius: 16px;
     text-decoration: none;
     color: var(--text);
@@ -320,7 +344,7 @@ button:focus-visible {
 .archive-card:hover {
     border-color: rgba(0, 113, 227, 0.22);
     box-shadow: 0 14px 36px rgba(0, 0, 0, 0.10);
-    background: rgba(255, 255, 255, 0.94);
+    background: var(--glass-strong);
 }
 
 .archive-card .date {
@@ -349,7 +373,9 @@ button:focus-visible {
 footer {
     margin-top: 3rem;
     padding: 2rem 0;
-    background: var(--card-bg);
+    background: rgba(245, 245, 247, 0.62);
+    backdrop-filter: saturate(160%) blur(18px);
+    -webkit-backdrop-filter: saturate(160%) blur(18px);
     border-top: 1px solid var(--border);
     text-align: center;
     color: var(--text-muted);

@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="../static/style.css">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>🤖 AI Fintech Weekly</h1>
-            <p class="subtitle">AI 金融科技周报 · {{ week }}</p>
-            <nav>
+    <header class="topbar">
+        <div class="container topbar-inner">
+            <div class="brand">
+                <a class="brand-title" href="../index.html">AI Fintech Weekly</a>
+                <span class="brand-subtitle">AI 金融科技周报 · {{ week }}</span>
+            </div>
+            <nav class="nav">
                 <a href="../index.html">本周</a>
                 <a href="../archives.html" class="active">历史存档</a>
             </nav>
@@ -35,7 +37,7 @@
         {% endif %}
 
         <section class="news-section">
-            <h2>📰 英文新闻 ({{ news.en_news | length }})</h2>
+            <h2>英文新闻 ({{ news.en_news | length }})</h2>
             <div class="news-list">
                 {% for item in news.en_news %}
                 <article class="news-card">
@@ -43,7 +45,7 @@
                         <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
                     </h3>
                     {% if item.title_zh and item.title_zh != item.title %}
-                    <p class="title-zh">📝 {{ item.title_zh }}</p>
+                    <p class="title-zh">{{ item.title_zh }}</p>
                     {% endif %}
                     <div class="news-meta">
                         <span class="source">{{ item.source }}</span>
@@ -62,7 +64,7 @@
         </section>
 
         <section class="news-section">
-            <h2>📰 中文新闻 ({{ news.zh_news | length }})</h2>
+            <h2>中文新闻 ({{ news.zh_news | length }})</h2>
             <div class="news-list">
                 {% for item in news.zh_news %}
                 <article class="news-card">

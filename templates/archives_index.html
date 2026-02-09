@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>🤖 AI Fintech Weekly</h1>
-            <p class="subtitle">AI 金融科技周报 · 历史存档</p>
-            <nav>
+    <header class="topbar">
+        <div class="container topbar-inner">
+            <div class="brand">
+                <a class="brand-title" href="index.html">AI Fintech Weekly</a>
+                <span class="brand-subtitle">AI 金融科技周报 · 历史存档</span>
+            </div>
+            <nav class="nav">
                 <a href="index.html">本周</a>
                 <a href="archives.html" class="active">历史存档</a>
             </nav>
@@ -20,7 +22,7 @@
 
     <main class="container">
         <section class="archives-section">
-            <h2>📚 历史周报</h2>
+            <h2>历史周报</h2>
             
             {% if weeks %}
             <div class="archives-list">
@@ -40,7 +42,7 @@
 
     <footer>
         <div class="container">
-            <p>Powered by GitHub Actions + OpenAI | <a href="https://github.com">View on GitHub</a></p>
+            <p>Powered by GitHub Actions + AI | <a href="https://github.com/hzzszxy-hash/ai-fintech-weekly">View on GitHub</a></p>
             <p class="disclaimer">新闻内容来自公开渠道，总结由 AI 生成，仅供参考</p>
         </div>
     </footer>

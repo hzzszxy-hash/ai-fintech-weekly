@@ -19,6 +19,21 @@ from bs4 import BeautifulSoup
 DATA_DIR = Path(__file__).parent.parent / "data"
 MAX_NEWS_PER_SOURCE = 10
 MAX_TOTAL_NEWS = 20
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "7"))
+
+
+def _parse_date_yyyy_mm_dd(value: str) -> datetime | None:
+    """Parse YYYY-MM-DD into datetime (local time)."""
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, "%Y-%m-%d")
+    except ValueError:
+        return None
+
+
+def _is_within_lookback(published_dt: datetime, now: datetime) -> bool:
+    return published_dt >= (now - timedelta(days=LOOKBACK_DAYS))
 
 
 def get_google_news(query: str, lang: str = "en", num_results: int = 10) -> list[dict]:
@@ -33,14 +48,21 @@ def get_google_news(query: str, lang: str = "en", num_results: int = 10) -> list
     try:
         feed = feedparser.parse(url)
         news_items = []
+        now = datetime.now()
+        cutoff = now - timedelta(days=LOOKBACK_DAYS)
         
         for entry in feed.entries[:num_results]:
             # 解析发布时间
-            published = entry.get("published_parsed")
+            published = entry.get("published_parsed") or entry.get("updated_parsed")
             if published:
-                pub_date = datetime(*published[:6]).strftime("%Y-%m-%d")
+                pub_dt = datetime(*published[:6])
             else:
-                pub_date = datetime.now().strftime("%Y-%m-%d")
+                pub_dt = now
+
+            if pub_dt < cutoff:
+                continue
+
+            pub_date = pub_dt.strftime("%Y-%m-%d")
             
             # 清理标题中的来源后缀
             title = entry.get("title", "")
@@ -52,7 +74,8 @@ def get_google_news(query: str, lang: str = "en", num_results: int = 10) -> list
                 "source": entry.get("source", {}).get("title", "Unknown"),
                 "published": pub_date,
                 "summary": entry.get("summary", ""),
-                "lang": lang
+                "lang": lang,
+                "_published_ts": int(pub_dt.timestamp()),
             })
         
         return news_items
@@ -79,15 +102,31 @@ def get_36kr_news(num_results: int = 5) -> list[dict]:
         data = resp.json()
         
         news_items = []
+        now = datetime.now()
+        cutoff = now - timedelta(days=LOOKBACK_DAYS)
         for item in data.get("data", {}).get("items", [])[:num_results]:
             widget = item.get("widget_data", {})
+            published_at = widget.get("published_at")
+            if published_at:
+                # e.g. 2026-02-09T12:34:56+08:00
+                try:
+                    pub_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+                except ValueError:
+                    pub_dt = _parse_date_yyyy_mm_dd(published_at[:10]) or now
+            else:
+                pub_dt = now
+
+            if pub_dt < cutoff:
+                continue
+
             news_items.append({
                 "title": widget.get("title", ""),
                 "link": f"https://36kr.com/p/{widget.get('id', '')}",
                 "source": "36氪",
-                "published": widget.get("published_at", "")[:10] if widget.get("published_at") else "",
+                "published": pub_dt.strftime("%Y-%m-%d"),
                 "summary": widget.get("summary", ""),
-                "lang": "zh"
+                "lang": "zh",
+                "_published_ts": int(pub_dt.timestamp()),
             })
         
         return news_items
@@ -113,6 +152,8 @@ def get_sspai_news(num_results: int = 5) -> list[dict]:
         data = resp.json()
         
         news_items = []
+        now = datetime.now()
+        cutoff = now - timedelta(days=LOOKBACK_DAYS)
         keywords = ["AI", "人工智能", "GPT", "金融", "fintech", "支付", "银行"]
         
         for item in data.get("data", []):
@@ -122,7 +163,14 @@ def get_sspai_news(num_results: int = 5) -> list[dict]:
             # 只保留与 AI/金融相关的
             if any(kw.lower() in (title + summary).lower() for kw in keywords):
                 released_at = item.get("released_at", 0)
-                pub_date = datetime.fromtimestamp(released_at).strftime("%Y-%m-%d") if released_at else ""
+                if not released_at:
+                    continue
+
+                pub_dt = datetime.fromtimestamp(released_at)
+                if pub_dt < cutoff:
+                    continue
+
+                pub_date = pub_dt.strftime("%Y-%m-%d")
                 
                 news_items.append({
                     "title": title,
@@ -130,7 +178,8 @@ def get_sspai_news(num_results: int = 5) -> list[dict]:
                     "source": "少数派",
                     "published": pub_date,
                     "summary": summary,
-                    "lang": "zh"
+                    "lang": "zh",
+                    "_published_ts": int(pub_dt.timestamp()),
                 })
                 
                 if len(news_items) >= num_results:
@@ -155,6 +204,24 @@ def deduplicate_news(news_list: list[dict]) -> list[dict]:
             unique_news.append(news)
     
     return unique_news
+
+
+def filter_recent_news(news_list: list[dict]) -> list[dict]:
+    """Filter news to only within LOOKBACK_DAYS."""
+    now = datetime.now()
+    cutoff = now - timedelta(days=LOOKBACK_DAYS)
+    recent = []
+
+    for item in news_list:
+        ts = item.get("_published_ts")
+        if isinstance(ts, int):
+            pub_dt = datetime.fromtimestamp(ts)
+        else:
+            pub_dt = _parse_date_yyyy_mm_dd(item.get("published", "")) or now
+        if pub_dt >= cutoff:
+            recent.append(item)
+
+    return recent
 
 
 def fetch_all_news() -> dict:
@@ -197,9 +264,12 @@ def fetch_all_news() -> dict:
     
     # 去重
     all_news = deduplicate_news(all_news)
+
+    # 只保留最近 LOOKBACK_DAYS 天内新闻
+    all_news = filter_recent_news(all_news)
     
     # 按日期排序（最新在前）
-    all_news.sort(key=lambda x: x.get("published", ""), reverse=True)
+    all_news.sort(key=lambda x: x.get("_published_ts", 0), reverse=True)
     
     # 限制总数
     all_news = all_news[:MAX_TOTAL_NEWS]
@@ -207,11 +277,16 @@ def fetch_all_news() -> dict:
     # 分离中英文
     en_news = [n for n in all_news if n.get("lang") == "en"]
     zh_news = [n for n in all_news if n.get("lang") == "zh"]
+
+    # 去掉内部字段
+    for n in all_news:
+        n.pop("_published_ts", None)
     
     result = {
         "fetch_date": datetime.now().strftime("%Y-%m-%d"),
         "week": datetime.now().strftime("%Y-W%W"),
         "total_count": len(all_news),
+        "lookback_days": LOOKBACK_DAYS,
         "en_news": en_news,
         "zh_news": zh_news,
         "all_news": all_news

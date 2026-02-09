@@ -1,17 +1,19 @@
 name: Mirror to Gitee Pages
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - 'docs/**'
-      - '.github/workflows/gitee-pages.yml'
+  # NOTE: weekly workflow commits via GITHUB_TOKEN won't trigger a push workflow.
+  # Use workflow_run so the mirror still runs after the weekly update completes.
+  workflow_run:
+    workflows: ["AI Fintech Weekly Update"]
+    types: [completed]
+  workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
   publish:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -37,8 +39,8 @@ jobs:
           PUBLISH_DIR="docs"
 
           if [ ! -d "$PUBLISH_DIR" ]; then
-            echo "No docs/ directory found to publish" >&2
-            exit 1
+            echo "No docs/ directory found to publish; skip." >&2
+            exit 0
           fi
 
           rm -rf /tmp/gitee-pages

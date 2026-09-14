@@ -1,0 +1,332 @@
+{
+  "fetch_date": "2026-09-14",
+  "week": "2026-W37",
+  "total_count": 20,
+  "lookback_days": 7,
+  "en_news": [
+    {
+      "title": "Conquest opens AI planning engine to independent advisors",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNldkRGxkaWlpZFFDSHoyVVpReTFaSHBfcEUzdkRMTTdvVWxYZnJzd2RXZ3h6OXRQOU9RTnRybDFtRmtwRm1IOXI0WnRDV00tSGJDRjNPNEp0cXZ6V0MyTm9DM042aFIyOXRGM3ZNZGs4c0VzYV93RlZHWC0ycFlzdlJHZ0NXVkIyTDhSNXpIeUtialM3Ul9jb3JXdnE1Z1FlZ1ZqSk93?oc=5",
+      "source": "investmentnews.com",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNldkRGxkaWlpZFFDSHoyVVpReTFaSHBfcEUzdkRMTTdvVWxYZnJzd2RXZ3h6OXRQOU9RTnRybDFtRmtwRm1IOXI0WnRDV00tSGJDRjNPNEp0cXZ6V0MyTm9DM042aFIyOXRGM3ZNZGs4c0VzYV93RlZHWC0ycFlzdlJHZ0NXVkIyTDhSNXpIeUtialM3Ul9jb3JXdnE1Z1FlZ1ZqSk93?oc=5\" target=\"_blank\">Conquest opens AI planning engine to independent advisors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investmentnews.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How AI Is Reshaping Quantitative Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVZ5aGVXdWtxUzhxX2N4SDlLUkxRRlJ0WGtfbkE5SFdiTkxQWnc0WUpVZWN3bWttV3lNTEMtdnNEWU85emdfXzVwcEJwTnhGQ3FNNDhsSzM3Z3pyS1pZX3ZIcTctWE55ZUFzNGNNVm1yOEQzUWZRdEV3bjV5dXRjN1JKMVNtcjU5SDNpSDZ3?oc=5",
+      "source": "Knowledge at Wharton",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVZ5aGVXdWtxUzhxX2N4SDlLUkxRRlJ0WGtfbkE5SFdiTkxQWnc0WUpVZWN3bWttV3lNTEMtdnNEWU85emdfXzVwcEJwTnhGQ3FNNDhsSzM3Z3pyS1pZX3ZIcTctWE55ZUFzNGNNVm1yOEQzUWZRdEV3bjV5dXRjN1JKMVNtcjU5SDNpSDZ3?oc=5\" target=\"_blank\">How AI Is Reshaping Quantitative Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Knowledge at Wharton</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Oil Jumps, 10-Year Treasury Yield Hits 5% as AI-Related Stocks Tumble Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5\" target=\"_blank\">Oil Jumps, 10-Year Treasury Yield Hits 5% as AI-Related Stocks Tumble Worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI is supercharging money scams – here’s what you can do to protect yourself",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2thQkh6cFZaMTJuektSMnF3RTlTdmxFcDNQRVROZkV4TmdDR0RIM3pjc0RUTVhVcGZOWHViY2R5ZkJRYkxLb2RBa0taQXlFdW5YRGJKNzF0dDhsZEluRkU4TGNMTklkZENWTGtveUp1c1lWeVgxLUJhVWdhSlJVZ2lkeGhWQWVEZ3RfUDR3SmVsWnNuSmYxcmV1SktvX0tLZmRCZnJqSVEzMUdH?oc=5",
+      "source": "The Conversation",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2thQkh6cFZaMTJuektSMnF3RTlTdmxFcDNQRVROZkV4TmdDR0RIM3pjc0RUTVhVcGZOWHViY2R5ZkJRYkxLb2RBa0taQXlFdW5YRGJKNzF0dDhsZEluRkU4TGNMTklkZENWTGtveUp1c1lWeVgxLUJhVWdhSlJVZ2lkeGhWQWVEZ3RfUDR3SmVsWnNuSmYxcmV1SktvX0tLZmRCZnJqSVEzMUdH?oc=5\" target=\"_blank\">AI is supercharging money scams – here’s what you can do to protect yourself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Montreal at the Heart of Financial Innovation with the 2026 Fintech Canada Forum",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3dvSjI2S3NrbWE0S2QxU1lDa3NHTkd3WGZmM1VUT1hVZDhNaVdUNm1GZEdiV2xkcjdfYng2NnVfTG1meFkxY0hXcTREOXUtQktSY05VUFloV3QzbDBNVUxsZ003blRpLXlfM3JSNklXT3hDZTZOODBST28xSlJWY0pyMnBWTVhXa21rNVNLcmVVRTl4NjZkTTBEeWUwWjNfREpmSzJqdw?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3dvSjI2S3NrbWE0S2QxU1lDa3NHTkd3WGZmM1VUT1hVZDhNaVdUNm1GZEdiV2xkcjdfYng2NnVfTG1meFkxY0hXcTREOXUtQktSY05VUFloV3QzbDBNVUxsZ003blRpLXlfM3JSNklXT3hDZTZOODBST28xSlJWY0pyMnBWTVhXa21rNVNLcmVVRTl4NjZkTTBEeWUwWjNfREpmSzJqdw?oc=5\" target=\"_blank\">Montreal at the Heart of Financial Innovation with the 2026 Fintech Canada Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "What’s holding back AI adoption in financial services?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGlRN0dmdzJoNEk2THZRWXZHemhJUTd4dkhyTU4zMFNkVlZvdGNOODNtb19KMVp1b20wVlpGZ1ZFZzk5R3FuMnlwTDJPMElGSWVqYWhMNlIteldGdEVvazRzQmtub2JIcnYwQm5uTXE3WEFLVjRFVHhwaGhXQzlobTRmeWg5emdHaFQ1dmVCYXQ?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGlRN0dmdzJoNEk2THZRWXZHemhJUTd4dkhyTU4zMFNkVlZvdGNOODNtb19KMVp1b20wVlpGZ1ZFZzk5R3FuMnlwTDJPMElGSWVqYWhMNlIteldGdEVvazRzQmtub2JIcnYwQm5uTXE3WEFLVjRFVHhwaGhXQzlobTRmeWg5emdHaFQ1dmVCYXQ?oc=5\" target=\"_blank\">What’s holding back AI adoption in financial services?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Banking has an AI blind spot: the human intelligence gap",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXRiZzQ1TXNJTVJINHJnSzhLY2UzOGZxSEFWRU4teVY0Tk1QQV9QSUFsY2hrSE81XzRWSWowZ0ZhZkY1T21zVVVETklFeVhoMG4wSHN1WlRnWFN6MUdua2diU0R4Q1QwRzJwVmlScEt0Q29BOXFJVW1wUnBjOXkzUEozQjdyRzI4dnREb3ZWSkcyWnVmVnpmbnRR?oc=5",
+      "source": "American Banker",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXRiZzQ1TXNJTVJINHJnSzhLY2UzOGZxSEFWRU4teVY0Tk1QQV9QSUFsY2hrSE81XzRWSWowZ0ZhZkY1T21zVVVETklFeVhoMG4wSHN1WlRnWFN6MUdua2diU0R4Q1QwRzJwVmlScEt0Q29BOXFJVW1wUnBjOXkzUEozQjdyRzI4dnREb3ZWSkcyWnVmVnpmbnRR?oc=5\" target=\"_blank\">Banking has an AI blind spot: the human intelligence gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Banker</font>",
+      "lang": "en"
+    },
+    {
+      "title": "NEWS: How is AI changing financial crime and compliance? Take our survey and get exclusive insights",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1JLZFFpV1AwWHVuN1pkWXJUbV9TaWZDaHhWUW5kM0VwVUlzWnZTa05wZUdUeE90ZEJBcFphY1JycHJtV1BOZHN0eTFqbDhiLU8xN1pqMWlESGxBNlh4ZVRwYTNfNUdkU3ZfXzljQ3dOQndEaGNGZnRsclZFTXRyZHNFT3lNMVZoVXd3NDMwbnFsMlJoVUVYUA?oc=5",
+      "source": "LinkedIn",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1JLZFFpV1AwWHVuN1pkWXJUbV9TaWZDaHhWUW5kM0VwVUlzWnZTa05wZUdUeE90ZEJBcFphY1JycHJtV1BOZHN0eTFqbDhiLU8xN1pqMWlESGxBNlh4ZVRwYTNfNUdkU3ZfXzljQ3dOQndEaGNGZnRsclZFTXRyZHNFT3lNMVZoVXd3NDMwbnFsMlJoVUVYUA?oc=5\" target=\"_blank\">NEWS: How is AI changing financial crime and compliance? Take our survey and get exclusive insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "lang": "en"
+    },
+    {
+      "title": "PayNearMe acquires Marr Labs assets to embed AI agents into PayXM",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJUVJXV3ZhQzlVX0NnQjR6TFdRSXIzMmZwV05YYlZqNTVqZHVuYXhEUTlzcjZJcGxpZmZNR1hCNEhPdGdKTDVydmFvbUpHVkVDWGk5dndmMldwYi1ScHdqVjVTWjV4Y1FrMGo3bGU1MGk4djFPN0Y0MVNn?oc=5",
+      "source": "FinTech Futures",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBJUVJXV3ZhQzlVX0NnQjR6TFdRSXIzMmZwV05YYlZqNTVqZHVuYXhEUTlzcjZJcGxpZmZNR1hCNEhPdGdKTDVydmFvbUpHVkVDWGk5dndmMldwYi1ScHdqVjVTWjV4Y1FrMGo3bGU1MGk4djFPN0Y0MVNn?oc=5\" target=\"_blank\">PayNearMe acquires Marr Labs assets to embed AI agents into PayXM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Monitoring LLM Uncertainty in Financial Services on AWS",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG1tU2s0LU9Ra0t3UFlrVU1KUXhHWjQ4dnZ4X1EzbE44THBIc3RtdnIyZUZDb0xvUUxjTlp3V0N1My1kQUlOTlpULXpCMm9FMlBqWGRyd3pWS0xLMG12UHlwdDJ0a0R0VzZxdzUyYXNTYzdSQVQtVXYxM1Q0YU5jZmpubkEtWUFORHF1UlJOTWtuX2xXOUptWTBJcVo?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-09-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG1tU2s0LU9Ra0t3UFlrVU1KUXhHWjQ4dnZ4X1EzbE44THBIc3RtdnIyZUZDb0xvUUxjTlp3V0N1My1kQUlOTlpULXpCMm9FMlBqWGRyd3pWS0xLMG12UHlwdDJ0a0R0VzZxdzUyYXNTYzdSQVQtVXYxM1Q0YU5jZmpubkEtWUFORHF1UlJOTWtuX2xXOUptWTBJcVo?oc=5\" target=\"_blank\">Monitoring LLM Uncertainty in Financial Services on AWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+      "lang": "en"
+    }
+  ],
+  "zh_news": [
+    {
+      "title": "国际清算银行：人工智能市场动能开始显现脆弱迹象",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dlVKa0I5Yk9PQk9tc1kzTTZEZmNsTHFaMGNOU1MxREFlRzRFcVF6MzF0cTBiQ0E5YTkzcGU1VWFXUVp4bDVwX0J6THlneUZSTTVLSC1sM2tjQ0MyX0tpWkx3?oc=5",
+      "source": "观点网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dlVKa0I5Yk9PQk9tc1kzTTZEZmNsTHFaMGNOU1MxREFlRzRFcVF6MzF0cTBiQ0E5YTkzcGU1VWFXUVp4bDVwX0J6THlneUZSTTVLSC1sM2tjQ0MyX0tpWkx3?oc=5\" target=\"_blank\">国际清算银行：人工智能市场动能开始显现脆弱迹象</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "创业板金融科技指数：AI赋能产业，一键布局金融科技龙头",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRoV1VmVHpvMjhNc0tjOFZENlNJMk41WFR1S0N1TEFpMkttajFGOTJTSWxzc2NvYm1XVzF4dXhjVXZXNGIzc1lCd3RGRW9HeGRMV3VMeGlTcnJPRHJjcnUweENFd0ZpUXplOHVoUm4wVm5Ud1lCbTdXOF9ZcEI3NXAyWQ?oc=5",
+      "source": "新浪网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRoV1VmVHpvMjhNc0tjOFZENlNJMk41WFR1S0N1TEFpMkttajFGOTJTSWxzc2NvYm1XVzF4dXhjVXZXNGIzc1lCd3RGRW9HeGRMV3VMeGlTcnJPRHJjcnUweENFd0ZpUXplOHVoUm4wVm5Ud1lCbTdXOF9ZcEI3NXAyWQ?oc=5\" target=\"_blank\">创业板金融科技指数：AI赋能产业，一键布局金融科技龙头</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "第六届数字金融科技大会在厦门举行",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HbEt0cUZnbEpZVGJ0UTc5RzRDYnFlbkJKUlV4UDczM25QMHJESElYWnhqNWZkVmxYaGI2enZBT0w4Y1B4OWtUeGtid1pwUUR1amdwX0xKRkQyclZmaTJxQnN4UkkzNGloVG5GOW1fZlZLcUhSMDhTMFk0ZmNwUQ?oc=5",
+      "source": "新华网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1HbEt0cUZnbEpZVGJ0UTc5RzRDYnFlbkJKUlV4UDczM25QMHJESElYWnhqNWZkVmxYaGI2enZBT0w4Y1B4OWtUeGtid1pwUUR1amdwX0xKRkQyclZmaTJxQnN4UkkzNGloVG5GOW1fZlZLcUhSMDhTMFk0ZmNwUQ?oc=5\" target=\"_blank\">第六届数字金融科技大会在厦门举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HM29lSlNSRUVnWTNnZGdzVGZhaEFBME1yWWJXRG0tRHdrZkN2ZDEtZnc3SHZuLWZMRDJmbGl0ZnZjSHhIV2VQWGtuYVB6WTZWRjlIczMzZVViVzByaVFyOXZwTnV3VXc2SHlvZGJwb3NJaS1XUE5SVFpnMjZwem8?oc=5",
+      "source": "人民日报",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HM29lSlNSRUVnWTNnZGdzVGZhaEFBME1yWWJXRG0tRHdrZkN2ZDEtZnc3SHZuLWZMRDJmbGl0ZnZjSHhIV2VQWGtuYVB6WTZWRjlIczMzZVViVzByaVFyOXZwTnV3VXc2SHlvZGJwb3NJaS1XUE5SVFpnMjZwem8?oc=5\" target=\"_blank\">“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "央行公示广西第7批金融科技创新应用，探索金融AI共享网络应用场景",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94T0JnU1BzR2w0bDdfU1Q5OXBHZmNhb3ZDdnU0Zi13YWJHbnZLR0hrQklfaUlrck9FNWNSNG5vdHpfaWlNNUdVRnJXMEZvMmg5YmlzWWI2VHVKSTNHU2hPQVR6Yw?oc=5",
+      "source": "移动支付网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94T0JnU1BzR2w0bDdfU1Q5OXBHZmNhb3ZDdnU0Zi13YWJHbnZLR0hrQklfaUlrck9FNWNSNG5vdHpfaWlNNUdVRnJXMEZvMmg5YmlzWWI2VHVKSTNHU2hPQVR6Yw?oc=5\" target=\"_blank\">央行公示广西第7批金融科技创新应用，探索金融AI共享网络应用场景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">移动支付网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI银行卡来了 多家银行推出AI银行卡",
+      "link": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxPRXFlaG1HanJYSDJ2Y3VJZi0xYWI2LWZrNzdpUEkxUVZsUmtpVnlHMUJTVVNLUUx5VzJlSWtTdjhfSTZXa3BWS25FOVBnZjdKd0hBZFNya2ZsbVlPemtwT3QyNW1GQ2FaNGpHXy1YYTJRTDZhb2UtaFJnU21iUVNVQlNqQms4SktRdDMzMGZYWWFSX2FUdi0zanpIUll6NUJvV0wtVWV6SXdsa0c4Nk0zbGg0cVFaaE8xVzl0aVdFMEo5TG5SWWdoOXlSMEwzQjd0dl82VkR6eGpsMXdXcnVWRTFCblR6dERuNWhzeG40OXVmUnE4T2QtZE9qcm8tSXhUOThQS0FjTTE4aUhwMHh6dDZSN1pDZHdBTThkektPN29kUk5Ea2FoNmxFb0p2S1FMdjlUeDFKTUhtU2dNNkVFbVhNeEdScm5LWG5KZWRvRjhPS3BfempmMTIzdFNpR2tucjRJc0lpN25tRklPSFBnWFNGTEVHNG1iTzE2OHhoS05hdVh1aTZSOWZJNUItT20wZGVWamhRdkg5dG9qZU9GSlBoWHViRlF3Wkxkc0NYdVFxZnFnN2V1N0EyQzNCUm5PWXhGdWFQa2dhTzBBUWQ0T2hWeVVVNHNZNUFzY09NNjM4VHVScFJMUGZyc2lSZm9QZFN3V3pIemJIdXZSNkxQNnJmbW5lNzVqLWVma3pERzlVRW9uU3ljYXRpVjdwWGc2dDZ6eEZuWnNLYjY1OEJvdkNzNDFoRmlYLVZsYS1yMlRnb1o4UlhQazdJQ1BscFZOZUVjbFRBa25wSWVKcHpSS3BJc0RUOWJWeWtYcEdSbGFHSl9QdmhCb0ZwODlpZkg3aVhsNTMtM2kzbFNCSW9yU3cxbHk2U0s0VXhXaWgxb1F4Z2ZvNTZVdVVpdHZnWnMwa0RzZDl0ZTd3Ukt2d2dQSGhLSGtQWE9jMkVYUkFaOXBSQV80UWVZc2hSQ00xQVVuR2JlRFBtcw?oc=5",
+      "source": "finance.sina.cn",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wVBVV95cUxPRXFlaG1HanJYSDJ2Y3VJZi0xYWI2LWZrNzdpUEkxUVZsUmtpVnlHMUJTVVNLUUx5VzJlSWtTdjhfSTZXa3BWS25FOVBnZjdKd0hBZFNya2ZsbVlPemtwT3QyNW1GQ2FaNGpHXy1YYTJRTDZhb2UtaFJnU21iUVNVQlNqQms4SktRdDMzMGZYWWFSX2FUdi0zanpIUll6NUJvV0wtVWV6SXdsa0c4Nk0zbGg0cVFaaE8xVzl0aVdFMEo5TG5SWWdoOXlSMEwzQjd0dl82VkR6eGpsMXdXcnVWRTFCblR6dERuNWhzeG40OXVmUnE4T2QtZE9qcm8tSXhUOThQS0FjTTE4aUhwMHh6dDZSN1pDZHdBTThkektPN29kUk5Ea2FoNmxFb0p2S1FMdjlUeDFKTUhtU2dNNkVFbVhNeEdScm5LWG5KZWRvRjhPS3BfempmMTIzdFNpR2tucjRJc0lpN25tRklPSFBnWFNGTEVHNG1iTzE2OHhoS05hdVh1aTZSOWZJNUItT20wZGVWamhRdkg5dG9qZU9GSlBoWHViRlF3Wkxkc0NYdVFxZnFnN2V1N0EyQzNCUm5PWXhGdWFQa2dhTzBBUWQ0T2hWeVVVNHNZNUFzY09NNjM4VHVScFJMUGZyc2lSZm9QZFN3V3pIemJIdXZSNkxQNnJmbW5lNzVqLWVma3pERzlVRW9uU3ljYXRpVjdwWGc2dDZ6eEZuWnNLYjY1OEJvdkNzNDFoRmlYLVZsYS1yMlRnb1o4UlhQazdJQ1BscFZOZUVjbFRBa25wSWVKcHpSS3BJc0RUOWJWeWtYcEdSbGFHSl9QdmhCb0ZwODlpZkg3aVhsNTMtM2kzbFNCSW9yU3cxbHk2U0s0VXhXaWgxb1F4Z2ZvNTZVdVVpdHZnWnMwa0RzZDl0ZTd3Ukt2d2dQSGhLSGtQWE9jMkVYUkFaOXBSQV80UWVZc2hSQ00xQVVuR2JlRFBtcw?oc=5\" target=\"_blank\">AI银行卡来了 多家银行推出AI银行卡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.cn</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "科技主题ETF持续“上新” 公募看好AI产业链投资机会",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5keTJpWmhlelZIdm8wc0JmMzZ4bm56V09EUDQwMjNSS0FoeVNyZ0JZU0dEV0NlOFQ3YVBkTXphY3hmR2s5NEIydlUxbktQUmU2ZWhLSURlOUlMVWZEZ3FsYTJuVnVaTmx6X1JWa0Jn?oc=5",
+      "source": "上海证券报电子版",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5keTJpWmhlelZIdm8wc0JmMzZ4bm56V09EUDQwMjNSS0FoeVNyZ0JZU0dEV0NlOFQ3YVBkTXphY3hmR2s5NEIydlUxbktQUmU2ZWhLSURlOUlMVWZEZ3FsYTJuVnVaTmx6X1JWa0Jn?oc=5\" target=\"_blank\">科技主题ETF持续“上新” 公募看好AI产业链投资机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "银行Token用哪儿了？这场会成了大型“验牌”现场……",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14cmYtUWlXQlpJdmNlaUpfZTRvTTFrU3lRdEUzZnhvUU10aTBJcTZRRmlwcTlsRktWWWtIZE42MkNCTW4xT05vZTVud3hyRkJkYXk2YzVGanU5cThjOU1TcGpn?oc=5",
+      "source": "新京报",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14cmYtUWlXQlpJdmNlaUpfZTRvTTFrU3lRdEUzZnhvUU10aTBJcTZRRmlwcTlsRktWWWtIZE42MkNCTW4xT05vZTVud3hyRkJkYXk2YzVGanU5cThjOU1TcGpn?oc=5\" target=\"_blank\">银行Token用哪儿了？这场会成了大型“验牌”现场……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "银行AI账本：日均Token消耗达百亿 三个“转向”值得关注",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEVnRjNoclBWYzhSYWgwUmIyUU5DLVBfSzJMVTNNcmJFak0zVldlWDlsS1dMT3hEY1BrMktQUmZSdFJUWTBWVXo5VmEzZ0h3cnNZVWlybXJ5NDFyTk42LXVkVDItNmNRdjFwenNDdjRsSnJnZWdFOTVoc2ViR2Jod0R2dw?oc=5",
+      "source": "21财经",
+      "published": "2026-09-11",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEVnRjNoclBWYzhSYWgwUmIyUU5DLVBfSzJMVTNNcmJFak0zVldlWDlsS1dMT3hEY1BrMktQUmZSdFJUWTBWVXo5VmEzZ0h3cnNZVWlybXJ5NDFyTk42LXVkVDItNmNRdjFwenNDdjRsSnJnZWdFOTVoc2ViR2Jod0R2dw?oc=5\" target=\"_blank\">银行AI账本：日均Token消耗达百亿 三个“转向”值得关注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "奇富科技“一横N纵”AI矩阵 助推金融业从智力走向智能",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2tXdG5tVWR6a29TaXpsR0E1Q25jTU43ckZtNE1qYmRQNS1Rak5XcGo5MVdkeGZuTjh2eHVyejNMblFNcWZfTTIyT1FkbnhVaUVKNTZrRjdPa0puTnd4Q0ZqUXJ6QXVCeThiaHpZbGlmU0E4Wm5lRjhuX1ZtV0tvX2pPN01pX1EzVkNCc2hvQTd5T0tlYnRqT2Vn?oc=5",
+      "source": "新华网客户端",
+      "published": "2026-09-11",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2tXdG5tVWR6a29TaXpsR0E1Q25jTU43ckZtNE1qYmRQNS1Rak5XcGo5MVdkeGZuTjh2eHVyejNMblFNcWZfTTIyT1FkbnhVaUVKNTZrRjdPa0puTnd4Q0ZqUXJ6QXVCeThiaHpZbGlmU0E4Wm5lRjhuX1ZtV0tvX2pPN01pX1EzVkNCc2hvQTd5T0tlYnRqT2Vn?oc=5\" target=\"_blank\">奇富科技“一横N纵”AI矩阵 助推金融业从智力走向智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+      "lang": "zh"
+    }
+  ],
+  "all_news": [
+    {
+      "title": "Conquest opens AI planning engine to independent advisors",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNldkRGxkaWlpZFFDSHoyVVpReTFaSHBfcEUzdkRMTTdvVWxYZnJzd2RXZ3h6OXRQOU9RTnRybDFtRmtwRm1IOXI0WnRDV00tSGJDRjNPNEp0cXZ6V0MyTm9DM042aFIyOXRGM3ZNZGs4c0VzYV93RlZHWC0ycFlzdlJHZ0NXVkIyTDhSNXpIeUtialM3Ul9jb3JXdnE1Z1FlZ1ZqSk93?oc=5",
+      "source": "investmentnews.com",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNldkRGxkaWlpZFFDSHoyVVpReTFaSHBfcEUzdkRMTTdvVWxYZnJzd2RXZ3h6OXRQOU9RTnRybDFtRmtwRm1IOXI0WnRDV00tSGJDRjNPNEp0cXZ6V0MyTm9DM042aFIyOXRGM3ZNZGs4c0VzYV93RlZHWC0ycFlzdlJHZ0NXVkIyTDhSNXpIeUtialM3Ul9jb3JXdnE1Z1FlZ1ZqSk93?oc=5\" target=\"_blank\">Conquest opens AI planning engine to independent advisors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investmentnews.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How AI Is Reshaping Quantitative Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVZ5aGVXdWtxUzhxX2N4SDlLUkxRRlJ0WGtfbkE5SFdiTkxQWnc0WUpVZWN3bWttV3lNTEMtdnNEWU85emdfXzVwcEJwTnhGQ3FNNDhsSzM3Z3pyS1pZX3ZIcTctWE55ZUFzNGNNVm1yOEQzUWZRdEV3bjV5dXRjN1JKMVNtcjU5SDNpSDZ3?oc=5",
+      "source": "Knowledge at Wharton",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVZ5aGVXdWtxUzhxX2N4SDlLUkxRRlJ0WGtfbkE5SFdiTkxQWnc0WUpVZWN3bWttV3lNTEMtdnNEWU85emdfXzVwcEJwTnhGQ3FNNDhsSzM3Z3pyS1pZX3ZIcTctWE55ZUFzNGNNVm1yOEQzUWZRdEV3bjV5dXRjN1JKMVNtcjU5SDNpSDZ3?oc=5\" target=\"_blank\">How AI Is Reshaping Quantitative Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Knowledge at Wharton</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Oil Jumps, 10-Year Treasury Yield Hits 5% as AI-Related Stocks Tumble Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5\" target=\"_blank\">Oil Jumps, 10-Year Treasury Yield Hits 5% as AI-Related Stocks Tumble Worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "lang": "en"
+    },
+    {
+      "title": "国际清算银行：人工智能市场动能开始显现脆弱迹象",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dlVKa0I5Yk9PQk9tc1kzTTZEZmNsTHFaMGNOU1MxREFlRzRFcVF6MzF0cTBiQ0E5YTkzcGU1VWFXUVp4bDVwX0J6THlneUZSTTVLSC1sM2tjQ0MyX0tpWkx3?oc=5",
+      "source": "观点网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dlVKa0I5Yk9PQk9tc1kzTTZEZmNsTHFaMGNOU1MxREFlRzRFcVF6MzF0cTBiQ0E5YTkzcGU1VWFXUVp4bDVwX0J6THlneUZSTTVLSC1sM2tjQ0MyX0tpWkx3?oc=5\" target=\"_blank\">国际清算银行：人工智能市场动能开始显现脆弱迹象</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI is supercharging money scams – here’s what you can do to protect yourself",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2thQkh6cFZaMTJuektSMnF3RTlTdmxFcDNQRVROZkV4TmdDR0RIM3pjc0RUTVhVcGZOWHViY2R5ZkJRYkxLb2RBa0taQXlFdW5YRGJKNzF0dDhsZEluRkU4TGNMTklkZENWTGtveUp1c1lWeVgxLUJhVWdhSlJVZ2lkeGhWQWVEZ3RfUDR3SmVsWnNuSmYxcmV1SktvX0tLZmRCZnJqSVEzMUdH?oc=5",
+      "source": "The Conversation",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2thQkh6cFZaMTJuektSMnF3RTlTdmxFcDNQRVROZkV4TmdDR0RIM3pjc0RUTVhVcGZOWHViY2R5ZkJRYkxLb2RBa0taQXlFdW5YRGJKNzF0dDhsZEluRkU4TGNMTklkZENWTGtveUp1c1lWeVgxLUJhVWdhSlJVZ2lkeGhWQWVEZ3RfUDR3SmVsWnNuSmYxcmV1SktvX0tLZmRCZnJqSVEzMUdH?oc=5\" target=\"_blank\">AI is supercharging money scams – here’s what you can do to protect yourself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Montreal at the Heart of Financial Innovation with the 2026 Fintech Canada Forum",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3dvSjI2S3NrbWE0S2QxU1lDa3NHTkd3WGZmM1VUT1hVZDhNaVdUNm1GZEdiV2xkcjdfYng2NnVfTG1meFkxY0hXcTREOXUtQktSY05VUFloV3QzbDBNVUxsZ003blRpLXlfM3JSNklXT3hDZTZOODBST28xSlJWY0pyMnBWTVhXa21rNVNLcmVVRTl4NjZkTTBEeWUwWjNfREpmSzJqdw?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3dvSjI2S3NrbWE0S2QxU1lDa3NHTkd3WGZmM1VUT1hVZDhNaVdUNm1GZEdiV2xkcjdfYng2NnVfTG1meFkxY0hXcTREOXUtQktSY05VUFloV3QzbDBNVUxsZ003blRpLXlfM3JSNklXT3hDZTZOODBST28xSlJWY0pyMnBWTVhXa21rNVNLcmVVRTl4NjZkTTBEeWUwWjNfREpmSzJqdw?oc=5\" target=\"_blank\">Montreal at the Heart of Financial Innovation with the 2026 Fintech Canada Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "What’s holding back AI adoption in financial services?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGlRN0dmdzJoNEk2THZRWXZHemhJUTd4dkhyTU4zMFNkVlZvdGNOODNtb19KMVp1b20wVlpGZ1ZFZzk5R3FuMnlwTDJPMElGSWVqYWhMNlIteldGdEVvazRzQmtub2JIcnYwQm5uTXE3WEFLVjRFVHhwaGhXQzlobTRmeWg5emdHaFQ1dmVCYXQ?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGlRN0dmdzJoNEk2THZRWXZHemhJUTd4dkhyTU4zMFNkVlZvdGNOODNtb19KMVp1b20wVlpGZ1ZFZzk5R3FuMnlwTDJPMElGSWVqYWhMNlIteldGdEVvazRzQmtub2JIcnYwQm5uTXE3WEFLVjRFVHhwaGhXQzlobTRmeWg5emdHaFQ1dmVCYXQ?oc=5\" target=\"_blank\">What’s holding back AI adoption in financial services?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "创业板金融科技指数：AI赋能产业，一键布局金融科技龙头",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRoV1VmVHpvMjhNc0tjOFZENlNJMk41WFR1S0N1TEFpMkttajFGOTJTSWxzc2NvYm1XVzF4dXhjVXZXNGIzc1lCd3RGRW9HeGRMV3VMeGlTcnJPRHJjcnUweENFd0ZpUXplOHVoUm4wVm5Ud1lCbTdXOF9ZcEI3NXAyWQ?oc=5",
+      "source": "新浪网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRoV1VmVHpvMjhNc0tjOFZENlNJMk41WFR1S0N1TEFpMkttajFGOTJTSWxzc2NvYm1XVzF4dXhjVXZXNGIzc1lCd3RGRW9HeGRMV3VMeGlTcnJPRHJjcnUweENFd0ZpUXplOHVoUm4wVm5Ud1lCbTdXOF9ZcEI3NXAyWQ?oc=5\" target=\"_blank\">创业板金融科技指数：AI赋能产业，一键布局金融科技龙头</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Banking has an AI blind spot: the human intelligence gap",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXRiZzQ1TXNJTVJINHJnSzhLY2UzOGZxSEFWRU4teVY0Tk1QQV9QSUFsY2hrSE81XzRWSWowZ0ZhZkY1T21zVVVETklFeVhoMG4wSHN1WlRnWFN6MUdua2diU0R4Q1QwRzJwVmlScEt0Q29BOXFJVW1wUnBjOXkzUEozQjdyRzI4dnREb3ZWSkcyWnVmVnpmbnRR?oc=5",
+      "source": "American Banker",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXRiZzQ1TXNJTVJINHJnSzhLY2UzOGZxSEFWRU4teVY0Tk1QQV9QSUFsY2hrSE81XzRWSWowZ0ZhZkY1T21zVVVETklFeVhoMG4wSHN1WlRnWFN6MUdua2diU0R4Q1QwRzJwVmlScEt0Q29BOXFJVW1wUnBjOXkzUEozQjdyRzI4dnREb3ZWSkcyWnVmVnpmbnRR?oc=5\" target=\"_blank\">Banking has an AI blind spot: the human intelligence gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Banker</font>",
+      "lang": "en"
+    },
+    {
+      "title": "NEWS: How is AI changing financial crime and compliance? Take our survey and get exclusive insights",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1JLZFFpV1AwWHVuN1pkWXJUbV9TaWZDaHhWUW5kM0VwVUlzWnZTa05wZUdUeE90ZEJBcFphY1JycHJtV1BOZHN0eTFqbDhiLU8xN1pqMWlESGxBNlh4ZVRwYTNfNUdkU3ZfXzljQ3dOQndEaGNGZnRsclZFTXRyZHNFT3lNMVZoVXd3NDMwbnFsMlJoVUVYUA?oc=5",
+      "source": "LinkedIn",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1JLZFFpV1AwWHVuN1pkWXJUbV9TaWZDaHhWUW5kM0VwVUlzWnZTa05wZUdUeE90ZEJBcFphY1JycHJtV1BOZHN0eTFqbDhiLU8xN1pqMWlESGxBNlh4ZVRwYTNfNUdkU3ZfXzljQ3dOQndEaGNGZnRsclZFTXRyZHNFT3lNMVZoVXd3NDMwbnFsMlJoVUVYUA?oc=5\" target=\"_blank\">NEWS: How is AI changing financial crime and compliance? Take our survey and get exclusive insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "lang": "en"
+    },
+    {
+      "title": "PayNearMe acquires Marr Labs assets to embed AI agents into PayXM",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJUVJXV3ZhQzlVX0NnQjR6TFdRSXIzMmZwV05YYlZqNTVqZHVuYXhEUTlzcjZJcGxpZmZNR1hCNEhPdGdKTDVydmFvbUpHVkVDWGk5dndmMldwYi1ScHdqVjVTWjV4Y1FrMGo3bGU1MGk4djFPN0Y0MVNn?oc=5",
+      "source": "FinTech Futures",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBJUVJXV3ZhQzlVX0NnQjR6TFdRSXIzMmZwV05YYlZqNTVqZHVuYXhEUTlzcjZJcGxpZmZNR1hCNEhPdGdKTDVydmFvbUpHVkVDWGk5dndmMldwYi1ScHdqVjVTWjV4Y1FrMGo3bGU1MGk4djFPN0Y0MVNn?oc=5\" target=\"_blank\">PayNearMe acquires Marr Labs assets to embed AI agents into PayXM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "lang": "en"
+    },
+    {
+      "title": "第六届数字金融科技大会在厦门举行",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HbEt0cUZnbEpZVGJ0UTc5RzRDYnFlbkJKUlV4UDczM25QMHJESElYWnhqNWZkVmxYaGI2enZBT0w4Y1B4OWtUeGtid1pwUUR1amdwX0xKRkQyclZmaTJxQnN4UkkzNGloVG5GOW1fZlZLcUhSMDhTMFk0ZmNwUQ?oc=5",
+      "source": "新华网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1HbEt0cUZnbEpZVGJ0UTc5RzRDYnFlbkJKUlV4UDczM25QMHJESElYWnhqNWZkVmxYaGI2enZBT0w4Y1B4OWtUeGtid1pwUUR1amdwX0xKRkQyclZmaTJxQnN4UkkzNGloVG5GOW1fZlZLcUhSMDhTMFk0ZmNwUQ?oc=5\" target=\"_blank\">第六届数字金融科技大会在厦门举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HM29lSlNSRUVnWTNnZGdzVGZhaEFBME1yWWJXRG0tRHdrZkN2ZDEtZnc3SHZuLWZMRDJmbGl0ZnZjSHhIV2VQWGtuYVB6WTZWRjlIczMzZVViVzByaVFyOXZwTnV3VXc2SHlvZGJwb3NJaS1XUE5SVFpnMjZwem8?oc=5",
+      "source": "人民日报",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HM29lSlNSRUVnWTNnZGdzVGZhaEFBME1yWWJXRG0tRHdrZkN2ZDEtZnc3SHZuLWZMRDJmbGl0ZnZjSHhIV2VQWGtuYVB6WTZWRjlIczMzZVViVzByaVFyOXZwTnV3VXc2SHlvZGJwb3NJaS1XUE5SVFpnMjZwem8?oc=5\" target=\"_blank\">“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "央行公示广西第7批金融科技创新应用，探索金融AI共享网络应用场景",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94T0JnU1BzR2w0bDdfU1Q5OXBHZmNhb3ZDdnU0Zi13YWJHbnZLR0hrQklfaUlrck9FNWNSNG5vdHpfaWlNNUdVRnJXMEZvMmg5YmlzWWI2VHVKSTNHU2hPQVR6Yw?oc=5",
+      "source": "移动支付网",
+      "published": "2026-09-14",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94T0JnU1BzR2w0bDdfU1Q5OXBHZmNhb3ZDdnU0Zi13YWJHbnZLR0hrQklfaUlrck9FNWNSNG5vdHpfaWlNNUdVRnJXMEZvMmg5YmlzWWI2VHVKSTNHU2hPQVR6Yw?oc=5\" target=\"_blank\">央行公示广西第7批金融科技创新应用，探索金融AI共享网络应用场景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">移动支付网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI银行卡来了 多家银行推出AI银行卡",
+      "link": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxPRXFlaG1HanJYSDJ2Y3VJZi0xYWI2LWZrNzdpUEkxUVZsUmtpVnlHMUJTVVNLUUx5VzJlSWtTdjhfSTZXa3BWS25FOVBnZjdKd0hBZFNya2ZsbVlPemtwT3QyNW1GQ2FaNGpHXy1YYTJRTDZhb2UtaFJnU21iUVNVQlNqQms4SktRdDMzMGZYWWFSX2FUdi0zanpIUll6NUJvV0wtVWV6SXdsa0c4Nk0zbGg0cVFaaE8xVzl0aVdFMEo5TG5SWWdoOXlSMEwzQjd0dl82VkR6eGpsMXdXcnVWRTFCblR6dERuNWhzeG40OXVmUnE4T2QtZE9qcm8tSXhUOThQS0FjTTE4aUhwMHh6dDZSN1pDZHdBTThkektPN29kUk5Ea2FoNmxFb0p2S1FMdjlUeDFKTUhtU2dNNkVFbVhNeEdScm5LWG5KZWRvRjhPS3BfempmMTIzdFNpR2tucjRJc0lpN25tRklPSFBnWFNGTEVHNG1iTzE2OHhoS05hdVh1aTZSOWZJNUItT20wZGVWamhRdkg5dG9qZU9GSlBoWHViRlF3Wkxkc0NYdVFxZnFnN2V1N0EyQzNCUm5PWXhGdWFQa2dhTzBBUWQ0T2hWeVVVNHNZNUFzY09NNjM4VHVScFJMUGZyc2lSZm9QZFN3V3pIemJIdXZSNkxQNnJmbW5lNzVqLWVma3pERzlVRW9uU3ljYXRpVjdwWGc2dDZ6eEZuWnNLYjY1OEJvdkNzNDFoRmlYLVZsYS1yMlRnb1o4UlhQazdJQ1BscFZOZUVjbFRBa25wSWVKcHpSS3BJc0RUOWJWeWtYcEdSbGFHSl9QdmhCb0ZwODlpZkg3aVhsNTMtM2kzbFNCSW9yU3cxbHk2U0s0VXhXaWgxb1F4Z2ZvNTZVdVVpdHZnWnMwa0RzZDl0ZTd3Ukt2d2dQSGhLSGtQWE9jMkVYUkFaOXBSQV80UWVZc2hSQ00xQVVuR2JlRFBtcw?oc=5",
+      "source": "finance.sina.cn",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wVBVV95cUxPRXFlaG1HanJYSDJ2Y3VJZi0xYWI2LWZrNzdpUEkxUVZsUmtpVnlHMUJTVVNLUUx5VzJlSWtTdjhfSTZXa3BWS25FOVBnZjdKd0hBZFNya2ZsbVlPemtwT3QyNW1GQ2FaNGpHXy1YYTJRTDZhb2UtaFJnU21iUVNVQlNqQms4SktRdDMzMGZYWWFSX2FUdi0zanpIUll6NUJvV0wtVWV6SXdsa0c4Nk0zbGg0cVFaaE8xVzl0aVdFMEo5TG5SWWdoOXlSMEwzQjd0dl82VkR6eGpsMXdXcnVWRTFCblR6dERuNWhzeG40OXVmUnE4T2QtZE9qcm8tSXhUOThQS0FjTTE4aUhwMHh6dDZSN1pDZHdBTThkektPN29kUk5Ea2FoNmxFb0p2S1FMdjlUeDFKTUhtU2dNNkVFbVhNeEdScm5LWG5KZWRvRjhPS3BfempmMTIzdFNpR2tucjRJc0lpN25tRklPSFBnWFNGTEVHNG1iTzE2OHhoS05hdVh1aTZSOWZJNUItT20wZGVWamhRdkg5dG9qZU9GSlBoWHViRlF3Wkxkc0NYdVFxZnFnN2V1N0EyQzNCUm5PWXhGdWFQa2dhTzBBUWQ0T2hWeVVVNHNZNUFzY09NNjM4VHVScFJMUGZyc2lSZm9QZFN3V3pIemJIdXZSNkxQNnJmbW5lNzVqLWVma3pERzlVRW9uU3ljYXRpVjdwWGc2dDZ6eEZuWnNLYjY1OEJvdkNzNDFoRmlYLVZsYS1yMlRnb1o4UlhQazdJQ1BscFZOZUVjbFRBa25wSWVKcHpSS3BJc0RUOWJWeWtYcEdSbGFHSl9QdmhCb0ZwODlpZkg3aVhsNTMtM2kzbFNCSW9yU3cxbHk2U0s0VXhXaWgxb1F4Z2ZvNTZVdVVpdHZnWnMwa0RzZDl0ZTd3Ukt2d2dQSGhLSGtQWE9jMkVYUkFaOXBSQV80UWVZc2hSQ00xQVVuR2JlRFBtcw?oc=5\" target=\"_blank\">AI银行卡来了 多家银行推出AI银行卡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.cn</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "科技主题ETF持续“上新” 公募看好AI产业链投资机会",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5keTJpWmhlelZIdm8wc0JmMzZ4bm56V09EUDQwMjNSS0FoeVNyZ0JZU0dEV0NlOFQ3YVBkTXphY3hmR2s5NEIydlUxbktQUmU2ZWhLSURlOUlMVWZEZ3FsYTJuVnVaTmx6X1JWa0Jn?oc=5",
+      "source": "上海证券报电子版",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5keTJpWmhlelZIdm8wc0JmMzZ4bm56V09EUDQwMjNSS0FoeVNyZ0JZU0dEV0NlOFQ3YVBkTXphY3hmR2s5NEIydlUxbktQUmU2ZWhLSURlOUlMVWZEZ3FsYTJuVnVaTmx6X1JWa0Jn?oc=5\" target=\"_blank\">科技主题ETF持续“上新” 公募看好AI产业链投资机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "银行Token用哪儿了？这场会成了大型“验牌”现场……",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14cmYtUWlXQlpJdmNlaUpfZTRvTTFrU3lRdEUzZnhvUU10aTBJcTZRRmlwcTlsRktWWWtIZE42MkNCTW4xT05vZTVud3hyRkJkYXk2YzVGanU5cThjOU1TcGpn?oc=5",
+      "source": "新京报",
+      "published": "2026-09-13",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14cmYtUWlXQlpJdmNlaUpfZTRvTTFrU3lRdEUzZnhvUU10aTBJcTZRRmlwcTlsRktWWWtIZE42MkNCTW4xT05vZTVud3hyRkJkYXk2YzVGanU5cThjOU1TcGpn?oc=5\" target=\"_blank\">银行Token用哪儿了？这场会成了大型“验牌”现场……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "银行AI账本：日均Token消耗达百亿 三个“转向”值得关注",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEVnRjNoclBWYzhSYWgwUmIyUU5DLVBfSzJMVTNNcmJFak0zVldlWDlsS1dMT3hEY1BrMktQUmZSdFJUWTBWVXo5VmEzZ0h3cnNZVWlybXJ5NDFyTk42LXVkVDItNmNRdjFwenNDdjRsSnJnZWdFOTVoc2ViR2Jod0R2dw?oc=5",
+      "source": "21财经",
+      "published": "2026-09-11",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEVnRjNoclBWYzhSYWgwUmIyUU5DLVBfSzJMVTNNcmJFak0zVldlWDlsS1dMT3hEY1BrMktQUmZSdFJUWTBWVXo5VmEzZ0h3cnNZVWlybXJ5NDFyTk42LXVkVDItNmNRdjFwenNDdjRsSnJnZWdFOTVoc2ViR2Jod0R2dw?oc=5\" target=\"_blank\">银行AI账本：日均Token消耗达百亿 三个“转向”值得关注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "奇富科技“一横N纵”AI矩阵 助推金融业从智力走向智能",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2tXdG5tVWR6a29TaXpsR0E1Q25jTU43ckZtNE1qYmRQNS1Rak5XcGo5MVdkeGZuTjh2eHVyejNMblFNcWZfTTIyT1FkbnhVaUVKNTZrRjdPa0puTnd4Q0ZqUXJ6QXVCeThiaHpZbGlmU0E4Wm5lRjhuX1ZtV0tvX2pPN01pX1EzVkNCc2hvQTd5T0tlYnRqT2Vn?oc=5",
+      "source": "新华网客户端",
+      "published": "2026-09-11",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2tXdG5tVWR6a29TaXpsR0E1Q25jTU43ckZtNE1qYmRQNS1Rak5XcGo5MVdkeGZuTjh2eHVyejNMblFNcWZfTTIyT1FkbnhVaUVKNTZrRjdPa0puTnd4Q0ZqUXJ6QXVCeThiaHpZbGlmU0E4Wm5lRjhuX1ZtV0tvX2pPN01pX1EzVkNCc2hvQTd5T0tlYnRqT2Vn?oc=5\" target=\"_blank\">奇富科技“一横N纵”AI矩阵 助推金融业从智力走向智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Monitoring LLM Uncertainty in Financial Services on AWS",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG1tU2s0LU9Ra0t3UFlrVU1KUXhHWjQ4dnZ4X1EzbE44THBIc3RtdnIyZUZDb0xvUUxjTlp3V0N1My1kQUlOTlpULXpCMm9FMlBqWGRyd3pWS0xLMG12UHlwdDJ0a0R0VzZxdzUyYXNTYzdSQVQtVXYxM1Q0YU5jZmpubkEtWUFORHF1UlJOTWtuX2xXOUptWTBJcVo?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-09-09",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG1tU2s0LU9Ra0t3UFlrVU1KUXhHWjQ4dnZ4X1EzbE44THBIc3RtdnIyZUZDb0xvUUxjTlp3V0N1My1kQUlOTlpULXpCMm9FMlBqWGRyd3pWS0xLMG12UHlwdDJ0a0R0VzZxdzUyYXNTYzdSQVQtVXYxM1Q0YU5jZmpubkEtWUFORHF1UlJOTWtuX2xXOUptWTBJcVo?oc=5\" target=\"_blank\">Monitoring LLM Uncertainty in Financial Services on AWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+      "lang": "en"
+    }
+  ]
+}

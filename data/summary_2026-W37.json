@@ -1,0 +1,8 @@
+{
+  "week": "2026-W37",
+  "generated_at": "2026-09-14T15:37:24.270799",
+  "summary": "<h2>本周概要</h2><p>本周收集了 20 条 AI 金融相关新闻。由于总结生成失败，请直接查看下方新闻列表。</p><p>错误信息: Error code: 401 - {'code': 401, 'reason': 'FAILED_TO_AUTH', 'message': 'failed to authenticate API key', 'metadata': {}}</p>",
+  "model": "fallback",
+  "news_count": 20,
+  "error": "Error code: 401 - {'code': 401, 'reason': 'FAILED_TO_AUTH', 'message': 'failed to authenticate API key', 'metadata': {}}"
+}

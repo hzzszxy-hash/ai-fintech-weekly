@@ -1,372 +1,372 @@
 {
-  "fetch_date": "2026-09-21",
-  "week": "2026-W38",
+  "fetch_date": "2026-09-28",
+  "week": "2026-W39",
   "total_count": 20,
   "lookback_days": 7,
   "en_news": [
     {
-      "title": "AI Strategy Shifts Biopharma Finance Operations",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpZeW1OZ2tub3FuTnZ6RFRSU05QNEFDQXJWblAtVmI4MnBPN3lzVkRYM3RzX3JXWmFwRW5SR3NlLWt4LXN1cnU5QnRGamI3dG9iZ0c5ZjZjOHVUdlpUNmUwNDQ4N0hYcThLZ1J0M0dhOXRlaDcweGlmOXhYRlVBMmxsWUZkUFhRQnJHdEY5YzBIMXlCSGk2cFkwTDR6aGFTdzNjXzZoN0YtSXppbEVqdERtOGdBRVdNMmdTNnZqbTJVVUZoTXc0dlFR?oc=5",
-      "source": "BioXconomy",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpZeW1OZ2tub3FuTnZ6RFRSU05QNEFDQXJWblAtVmI4MnBPN3lzVkRYM3RzX3JXWmFwRW5SR3NlLWt4LXN1cnU5QnRGamI3dG9iZ0c5ZjZjOHVUdlpUNmUwNDQ4N0hYcThLZ1J0M0dhOXRlaDcweGlmOXhYRlVBMmxsWUZkUFhRQnJHdEY5YzBIMXlCSGk2cFkwTDR6aGFTdzNjXzZoN0YtSXppbEVqdERtOGdBRVdNMmdTNnZqbTJVVUZoTXc0dlFR?oc=5\" target=\"_blank\">AI Strategy Shifts Biopharma Finance Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioXconomy</font>",
+      "title": "'Take or pay': AI companies are taking a risky page from the energy sector's playbook",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWxWR3J5NmNEeHBjZmVZYlpmbnZDczJhSmlRZE81dWtyTURlaFZYWlBwQi1jT2tQRmVXX0lxM2hLRVZBLVRaTm1MUzd5c1VwWHVnYXZmSW5MMzIzdWlCOTdrX2lEQ0NhNlVRWlVmTDg1TnUyT3luaUIxalJYUWtFbTRDakgyUFVFOU5LSDNyYUpGb0l3Y3VJb3E4VFQ2Zldqd1diTA?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWxWR3J5NmNEeHBjZmVZYlpmbnZDczJhSmlRZE81dWtyTURlaFZYWlBwQi1jT2tQRmVXX0lxM2hLRVZBLVRaTm1MUzd5c1VwWHVnYXZmSW5MMzIzdWlCOTdrX2lEQ0NhNlVRWlVmTDg1TnUyT3luaUIxalJYUWtFbTRDakgyUFVFOU5LSDNyYUpGb0l3Y3VJb3E4VFQ2Zldqd1diTA?oc=5\" target=\"_blank\">'Take or pay': AI companies are taking a risky page from the energy sector's playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "lang": "en"
     },
     {
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRRNHcwNTN6eWo2bEpaaFJKMHNWcjJPcUpZZG5HT2ljRllocmx2ZmNCdkZlRmdEVU9Rd3Rtdm1CTmlROHh3SjQtSDJ1ZUJXNUhHR2hiUURDWHRuT09DUHRucWlMZVIwcUYzMmtQUFlxb2IxVGVUZGV6dU11NWNBaUZKYVFZS2YwaTAxcHh3Y3BJcWFmOHlkak02cnJ5ckJQa0puVk4xaENaQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRRNHcwNTN6eWo2bEpaaFJKMHNWcjJPcUpZZG5HT2ljRllocmx2ZmNCdkZlRmdEVU9Rd3Rtdm1CTmlROHh3SjQtSDJ1ZUJXNUhHR2hiUURDWHRuT09DUHRucWlMZVIwcUYzMmtQUFlxb2IxVGVUZGV6dU11NWNBaUZKYVFZS2YwaTAxcHh3Y3BJcWFmOHlkak02cnJ5ckJQa0puVk4xaENaQQ?oc=5\" target=\"_blank\">Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "lang": "en"
-    },
-    {
-      "title": "PayPal founding CEO Bill Harris launches financial advice app Evergreen.ai",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnh4TEgtVFRJZXVZZG9NNUJaMTVsbFgwVEdiZ3FudF9pa2t2NjZ1c0pXRWZoWVNnYm5HRTgxOVcyb0E2Tk53ZW9DbFhMRkJfSS1MUXBvU0E2dm9valQ0dzBKNXI0ZHBqVmNEUzNmZGdIYXFOUmJHSGFSWnVFM3ppeUdDSERJS2NrUUQyVDJDOVlaVGdVTjlqb2d0VVZkX0RJVVBSX1JFb1lEbVJkcDF6bDlTRllDdTZNM2ZST1VnbG0?oc=5",
+      "title": "LHV Bank rolls out agentic AI for customer emails with Gradient Labs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRyaEl6a0xYM2pjT2JHOFY4NG9VWG1RdlZYRDlJblJwX0Y2VW1WQ0JVNTRHV0VVV0tiZDZISEdqdVZWMHdLeEhBZ0tzOTJYd2xCNkdLTW5OOU1Ed0hOcnF1M281RHkwTTZsMlpUa2pFd2E1eklzcldXV1VuWWpCM2tzcktHTkowWXNSWGdFVUZlZGw0TG1YQy1xZld2Z0EteEY4Zw?oc=5",
       "source": "FinTech Futures",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnh4TEgtVFRJZXVZZG9NNUJaMTVsbFgwVEdiZ3FudF9pa2t2NjZ1c0pXRWZoWVNnYm5HRTgxOVcyb0E2Tk53ZW9DbFhMRkJfSS1MUXBvU0E2dm9valQ0dzBKNXI0ZHBqVmNEUzNmZGdIYXFOUmJHSGFSWnVFM3ppeUdDSERJS2NrUUQyVDJDOVlaVGdVTjlqb2d0VVZkX0RJVVBSX1JFb1lEbVJkcDF6bDlTRllDdTZNM2ZST1VnbG0?oc=5\" target=\"_blank\">PayPal founding CEO Bill Harris launches financial advice app Evergreen.ai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRyaEl6a0xYM2pjT2JHOFY4NG9VWG1RdlZYRDlJblJwX0Y2VW1WQ0JVNTRHV0VVV0tiZDZISEdqdVZWMHdLeEhBZ0tzOTJYd2xCNkdLTW5OOU1Ed0hOcnF1M281RHkwTTZsMlpUa2pFd2E1eklzcldXV1VuWWpCM2tzcktHTkowWXNSWGdFVUZlZGw0TG1YQy1xZld2Z0EteEY4Zw?oc=5\" target=\"_blank\">LHV Bank rolls out agentic AI for customer emails with Gradient Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
       "lang": "en"
     },
     {
-      "title": "AI chatbots give wrong financial answers most of the time, study finds",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHladkFXYmNEQjZDbk9KcE85WkpLS2plRUVidGZVWVp3dXhnbDVnRHZqMXViUy00ZkVUUFBPQzNjbVpRbFB1SE5MYVpPcml0RnhDeldlQXZQY09UODVhRkRCMnFZQzhKdklxc0tRRmFNaDlLWHRDV1JaQUM2NENKLXgtcDU4Skdwb1ZkZEJ6a1QtekdCU1RDUm8tSFV0c0ZjRnVuVlUtTnJ5bkFQMFdRNmhKWEhadw?oc=5",
-      "source": "InvestmentNews",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHladkFXYmNEQjZDbk9KcE85WkpLS2plRUVidGZVWVp3dXhnbDVnRHZqMXViUy00ZkVUUFBPQzNjbVpRbFB1SE5MYVpPcml0RnhDeldlQXZQY09UODVhRkRCMnFZQzhKdklxc0tRRmFNaDlLWHRDV1JaQUM2NENKLXgtcDU4Skdwb1ZkZEJ6a1QtekdCU1RDUm8tSFV0c0ZjRnVuVlUtTnJ5bkFQMFdRNmhKWEhadw?oc=5\" target=\"_blank\">AI chatbots give wrong financial answers most of the time, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
-      "lang": "en"
-    },
-    {
-      "title": "The trust dividend: Why explainable AI will separate the fintech winners",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2JxR3JBNnF4NDY2cWd4YkptMm5WX3RiVHJBRlhRUG9TTTNkckZFNVFGYWxZSnU3RE1jaTVZV2V2dVFheVpDZmhJbnVBUnZpRGdvQlZoTDVSaTJ0QXdVSVM4SWYtc2xNTC12cXktN2tiZ1o4dTV3bzVFRWNnN3NNU01BZ0t0Tl9MeWNzRkJJYXJFWHZPMlJGYlVKYVRpbGpqdHB2ZHJlcTJCODI5UUV4Ym9JT2VnUQ?oc=5",
-      "source": "Finextra Research",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2JxR3JBNnF4NDY2cWd4YkptMm5WX3RiVHJBRlhRUG9TTTNkckZFNVFGYWxZSnU3RE1jaTVZV2V2dVFheVpDZmhJbnVBUnZpRGdvQlZoTDVSaTJ0QXdVSVM4SWYtc2xNTC12cXktN2tiZ1o4dTV3bzVFRWNnN3NNU01BZ0t0Tl9MeWNzRkJJYXJFWHZPMlJGYlVKYVRpbGpqdHB2ZHJlcTJCODI5UUV4Ym9JT2VnUQ?oc=5\" target=\"_blank\">The trust dividend: Why explainable AI will separate the fintech winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finextra Research</font>",
-      "lang": "en"
-    },
-    {
-      "title": "A job apocalypse?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CT2pGbUo5ZEJPT2R6ajZ4Q0VUdnJsS3Zva0FjMlFGNHZ2aWJFdFozTlRmNnhNLXVlX3E3SjJiT0czeDZKWjdOb05adXZuM0pyQVJLMlRmRGdSdjdaTTVYMGZWUQ?oc=5",
-      "source": "worldfinance.com",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CT2pGbUo5ZEJPT2R6ajZ4Q0VUdnJsS3Zva0FjMlFGNHZ2aWJFdFozTlRmNnhNLXVlX3E3SjJiT0czeDZKWjdOb05adXZuM0pyQVJLMlRmRGdSdjdaTTVYMGZWUQ?oc=5\" target=\"_blank\">A job apocalypse?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">worldfinance.com</font>",
-      "lang": "en"
-    },
-    {
-      "title": "European FinTech funding projected to increase 18% in 2026 as deals under $100m grow in H1",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWlkTDhyV01mb25jZThXdzFVUElmaGotYldWcVZnY0ttODRBd0pDTC1uOW9iUkJtVGtrRVhKQUpjVU1vZVRhMk9XbEtPXzFBcWxLZVpjOXBSbGV1MkVFdTVNTDFrSW1YV2FlWGY4ejB4VXRCUmU4ZWJsbFljamJidVpNOS1WWVFadHRSc0kydlJUS3dDWkg1UUJuR0xybmR3clg2Y0g0Rnl5SWMyQXBEWkRmaGdSMEN6TENXT244RWI?oc=5",
+      "title": "AI in banking: data and skills gaps threaten returns",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dXTU5INkFJTHNTckh1TkhsYkVfRVVBSElKMGtZMk4wY21EdnRqa2lJRi1rOTlTN19xX1ZJSHpKV2dkMHdkM3BVT3I2QmJNcllZZ2tmeUdiSW5QakhBR18wOHlELS1OaEljSU5wMDZBTTlZMExtUlltd0VTVzlVNFNEeVhyaWR0VktjUk5UWQ?oc=5",
       "source": "FinTech Global",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWlkTDhyV01mb25jZThXdzFVUElmaGotYldWcVZnY0ttODRBd0pDTC1uOW9iUkJtVGtrRVhKQUpjVU1vZVRhMk9XbEtPXzFBcWxLZVpjOXBSbGV1MkVFdTVNTDFrSW1YV2FlWGY4ejB4VXRCUmU4ZWJsbFljamJidVpNOS1WWVFadHRSc0kydlJUS3dDWkg1UUJuR0xybmR3clg2Y0g0Rnl5SWMyQXBEWkRmaGdSMEN6TENXT244RWI?oc=5\" target=\"_blank\">European FinTech funding projected to increase 18% in 2026 as deals under $100m grow in H1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dXTU5INkFJTHNTckh1TkhsYkVfRVVBSElKMGtZMk4wY21EdnRqa2lJRi1rOTlTN19xX1ZJSHpKV2dkMHdkM3BVT3I2QmJNcllZZ2tmeUdiSW5QakhBR18wOHlELS1OaEljSU5wMDZBTTlZMExtUlltd0VTVzlVNFNEeVhyaWR0VktjUk5UWQ?oc=5\" target=\"_blank\">AI in banking: data and skills gaps threaten returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
       "lang": "en"
     },
     {
-      "title": "Snappi Fintech & AI Lab Summit: Bringing Academia and Industry Together to Shape the Future of Digital Financial Services",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDJ1U2x5SUdobzFmcUxEakVaY01YeFA3Yzdab25MaU1aNGVlRGlDQXVhM3ZaUGtDVEpMUkFsTEdiaVp2RDhMSEJwWEoxU2RkNU1nQUtVT0ZXTnFPRHFQdHZ4cDVfby1xQUN4RldYX1Z2Rk5UNG81d1JiSHNWT0NaVExsMDg1UTVIck1KZl8zZUJoSVNxdnFWRU50S0pHRXFPbW40SDBxcw?oc=5",
-      "source": "Snappi",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDJ1U2x5SUdobzFmcUxEakVaY01YeFA3Yzdab25MaU1aNGVlRGlDQXVhM3ZaUGtDVEpMUkFsTEdiaVp2RDhMSEJwWEoxU2RkNU1nQUtVT0ZXTnFPRHFQdHZ4cDVfby1xQUN4RldYX1Z2Rk5UNG81d1JiSHNWT0NaVExsMDg1UTVIck1KZl8zZUJoSVNxdnFWRU50S0pHRXFPbW40SDBxcw?oc=5\" target=\"_blank\">Snappi Fintech & AI Lab Summit: Bringing Academia and Industry Together to Shape the Future of Digital Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snappi</font>",
+      "title": "Primer: Unifying Payments Data so AI can Optimise Checkouts",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczlUT1RsY3pLVUctSU90WUJnZXZIZVA4bXBzRHFnZnFQbEVhemxMSnozcTlQR3NZYlNrZ2FVNXZXaVZnMXUyUGpqRmFia2gySU9qM0pIcm5MWUR1U2VwUUNDQjF5OGpYSURIb1NGUFBZMGRocWpFWmZ6U0dOdWV0NV8xVDdtNzljOVpHek5EWjhwRHl3NVE?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNczlUT1RsY3pLVUctSU90WUJnZXZIZVA4bXBzRHFnZnFQbEVhemxMSnozcTlQR3NZYlNrZ2FVNXZXaVZnMXUyUGpqRmFia2gySU9qM0pIcm5MWUR1U2VwUUNDQjF5OGpYSURIb1NGUFBZMGRocWpFWmZ6U0dOdWV0NV8xVDdtNzljOVpHek5EWjhwRHl3NVE?oc=5\" target=\"_blank\">Primer: Unifying Payments Data so AI can Optimise Checkouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
       "lang": "en"
     },
     {
-      "title": "AI in finance must be policed differently",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5",
+      "title": "HSBC Deploys AI to Enhance Trade Finance Operations",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkJnbmVIZ3dtZHRhN2lwd3NrSkRnOTNhX2ZWcEhrdGxCTmxSUDV4SDFPcU5YQ2tmUTMybGpsaWxjUXdBYXRZS0NHVUI2Z0VMaXk2UjFFZkFmXzRDUkN1dDZrMHRnSUxIX0VveTYybmJnSlBJQnRYNkVHUzRrLTB1XzYxNTk3SEVsVWMwc1M2aTBhbUtQX3ZNMlJVc3FyR01UaEdrNEtTZWtTWnhObXc?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkJnbmVIZ3dtZHRhN2lwd3NrSkRnOTNhX2ZWcEhrdGxCTmxSUDV4SDFPcU5YQ2tmUTMybGpsaWxjUXdBYXRZS0NHVUI2Z0VMaXk2UjFFZkFmXzRDUkN1dDZrMHRnSUxIX0VveTYybmJnSlBJQnRYNkVHUzRrLTB1XzYxNTk3SEVsVWMwc1M2aTBhbUtQX3ZNMlJVc3FyR01UaEdrNEtTZWtTWnhObXc?oc=5\" target=\"_blank\">HSBC Deploys AI to Enhance Trade Finance Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "lang": "en"
+    },
+    {
+      "title": "FOO Embeds AI Across Fintech Product Development and Delivery",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNwZHItOGhjWDNpVzJ2QnJCR2xOdXBrbnptbTQtS0tpYTZ3a3RIbUJJMzBUWENTUUtlSXA3N1ZoblB5eEJVNWpha3J1RmUzQnNiV1QwV1JJOGVFa1dQV3c3SHczQTd1REN5RzJLNGZiV0h4cHhlZzRQUmJCamNaS1hKUTF4YzVURHc?oc=5",
+      "source": "TechAfrica News",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNwZHItOGhjWDNpVzJ2QnJCR2xOdXBrbnptbTQtS0tpYTZ3a3RIbUJJMzBUWENTUUtlSXA3N1ZoblB5eEJVNWpha3J1RmUzQnNiV1QwV1JJOGVFa1dQV3c3SHczQTd1REN5RzJLNGZiV0h4cHhlZzRQUmJCamNaS1hKUTF4YzVURHc?oc=5\" target=\"_blank\">FOO Embeds AI Across Fintech Product Development and Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechAfrica News</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How to Know When the AI Boom Is About to Go Bust",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-27",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5\" target=\"_blank\">How to Know When the AI Boom Is About to Go Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Banks have profited from idle cash for years. AI agents could change that.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk5PcGo0NWFPY0c4Z0lnWTc4MVlydWxIc3hMa0VjZm5sR2xYY1hQV1RhemZ2STBsOEtzYUdDQ21ZdDg5YUhfc0J5b3FyUXVybnIzdnlFbkJBQUZHdV9ET2o5VTVoXzk1Mm4zRWJtOTIyMmZ5S2VNTXp5VjNIaV9UVzhua2diQWc2bXotTHpIbWpuUXJ0X3RQTVpER1BDenNwRWxJeEppWTBuRDZvTA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk5PcGo0NWFPY0c4Z0lnWTc4MVlydWxIc3hMa0VjZm5sR2xYY1hQV1RhemZ2STBsOEtzYUdDQ21ZdDg5YUhfc0J5b3FyUXVybnIzdnlFbkJBQUZHdV9ET2o5VTVoXzk1Mm4zRWJtOTIyMmZ5S2VNTXp5VjNIaV9UVzhua2diQWc2bXotTHpIbWpuUXJ0X3RQTVpER1BDenNwRWxJeEppWTBuRDZvTA?oc=5\" target=\"_blank\">Banks have profited from idle cash for years. AI agents could change that.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Fintech bytes: Northwestern Mutual picks Jump for enterprise AI",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ZURE9hc3M1U3BLdjUwS3ZMVnlCMUtFVTRsdGt2QmxFaGtEak9qWXdIcGhncDg5anFhMWU4MEI3ZXhRQWRscW1TSGRjTkV3Zm9zaHZPcXVJWU85anp5Y0JsdTdEMU9FVnVkMmJxM2xRamhrbDNaenB3bFNIN2dmX2laX25xQ0tGNDhIdWVzQkFuc0Nfd2lyYVMycHJCODI2VW5DdVRGLXVxSFQt?oc=5",
+      "source": "InvestmentNews",
+      "published": "2026-09-25",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ZURE9hc3M1U3BLdjUwS3ZMVnlCMUtFVTRsdGt2QmxFaGtEak9qWXdIcGhncDg5anFhMWU4MEI3ZXhRQWRscW1TSGRjTkV3Zm9zaHZPcXVJWU85anp5Y0JsdTdEMU9FVnVkMmJxM2xRamhrbDNaenB3bFNIN2dmX2laX25xQ0tGNDhIdWVzQkFuc0Nfd2lyYVMycHJCODI2VW5DdVRGLXVxSFQt?oc=5\" target=\"_blank\">Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How can we tackle AI’s financial risks?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUpOZ0ZhRUxEeGFLbWw0WGp4bzZrdlJuajZvUWExbzVmXzJjWFpZd2pZaGd3d2dScDFhMEQzMGFvV1NiQlIxMWdKb0ZrYzZpLUZreERlZUQtNnRhRjNUQmFPeVc0V1VZRUFQYkhndFh6RVlZdXpXVDNOTjhzRmRhZndzWko?oc=5",
       "source": "Financial Times",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5\" target=\"_blank\">AI in finance must be policed differently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "lang": "en"
-    },
-    {
-      "title": "AI, Data & Digital Discipline",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRckVReWJaeFAzVTdXVVRMZ0EwVmNkckljQURqa1FyWm5IWkR6X0lOM2tVSGRMLUFVcXE2U0tXTmxGVTh6UFZhMmd1Wk9fQUNuUjE2aFJPR0xWRERFenpMT0xuWUs5S3PSAW9BVV95cUxOdXBRenNWWktXaWtHOUc2bW9kTXVRRlZ3U3N0U1JnZUNiM3hqMWU0d3c5TVVhLUVIOUtRaGhKVTVhMW1mZW9OSUVjZDRfR19yWXZPY0dTTGp6UjE5NU1pNFZ3bVNjcl92d2pmZm5OUmc?oc=5",
-      "source": "Banking Frontiers",
-      "published": "2026-09-20",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRckVReWJaeFAzVTdXVVRMZ0EwVmNkckljQURqa1FyWm5IWkR6X0lOM2tVSGRMLUFVcXE2U0tXTmxGVTh6UFZhMmd1Wk9fQUNuUjE2aFJPR0xWRERFenpMT0xuWUs5S3PSAW9BVV95cUxOdXBRenNWWktXaWtHOUc2bW9kTXVRRlZ3U3N0U1JnZUNiM3hqMWU0d3c5TVVhLUVIOUtRaGhKVTVhMW1mZW9OSUVjZDRfR19yWXZPY0dTTGp6UjE5NU1pNFZ3bVNjcl92d2pmZm5OUmc?oc=5\" target=\"_blank\">AI, Data & Digital Discipline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Banking Frontiers</font>",
-      "lang": "en"
-    },
-    {
-      "title": "CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JSZ0gzUjFpU2FPZjNuQjVFMHQ1RklMMWFTM3NLc3VGWnM3MXlKZHB2ckFnSzZ6YnM5cVJzM1RpQ3lSWTN0aFFFV2E4WkdwWUUtdkpBWU4wSW9UYXJFbmgyNU9pOWZNWnc0OXVFM2RKNXd1aU9SdC0tV2o5b20yaXlpNk5hZGRQYy1EWjFXQW04VU4teU03NTZFQXJYVW5XcnJvTnI3T2FEQVdQUC1WNGhuTF9aV2gxbExwTWJFczh2VWhLTkcyc3dR?oc=5",
-      "source": "Consumer Finance Monitor",
-      "published": "2026-09-18",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JSZ0gzUjFpU2FPZjNuQjVFMHQ1RklMMWFTM3NLc3VGWnM3MXlKZHB2ckFnSzZ6YnM5cVJzM1RpQ3lSWTN0aFFFV2E4WkdwWUUtdkpBWU4wSW9UYXJFbmgyNU9pOWZNWnc0OXVFM2RKNXd1aU9SdC0tV2o5b20yaXlpNk5hZGRQYy1EWjFXQW04VU4teU03NTZFQXJYVW5XcnJvTnI3T2FEQVdQUC1WNGhuTF9aV2gxbExwTWJFczh2VWhLTkcyc3dR?oc=5\" target=\"_blank\">CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Consumer Finance Monitor</font>",
-      "lang": "en"
-    },
-    {
-      "title": "Kastle raises $24 million Series A for banking AI",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDFVVkl1UE5tWXlCRGgyTzk4NDlKRnFkT2s2bmstOTJmZ21GOXU3NGE3RmszamhtNnNCeXI1SVoxckd1dXpLSmloM2xXbUdHd1BSSktQQ081ZG1LNGR5M2lMMWk2RFMzbEhOV1U0NGdpU3h3OTBjbkJiUDhUUnpvWXdWbHpaTHpZZWM0Y01XX2RaVWQ3enFMTGtEcFpQX050?oc=5",
-      "source": "The American Bazaar",
-      "published": "2026-09-17",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDFVVkl1UE5tWXlCRGgyTzk4NDlKRnFkT2s2bmstOTJmZ21GOXU3NGE3RmszamhtNnNCeXI1SVoxckd1dXpLSmloM2xXbUdHd1BSSktQQ081ZG1LNGR5M2lMMWk2RFMzbEhOV1U0NGdpU3h3OTBjbkJiUDhUUnpvWXdWbHpaTHpZZWM0Y01XX2RaVWQ3enFMTGtEcFpQX050?oc=5\" target=\"_blank\">Kastle raises $24 million Series A for banking AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+      "published": "2026-09-25",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUpOZ0ZhRUxEeGFLbWw0WGp4bzZrdlJuajZvUWExbzVmXzJjWFpZd2pZaGd3d2dScDFhMEQzMGFvV1NiQlIxMWdKb0ZrYzZpLUZreERlZUQtNnRhRjNUQmFPeVc0V1VZRUFQYkhndFh6RVlZdXpXVDNOTjhzRmRhZndzWko?oc=5\" target=\"_blank\">How can we tackle AI’s financial risks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "lang": "en"
     }
   ],
   "zh_news": [
     {
-      "title": "华为发布Fintelligent AI解决方案，助力全球金融机构拥有自己的AI， 并将智能掌握在自己手中",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYW1oMVl5SnRCNFdfaTlpV2hlcUtzNmFtbjQ3dHpHczN3cnkzNnZZWHFENTdzNWQ1WVcxZ3dac2Y4T0g0ZGljWlM3dEtMSWNNYmlBdDFrcw?oc=5",
-      "source": "美通社",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYW1oMVl5SnRCNFdfaTlpV2hlcUtzNmFtbjQ3dHpHczN3cnkzNnZZWHFENTdzNWQ1WVcxZ3dac2Y4T0g0ZGljWlM3dEtMSWNNYmlBdDFrcw?oc=5\" target=\"_blank\">华为发布Fintelligent AI解决方案，助力全球金融机构拥有自己的AI， 并将智能掌握在自己手中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美通社</font>",
+      "title": "AI和加密货币：技术越来越便宜，信任越来越昂贵",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOY1NyNktxbXh6WnFMUWZMOUQ3cTcyZkU0SmFmSXd3X3E3SWxPaWwwV2xlcUl0OGpjcHgwcE1FWnRMWTRhNjQ3Q1NBQnZwaXRlSzVTYVdXcjFENEdTVFZWRENJUEFMTlcwei1NT3VVZ1hiemJKRVFRbXRmQnR1cENxdXdHVEhyWl9md2oyYlF6RUpQZ0x5ZTFlamhuUThVVFl3SmVkc1J3WnFWYVNwc2RiejYwbTQ2M2xZUXJpblhQVG42MVBOYy02ZXM2Q0ZSMy1ILXVqQkQwOVdYd0U2dHBNSGdGMmtlVWh0b21RZ2Ryb21Cd3RlaFhHVW96R056Rk8wdTNUTlZSYUdTcjl6ZlVGUlpmNUVYbEZ2Ymh1LUVEajBxZG0wZldvNUlieHZrMEZjdlNmUkU4bXg2b0hrdktVX1NNajhuVmZnNWc?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxOY1NyNktxbXh6WnFMUWZMOUQ3cTcyZkU0SmFmSXd3X3E3SWxPaWwwV2xlcUl0OGpjcHgwcE1FWnRMWTRhNjQ3Q1NBQnZwaXRlSzVTYVdXcjFENEdTVFZWRENJUEFMTlcwei1NT3VVZ1hiemJKRVFRbXRmQnR1cENxdXdHVEhyWl9md2oyYlF6RUpQZ0x5ZTFlamhuUThVVFl3SmVkc1J3WnFWYVNwc2RiejYwbTQ2M2xZUXJpblhQVG42MVBOYy02ZXM2Q0ZSMy1ILXVqQkQwOVdYd0U2dHBNSGdGMmtlVWh0b21RZ2Ryb21Cd3RlaFhHVW96R056Rk8wdTNUTlZSYUdTcjl6ZlVGUlpmNUVYbEZ2Ymh1LUVEajBxZG0wZldvNUlieHZrMEZjdlNmUkU4bXg2b0hrdktVX1NNajhuVmZnNWc?oc=5\" target=\"_blank\">AI和加密货币：技术越来越便宜，信任越来越昂贵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDNFinancials</font>",
       "lang": "zh"
     },
     {
-      "title": "AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEFNZVFwSWZWbkZSemRTRFktbGtXbmlnT1ZOb2RxdnFaT3pCNUpoeHZIZjI1VzZyaE1vU3lrYm1Na28xbFc4bUpVZE91bTFiajEyWDVlUFdkdmRseVJTUGhNd2NSemZxMkVKeWdQOUhSWXdWMVo5Vm5ONUJkTXZfLUh3?oc=5",
+      "title": "科技金融加速跟进人工智能赛道",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJSMk0wbWQ0R3VzQ3gxSm9oTll4dHdkTnJYNF9kc2YzZjlTVE9WalJUSmU4NGQtcWJCZ20tRHVfV2F5NmVGVFdKVGY4b01zemdiOW9VaXRtTWNoOEtCTm1fbFVERkZ2QjNiTm1tUnRNQ0hCY01RYWw5UzVLb1JrWThB?oc=5",
       "source": "手机新浪网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEFNZVFwSWZWbkZSemRTRFktbGtXbmlnT1ZOb2RxdnFaT3pCNUpoeHZIZjI1VzZyaE1vU3lrYm1Na28xbFc4bUpVZE91bTFiajEyWDVlUFdkdmRseVJTUGhNd2NSemZxMkVKeWdQOUhSWXdWMVo5Vm5ONUJkTXZfLUh3?oc=5\" target=\"_blank\">AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJSMk0wbWQ0R3VzQ3gxSm9oTll4dHdkTnJYNF9kc2YzZjlTVE9WalJUSmU4NGQtcWJCZ20tRHVfV2F5NmVGVFdKVGY4b01zemdiOW9VaXRtTWNoOEtCTm1fbFVERkZ2QjNiTm1tUnRNQ0hCY01RYWw5UzVLb1JrWThB?oc=5\" target=\"_blank\">科技金融加速跟进人工智能赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
       "lang": "zh"
     },
     {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbV9ta21NLXVqTWdwb2t4V21obFdlRlY1Wmx0UmFQMG1qZTgwb1lLdTA4VlF3R1Y5YThCSEFsYWI1VXBpOV9DbDluc1dfN3laR3Fha29SMjN0NndMZUt3WEJXSTFOZw?oc=5",
-      "source": "南方财经",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbV9ta21NLXVqTWdwb2t4V21obFdlRlY1Wmx0UmFQMG1qZTgwb1lLdTA4VlF3R1Y5YThCSEFsYWI1VXBpOV9DbDluc1dfN3laR3Fha29SMjN0NndMZUt3WEJXSTFOZw?oc=5\" target=\"_blank\">南方财经全媒体集团</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">南方财经</font>",
+      "title": "阿波罗的Torsten Slok警告称，人工智能代理可能会耗尽廉价的银行存款",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTF6ekVmcXVqTklhZjZVclJNSTVVZG5EaGcyWTNSMlFYMDdsU2wxd1F4OUhuQnplSkV5cG9UdXJrMjlpNm5vZUl4V29iWVM2MjJqT0tJUzB4NzFPZWN2SEZQVWdsSENtUm5MN0ZCR2s2QVExVV9BU3BLMWRRZEpGQkRHVkdjcGJHTEFNdUdiejdBSFdZZnJ2dmRqcHFKYW1jZS1FMnhma2paWmM?oc=5",
+      "source": "Moomoo",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTF6ekVmcXVqTklhZjZVclJNSTVVZG5EaGcyWTNSMlFYMDdsU2wxd1F4OUhuQnplSkV5cG9UdXJrMjlpNm5vZUl4V29iWVM2MjJqT0tJUzB4NzFPZWN2SEZQVWdsSENtUm5MN0ZCR2s2QVExVV9BU3BLMWRRZEpGQkRHVkdjcGJHTEFNdUdiejdBSFdZZnJ2dmRqcHFKYW1jZS1FMnhma2paWmM?oc=5\" target=\"_blank\">阿波罗的Torsten Slok警告称，人工智能代理可能会耗尽廉价的银行存款</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
       "lang": "zh"
     },
     {
-      "title": "智慧引领 链通全球——交通银行参展第23届中国—东盟博览会",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHVXd1lKSktWOFJ6a0UxZ0VkeHQ4VHkwR3ZfWDBveUZPamV5ZlphMVlrM0V6QVFXX19jMUw5a2JyODdvd1BtbVczelRTNEhSMjBXS092VFNRNUZ6cm5OZURNOXVoRmh6aGZXZ0lkY0R1RlNWaHJDREZad0VIUHgzaWFSTWxjYzh4Um1PenYwQy1qN3ZIZVhSM2pn?oc=5",
-      "source": "新华网客户端",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObHVXd1lKSktWOFJ6a0UxZ0VkeHQ4VHkwR3ZfWDBveUZPamV5ZlphMVlrM0V6QVFXX19jMUw5a2JyODdvd1BtbVczelRTNEhSMjBXS092VFNRNUZ6cm5OZURNOXVoRmh6aGZXZ0lkY0R1RlNWaHJDREZad0VIUHgzaWFSTWxjYzh4Um1PenYwQy1qN3ZIZVhSM2pn?oc=5\" target=\"_blank\">智慧引领 链通全球——交通银行参展第23届中国—东盟博览会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+      "title": "陈华国：新加坡金融业AI应用责任待厘清",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55WVR6OHVCTnlGNWVEZEtxeG8zMEtTMTRIaFQyS2NWZUd2YkV4WHhDS3F1aXdqcnllMTJMMG94OXdHMkZOZm1LNi1DeVdFdXV2NEttMV91U1NNdWRCRW5kNlYzYXJtbS01SEZB?oc=5",
+      "source": "联合早报",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE55WVR6OHVCTnlGNWVEZEtxeG8zMEtTMTRIaFQyS2NWZUd2YkV4WHhDS3F1aXdqcnllMTJMMG94OXdHMkZOZm1LNi1DeVdFdXV2NEttMV91U1NNdWRCRW5kNlYzYXJtbS01SEZB?oc=5\" target=\"_blank\">陈华国：新加坡金融业AI应用责任待厘清</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
       "lang": "zh"
     },
     {
-      "title": "交通银行：AI赋能金融链通全球 沉浸式感受数智金融科技",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHBzNHk5VXJlbFQxVjRJYTVJa2JMLS12eElVdXhsQVhWZ29Eak9KTEhzY0VDZDdDN3RKMXZXVlA3UkR0OEdKQ0NDamVubGRBSk5HUGRpUXJwTWpTaVVWWWFJemFBZ3NBZi1Pd09NdFdlcTJwMVpNSWx6UklTeHM?oc=5",
-      "source": "新华网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHBzNHk5VXJlbFQxVjRJYTVJa2JMLS12eElVdXhsQVhWZ29Eak9KTEhzY0VDZDdDN3RKMXZXVlA3UkR0OEdKQ0NDamVubGRBSk5HUGRpUXJwTWpTaVVWWWFJemFBZ3NBZi1Pd09NdFdlcTJwMVpNSWx6UklTeHM?oc=5\" target=\"_blank\">交通银行：AI赋能金融链通全球 沉浸式感受数智金融科技</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "title": "央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZDM2Q2xqcDBuMk9ZTWNpVGRYOHpfX2Vkdm9PNWlhZHd4LTZTNmUxX2M5VDZrcklvWmNDVFV2MFhVVzFsRTZ5OEZvcVRRR3V3aDJB?oc=5",
+      "source": "wallstreetcn.com",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZDM2Q2xqcDBuMk9ZTWNpVGRYOHpfX2Vkdm9PNWlhZHd4LTZTNmUxX2M5VDZrcklvWmNDVFV2MFhVVzFsRTZ5OEZvcVRRR3V3aDJB?oc=5\" target=\"_blank\">央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wallstreetcn.com</font>",
       "lang": "zh"
     },
     {
-      "title": "吕家进出席2026智能经济论坛 解读金融智能化",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrR01zdndfOV96Y21uOVgtaTdkTXNFXzhtRXg4dkRuaDRObjVlcnYxSnNyNzcxWmppcWh0anJCZ3JmWTNRQ1BTaWhUT3NRdzBIWV9mb3FYOWhLYjAtWWxTenRkQ0ZybTA2a01Ra21QaEtPLWxONmZCRmJB?oc=5",
-      "source": "观察者网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBrR01zdndfOV96Y21uOVgtaTdkTXNFXzhtRXg4dkRuaDRObjVlcnYxSnNyNzcxWmppcWh0anJCZ3JmWTNRQ1BTaWhUT3NRdzBIWV9mb3FYOWhLYjAtWWxTenRkQ0ZybTA2a01Ra21QaEtPLWxONmZCRmJB?oc=5\" target=\"_blank\">吕家进出席2026智能经济论坛 解读金融智能化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
+      "title": "移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeEZSaDdQdXJ3WTR1T1gwcmlELTQ1b2d2TTFpMzhZYU5QVXhwWllPRTIyOFJaa3pQbmE0UUhNRUJPZzlnR0JR?oc=5",
+      "source": "同花顺",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeEZSaDdQdXJ3WTR1T1gwcmlELTQ1b2d2TTFpMzhZYU5QVXhwWllPRTIyOFJaa3pQbmE0UUhNRUJPZzlnR0JR?oc=5\" target=\"_blank\">移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
       "lang": "zh"
     },
     {
-      "title": "神州信息出席深圳香蜜湖国金院2026秋季会议，以金融AI治理实践助力\"智能向善\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWtLcFJVSzBoLUFFNDYwSUJiU3JiaW91UldhRElELWx2Y2ZmLU1GR08yM0ktNEpEYmFMdk5kdk0yZnlhT2M1Q0lmNHZDUW1SdUtvOENZWEJ5QWF2NGc?oc=5",
-      "source": "同花顺财经",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWtLcFJVSzBoLUFFNDYwSUJiU3JiaW91UldhRElELWx2Y2ZmLU1GR08yM0ktNEpEYmFMdk5kdk0yZnlhT2M1Q0lmNHZDUW1SdUtvOENZWEJ5QWF2NGc?oc=5\" target=\"_blank\">神州信息出席深圳香蜜湖国金院2026秋季会议，以金融AI治理实践助力\"智能向善\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "title": "智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83NkxUMWxfb2c1MnVydnIzbU4wRkxRUXZlN2E4V3h1SWJZR2dWOEprVU1IZFVraEQyRHY0bmkzWF82aWRfN1BBS09CNjFlTmlYMXhEMGxqbTFaUG5HcWtQTi1qcUs2dXNUMUl1UzZKZnpSdw?oc=5",
+      "source": "cs.com.cn",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE83NkxUMWxfb2c1MnVydnIzbU4wRkxRUXZlN2E4V3h1SWJZR2dWOEprVU1IZFVraEQyRHY0bmkzWF82aWRfN1BBS09CNjFlTmlYMXhEMGxqbTFaUG5HcWtQTi1qcUs2dXNUMUl1UzZKZnpSdw?oc=5\" target=\"_blank\">智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cs.com.cn</font>",
       "lang": "zh"
     },
     {
-      "title": "AI进入证券投资之后，源达如何理解金融科技带来的新变化",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVndrSkg3U1FwckcwVV95WWZHV3k0V2ZsYmhTMWVaM0VQYzJfZGd4bTU3dWhPWjQ2TjU1M0JVaDlxRFhnN3dhdkt4RkFOTmpGdE1Oc3BTQ2RkNmIzb1lCaHBDb2dyR01UTEtNRGpCWGhkUFZaZ1JZdWFvTkNNQkVYYUFTem5FN19qUi1SUHR4SDM1cllj?oc=5",
-      "source": "新浪财经",
-      "published": "2026-09-18",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQVndrSkg3U1FwckcwVV95WWZHV3k0V2ZsYmhTMWVaM0VQYzJfZGd4bTU3dWhPWjQ2TjU1M0JVaDlxRFhnN3dhdkt4RkFOTmpGdE1Oc3BTQ2RkNmIzb1lCaHBDb2dyR01UTEtNRGpCWGhkUFZaZ1JZdWFvTkNNQkVYYUFTem5FN19qUi1SUHR4SDM1cllj?oc=5\" target=\"_blank\">AI进入证券投资之后，源达如何理解金融科技带来的新变化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWFfblBhcDdMX0l1aWkzVkVfZ0phX1RzSzVqaEZPZklLak9WQW5ZaWVrV0U5SmhMcTFZZ0N2cml4aU8yY2loRzhEeTU4MmloMkMzcGp4Y091Xzh2OUJNdDlCdlo4SzBQVmhjeTl5UTNXRW9OYkJfUlJwMWlaU1FmNUwtWHNxNU9sUWFSRmxLVEk5NlBmVGZsYmlKTkJkMDByX29lNC1B?oc=5",
+      "source": "Moomoo",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWFfblBhcDdMX0l1aWkzVkVfZ0phX1RzSzVqaEZPZklLak9WQW5ZaWVrV0U5SmhMcTFZZ0N2cml4aU8yY2loRzhEeTU4MmloMkMzcGp4Y091Xzh2OUJNdDlCdlo4SzBQVmhjeTl5UTNXRW9OYkJfUlJwMWlaU1FmNUwtWHNxNU9sUWFSRmxLVEk5NlBmVGZsYmlKTkJkMDByX29lNC1B?oc=5\" target=\"_blank\">AI 智能体或致银行挤兑：华尔街警告低成本存款危机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cmZjYVRlaVZrRm9IZEVqWklBTC1iS0dWbG1TRXpKZ21TZkx5amdHMkFBQWl3b1ctcTh4WExwZEdjOVdvQzVRTVVEa2dGYUhuaDZVMlo1dENHYUttd2U5UV9Lbk0?oc=5",
+      "source": "证券之星",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cmZjYVRlaVZrRm9IZEVqWklBTC1iS0dWbG1TRXpKZ21TZkx5amdHMkFBQWl3b1ctcTh4WExwZEdjOVdvQzVRTVVEa2dGYUhuaDZVMlo1dENHYUttd2U5UV9Lbk0?oc=5\" target=\"_blank\">AI 智能体或致银行挤兑：华尔街警告低成本存款危机_滚动新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "源达亮相华为全联接大会2026 ，共探AI驱动金融智能化新趋势",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5nTnF6NDBSUmNQRDFwdTZLcnhqUzZDZEZaMTBkVjM4dWRuNFJQSUg2R050eXFhRG52VHdxRldNcWllbERpNTRNaW9VWVg0S2VRazUxYlJLRkpWNkhaX25YaHVvUzFFU1M1MkFQaWduanFyY0RlUGw5Ni1ITDI0YWhKdEdPVko3QUZrbWRnQQ?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-09-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5nTnF6NDBSUmNQRDFwdTZLcnhqUzZDZEZaMTBkVjM4dWRuNFJQSUg2R050eXFhRG52VHdxRldNcWllbERpNTRNaW9VWVg0S2VRazUxYlJLRkpWNkhaX25YaHVvUzFFU1M1MkFQaWduanFyY0RlUGw5Ni1ITDI0YWhKdEdPVko3QUZrbWRnQQ?oc=5\" target=\"_blank\">源达亮相华为全联接大会2026 ，共探AI驱动金融智能化新趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
       "lang": "zh"
     }
   ],
   "all_news": [
     {
-      "title": "华为发布Fintelligent AI解决方案，助力全球金融机构拥有自己的AI， 并将智能掌握在自己手中",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYW1oMVl5SnRCNFdfaTlpV2hlcUtzNmFtbjQ3dHpHczN3cnkzNnZZWHFENTdzNWQ1WVcxZ3dac2Y4T0g0ZGljWlM3dEtMSWNNYmlBdDFrcw?oc=5",
-      "source": "美通社",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYW1oMVl5SnRCNFdfaTlpV2hlcUtzNmFtbjQ3dHpHczN3cnkzNnZZWHFENTdzNWQ1WVcxZ3dac2Y4T0g0ZGljWlM3dEtMSWNNYmlBdDFrcw?oc=5\" target=\"_blank\">华为发布Fintelligent AI解决方案，助力全球金融机构拥有自己的AI， 并将智能掌握在自己手中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美通社</font>",
+      "title": "AI和加密货币：技术越来越便宜，信任越来越昂贵",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOY1NyNktxbXh6WnFMUWZMOUQ3cTcyZkU0SmFmSXd3X3E3SWxPaWwwV2xlcUl0OGpjcHgwcE1FWnRMWTRhNjQ3Q1NBQnZwaXRlSzVTYVdXcjFENEdTVFZWRENJUEFMTlcwei1NT3VVZ1hiemJKRVFRbXRmQnR1cENxdXdHVEhyWl9md2oyYlF6RUpQZ0x5ZTFlamhuUThVVFl3SmVkc1J3WnFWYVNwc2RiejYwbTQ2M2xZUXJpblhQVG42MVBOYy02ZXM2Q0ZSMy1ILXVqQkQwOVdYd0U2dHBNSGdGMmtlVWh0b21RZ2Ryb21Cd3RlaFhHVW96R056Rk8wdTNUTlZSYUdTcjl6ZlVGUlpmNUVYbEZ2Ymh1LUVEajBxZG0wZldvNUlieHZrMEZjdlNmUkU4bXg2b0hrdktVX1NNajhuVmZnNWc?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxOY1NyNktxbXh6WnFMUWZMOUQ3cTcyZkU0SmFmSXd3X3E3SWxPaWwwV2xlcUl0OGpjcHgwcE1FWnRMWTRhNjQ3Q1NBQnZwaXRlSzVTYVdXcjFENEdTVFZWRENJUEFMTlcwei1NT3VVZ1hiemJKRVFRbXRmQnR1cENxdXdHVEhyWl9md2oyYlF6RUpQZ0x5ZTFlamhuUThVVFl3SmVkc1J3WnFWYVNwc2RiejYwbTQ2M2xZUXJpblhQVG42MVBOYy02ZXM2Q0ZSMy1ILXVqQkQwOVdYd0U2dHBNSGdGMmtlVWh0b21RZ2Ryb21Cd3RlaFhHVW96R056Rk8wdTNUTlZSYUdTcjl6ZlVGUlpmNUVYbEZ2Ymh1LUVEajBxZG0wZldvNUlieHZrMEZjdlNmUkU4bXg2b0hrdktVX1NNajhuVmZnNWc?oc=5\" target=\"_blank\">AI和加密货币：技术越来越便宜，信任越来越昂贵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDNFinancials</font>",
       "lang": "zh",
-      "title_zh": "华为发布Fintelligent AI解决方案，助力全球金融机构拥有自己的AI， 并将智能掌握在自己手中",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYW1oMVl5SnRCNFdfaTlpV2hlcUtzNmFtbjQ3dH"
+      "title_zh": "AI和加密货币：技术越来越便宜，信任越来越昂贵",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxOY1NyNktxbXh6WnFMUWZMOUQ3cTcyZkU0SmFmSX"
     },
     {
-      "title": "AI Strategy Shifts Biopharma Finance Operations",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpZeW1OZ2tub3FuTnZ6RFRSU05QNEFDQXJWblAtVmI4MnBPN3lzVkRYM3RzX3JXWmFwRW5SR3NlLWt4LXN1cnU5QnRGamI3dG9iZ0c5ZjZjOHVUdlpUNmUwNDQ4N0hYcThLZ1J0M0dhOXRlaDcweGlmOXhYRlVBMmxsWUZkUFhRQnJHdEY5YzBIMXlCSGk2cFkwTDR6aGFTdzNjXzZoN0YtSXppbEVqdERtOGdBRVdNMmdTNnZqbTJVVUZoTXc0dlFR?oc=5",
-      "source": "BioXconomy",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpZeW1OZ2tub3FuTnZ6RFRSU05QNEFDQXJWblAtVmI4MnBPN3lzVkRYM3RzX3JXWmFwRW5SR3NlLWt4LXN1cnU5QnRGamI3dG9iZ0c5ZjZjOHVUdlpUNmUwNDQ4N0hYcThLZ1J0M0dhOXRlaDcweGlmOXhYRlVBMmxsWUZkUFhRQnJHdEY5YzBIMXlCSGk2cFkwTDR6aGFTdzNjXzZoN0YtSXppbEVqdERtOGdBRVdNMmdTNnZqbTJVVUZoTXc0dlFR?oc=5\" target=\"_blank\">AI Strategy Shifts Biopharma Finance Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioXconomy</font>",
+      "title": "'Take or pay': AI companies are taking a risky page from the energy sector's playbook",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWxWR3J5NmNEeHBjZmVZYlpmbnZDczJhSmlRZE81dWtyTURlaFZYWlBwQi1jT2tQRmVXX0lxM2hLRVZBLVRaTm1MUzd5c1VwWHVnYXZmSW5MMzIzdWlCOTdrX2lEQ0NhNlVRWlVmTDg1TnUyT3luaUIxalJYUWtFbTRDakgyUFVFOU5LSDNyYUpGb0l3Y3VJb3E4VFQ2Zldqd1diTA?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWxWR3J5NmNEeHBjZmVZYlpmbnZDczJhSmlRZE81dWtyTURlaFZYWlBwQi1jT2tQRmVXX0lxM2hLRVZBLVRaTm1MUzd5c1VwWHVnYXZmSW5MMzIzdWlCOTdrX2lEQ0NhNlVRWlVmTDg1TnUyT3luaUIxalJYUWtFbTRDakgyUFVFOU5LSDNyYUpGb0l3Y3VJb3E4VFQ2Zldqd1diTA?oc=5\" target=\"_blank\">'Take or pay': AI companies are taking a risky page from the energy sector's playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "lang": "en",
-      "title_zh": "AI Strategy Shifts Biopharma Finance Operations",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpZeW1OZ2tub3FuTnZ6RFRSU05QNEFDQXJWbl"
+      "title_zh": "'Take or pay': AI companies are taking a risky page from the energy sector's playbook",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWxWR3J5NmNEeHBjZmVZYlpmbnZDczJhSmlRZE"
     },
     {
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRRNHcwNTN6eWo2bEpaaFJKMHNWcjJPcUpZZG5HT2ljRllocmx2ZmNCdkZlRmdEVU9Rd3Rtdm1CTmlROHh3SjQtSDJ1ZUJXNUhHR2hiUURDWHRuT09DUHRucWlMZVIwcUYzMmtQUFlxb2IxVGVUZGV6dU11NWNBaUZKYVFZS2YwaTAxcHh3Y3BJcWFmOHlkak02cnJ5ckJQa0puVk4xaENaQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRRNHcwNTN6eWo2bEpaaFJKMHNWcjJPcUpZZG5HT2ljRllocmx2ZmNCdkZlRmdEVU9Rd3Rtdm1CTmlROHh3SjQtSDJ1ZUJXNUhHR2hiUURDWHRuT09DUHRucWlMZVIwcUYzMmtQUFlxb2IxVGVUZGV6dU11NWNBaUZKYVFZS2YwaTAxcHh3Y3BJcWFmOHlkak02cnJ5ckJQa0puVk4xaENaQQ?oc=5\" target=\"_blank\">Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "lang": "en",
-      "title_zh": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRRNHcwNTN6eWo2bEpaaFJKMHNWcjJPcUpZZG"
-    },
-    {
-      "title": "PayPal founding CEO Bill Harris launches financial advice app Evergreen.ai",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnh4TEgtVFRJZXVZZG9NNUJaMTVsbFgwVEdiZ3FudF9pa2t2NjZ1c0pXRWZoWVNnYm5HRTgxOVcyb0E2Tk53ZW9DbFhMRkJfSS1MUXBvU0E2dm9valQ0dzBKNXI0ZHBqVmNEUzNmZGdIYXFOUmJHSGFSWnVFM3ppeUdDSERJS2NrUUQyVDJDOVlaVGdVTjlqb2d0VVZkX0RJVVBSX1JFb1lEbVJkcDF6bDlTRllDdTZNM2ZST1VnbG0?oc=5",
-      "source": "FinTech Futures",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnh4TEgtVFRJZXVZZG9NNUJaMTVsbFgwVEdiZ3FudF9pa2t2NjZ1c0pXRWZoWVNnYm5HRTgxOVcyb0E2Tk53ZW9DbFhMRkJfSS1MUXBvU0E2dm9valQ0dzBKNXI0ZHBqVmNEUzNmZGdIYXFOUmJHSGFSWnVFM3ppeUdDSERJS2NrUUQyVDJDOVlaVGdVTjlqb2d0VVZkX0RJVVBSX1JFb1lEbVJkcDF6bDlTRllDdTZNM2ZST1VnbG0?oc=5\" target=\"_blank\">PayPal founding CEO Bill Harris launches financial advice app Evergreen.ai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
-      "lang": "en",
-      "title_zh": "PayPal founding CEO Bill Harris launches financial advice app Evergreen.ai",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnh4TEgtVFRJZXVZZG9NNUJaMTVsbFgwVEdiZ3"
-    },
-    {
-      "title": "AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEFNZVFwSWZWbkZSemRTRFktbGtXbmlnT1ZOb2RxdnFaT3pCNUpoeHZIZjI1VzZyaE1vU3lrYm1Na28xbFc4bUpVZE91bTFiajEyWDVlUFdkdmRseVJTUGhNd2NSemZxMkVKeWdQOUhSWXdWMVo5Vm5ONUJkTXZfLUh3?oc=5",
+      "title": "科技金融加速跟进人工智能赛道",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJSMk0wbWQ0R3VzQ3gxSm9oTll4dHdkTnJYNF9kc2YzZjlTVE9WalJUSmU4NGQtcWJCZ20tRHVfV2F5NmVGVFdKVGY4b01zemdiOW9VaXRtTWNoOEtCTm1fbFVERkZ2QjNiTm1tUnRNQ0hCY01RYWw5UzVLb1JrWThB?oc=5",
       "source": "手机新浪网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEFNZVFwSWZWbkZSemRTRFktbGtXbmlnT1ZOb2RxdnFaT3pCNUpoeHZIZjI1VzZyaE1vU3lrYm1Na28xbFc4bUpVZE91bTFiajEyWDVlUFdkdmRseVJTUGhNd2NSemZxMkVKeWdQOUhSWXdWMVo5Vm5ONUJkTXZfLUh3?oc=5\" target=\"_blank\">AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJSMk0wbWQ0R3VzQ3gxSm9oTll4dHdkTnJYNF9kc2YzZjlTVE9WalJUSmU4NGQtcWJCZ20tRHVfV2F5NmVGVFdKVGY4b01zemdiOW9VaXRtTWNoOEtCTm1fbFVERkZ2QjNiTm1tUnRNQ0hCY01RYWw5UzVLb1JrWThB?oc=5\" target=\"_blank\">科技金融加速跟进人工智能赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
       "lang": "zh",
-      "title_zh": "AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEFNZVFwSWZWbkZSemRTRFktbGtXbmlnT1ZOb2"
+      "title_zh": "科技金融加速跟进人工智能赛道",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJSMk0wbWQ0R3VzQ3gxSm9oTll4dHdkTnJYNF"
     },
     {
-      "title": "AI chatbots give wrong financial answers most of the time, study finds",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHladkFXYmNEQjZDbk9KcE85WkpLS2plRUVidGZVWVp3dXhnbDVnRHZqMXViUy00ZkVUUFBPQzNjbVpRbFB1SE5MYVpPcml0RnhDeldlQXZQY09UODVhRkRCMnFZQzhKdklxc0tRRmFNaDlLWHRDV1JaQUM2NENKLXgtcDU4Skdwb1ZkZEJ6a1QtekdCU1RDUm8tSFV0c0ZjRnVuVlUtTnJ5bkFQMFdRNmhKWEhadw?oc=5",
-      "source": "InvestmentNews",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHladkFXYmNEQjZDbk9KcE85WkpLS2plRUVidGZVWVp3dXhnbDVnRHZqMXViUy00ZkVUUFBPQzNjbVpRbFB1SE5MYVpPcml0RnhDeldlQXZQY09UODVhRkRCMnFZQzhKdklxc0tRRmFNaDlLWHRDV1JaQUM2NENKLXgtcDU4Skdwb1ZkZEJ6a1QtekdCU1RDUm8tSFV0c0ZjRnVuVlUtTnJ5bkFQMFdRNmhKWEhadw?oc=5\" target=\"_blank\">AI chatbots give wrong financial answers most of the time, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "title": "LHV Bank rolls out agentic AI for customer emails with Gradient Labs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRyaEl6a0xYM2pjT2JHOFY4NG9VWG1RdlZYRDlJblJwX0Y2VW1WQ0JVNTRHV0VVV0tiZDZISEdqdVZWMHdLeEhBZ0tzOTJYd2xCNkdLTW5OOU1Ed0hOcnF1M281RHkwTTZsMlpUa2pFd2E1eklzcldXV1VuWWpCM2tzcktHTkowWXNSWGdFVUZlZGw0TG1YQy1xZld2Z0EteEY4Zw?oc=5",
+      "source": "FinTech Futures",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRyaEl6a0xYM2pjT2JHOFY4NG9VWG1RdlZYRDlJblJwX0Y2VW1WQ0JVNTRHV0VVV0tiZDZISEdqdVZWMHdLeEhBZ0tzOTJYd2xCNkdLTW5OOU1Ed0hOcnF1M281RHkwTTZsMlpUa2pFd2E1eklzcldXV1VuWWpCM2tzcktHTkowWXNSWGdFVUZlZGw0TG1YQy1xZld2Z0EteEY4Zw?oc=5\" target=\"_blank\">LHV Bank rolls out agentic AI for customer emails with Gradient Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
       "lang": "en",
-      "title_zh": "AI chatbots give wrong financial answers most of the time, study finds",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHladkFXYmNEQjZDbk9KcE85WkpLS2plRUVidG"
+      "title_zh": "LHV Bank rolls out agentic AI for customer emails with Gradient Labs",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRyaEl6a0xYM2pjT2JHOFY4NG9VWG1RdlZYRD"
     },
     {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbV9ta21NLXVqTWdwb2t4V21obFdlRlY1Wmx0UmFQMG1qZTgwb1lLdTA4VlF3R1Y5YThCSEFsYWI1VXBpOV9DbDluc1dfN3laR3Fha29SMjN0NndMZUt3WEJXSTFOZw?oc=5",
-      "source": "南方财经",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbV9ta21NLXVqTWdwb2t4V21obFdlRlY1Wmx0UmFQMG1qZTgwb1lLdTA4VlF3R1Y5YThCSEFsYWI1VXBpOV9DbDluc1dfN3laR3Fha29SMjN0NndMZUt3WEJXSTFOZw?oc=5\" target=\"_blank\">南方财经全媒体集团</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">南方财经</font>",
+      "title": "阿波罗的Torsten Slok警告称，人工智能代理可能会耗尽廉价的银行存款",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTF6ekVmcXVqTklhZjZVclJNSTVVZG5EaGcyWTNSMlFYMDdsU2wxd1F4OUhuQnplSkV5cG9UdXJrMjlpNm5vZUl4V29iWVM2MjJqT0tJUzB4NzFPZWN2SEZQVWdsSENtUm5MN0ZCR2s2QVExVV9BU3BLMWRRZEpGQkRHVkdjcGJHTEFNdUdiejdBSFdZZnJ2dmRqcHFKYW1jZS1FMnhma2paWmM?oc=5",
+      "source": "Moomoo",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTF6ekVmcXVqTklhZjZVclJNSTVVZG5EaGcyWTNSMlFYMDdsU2wxd1F4OUhuQnplSkV5cG9UdXJrMjlpNm5vZUl4V29iWVM2MjJqT0tJUzB4NzFPZWN2SEZQVWdsSENtUm5MN0ZCR2s2QVExVV9BU3BLMWRRZEpGQkRHVkdjcGJHTEFNdUdiejdBSFdZZnJ2dmRqcHFKYW1jZS1FMnhma2paWmM?oc=5\" target=\"_blank\">阿波罗的Torsten Slok警告称，人工智能代理可能会耗尽廉价的银行存款</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
       "lang": "zh",
-      "title_zh": "南方财经全媒体集团",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbV9ta21NLXVqTWdwb2t4V21obFdlRlY1Wmx0Um"
+      "title_zh": "阿波罗的Torsten Slok警告称，人工智能代理可能会耗尽廉价的银行存款",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTF6ekVmcXVqTklhZjZVclJNSTVVZG5EaGcyWT"
     },
     {
-      "title": "The trust dividend: Why explainable AI will separate the fintech winners",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2JxR3JBNnF4NDY2cWd4YkptMm5WX3RiVHJBRlhRUG9TTTNkckZFNVFGYWxZSnU3RE1jaTVZV2V2dVFheVpDZmhJbnVBUnZpRGdvQlZoTDVSaTJ0QXdVSVM4SWYtc2xNTC12cXktN2tiZ1o4dTV3bzVFRWNnN3NNU01BZ0t0Tl9MeWNzRkJJYXJFWHZPMlJGYlVKYVRpbGpqdHB2ZHJlcTJCODI5UUV4Ym9JT2VnUQ?oc=5",
-      "source": "Finextra Research",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2JxR3JBNnF4NDY2cWd4YkptMm5WX3RiVHJBRlhRUG9TTTNkckZFNVFGYWxZSnU3RE1jaTVZV2V2dVFheVpDZmhJbnVBUnZpRGdvQlZoTDVSaTJ0QXdVSVM4SWYtc2xNTC12cXktN2tiZ1o4dTV3bzVFRWNnN3NNU01BZ0t0Tl9MeWNzRkJJYXJFWHZPMlJGYlVKYVRpbGpqdHB2ZHJlcTJCODI5UUV4Ym9JT2VnUQ?oc=5\" target=\"_blank\">The trust dividend: Why explainable AI will separate the fintech winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finextra Research</font>",
-      "lang": "en",
-      "title_zh": "The trust dividend: Why explainable AI will separate the fintech winners",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2JxR3JBNnF4NDY2cWd4YkptMm5WX3RiVHJBRl"
-    },
-    {
-      "title": "A job apocalypse?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CT2pGbUo5ZEJPT2R6ajZ4Q0VUdnJsS3Zva0FjMlFGNHZ2aWJFdFozTlRmNnhNLXVlX3E3SjJiT0czeDZKWjdOb05adXZuM0pyQVJLMlRmRGdSdjdaTTVYMGZWUQ?oc=5",
-      "source": "worldfinance.com",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CT2pGbUo5ZEJPT2R6ajZ4Q0VUdnJsS3Zva0FjMlFGNHZ2aWJFdFozTlRmNnhNLXVlX3E3SjJiT0czeDZKWjdOb05adXZuM0pyQVJLMlRmRGdSdjdaTTVYMGZWUQ?oc=5\" target=\"_blank\">A job apocalypse?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">worldfinance.com</font>",
-      "lang": "en",
-      "title_zh": "A job apocalypse?",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CT2pGbUo5ZEJPT2R6ajZ4Q0VUdnJsS3Zva0FjMl"
-    },
-    {
-      "title": "European FinTech funding projected to increase 18% in 2026 as deals under $100m grow in H1",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWlkTDhyV01mb25jZThXdzFVUElmaGotYldWcVZnY0ttODRBd0pDTC1uOW9iUkJtVGtrRVhKQUpjVU1vZVRhMk9XbEtPXzFBcWxLZVpjOXBSbGV1MkVFdTVNTDFrSW1YV2FlWGY4ejB4VXRCUmU4ZWJsbFljamJidVpNOS1WWVFadHRSc0kydlJUS3dDWkg1UUJuR0xybmR3clg2Y0g0Rnl5SWMyQXBEWkRmaGdSMEN6TENXT244RWI?oc=5",
+      "title": "AI in banking: data and skills gaps threaten returns",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dXTU5INkFJTHNTckh1TkhsYkVfRVVBSElKMGtZMk4wY21EdnRqa2lJRi1rOTlTN19xX1ZJSHpKV2dkMHdkM3BVT3I2QmJNcllZZ2tmeUdiSW5QakhBR18wOHlELS1OaEljSU5wMDZBTTlZMExtUlltd0VTVzlVNFNEeVhyaWR0VktjUk5UWQ?oc=5",
       "source": "FinTech Global",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWlkTDhyV01mb25jZThXdzFVUElmaGotYldWcVZnY0ttODRBd0pDTC1uOW9iUkJtVGtrRVhKQUpjVU1vZVRhMk9XbEtPXzFBcWxLZVpjOXBSbGV1MkVFdTVNTDFrSW1YV2FlWGY4ejB4VXRCUmU4ZWJsbFljamJidVpNOS1WWVFadHRSc0kydlJUS3dDWkg1UUJuR0xybmR3clg2Y0g0Rnl5SWMyQXBEWkRmaGdSMEN6TENXT244RWI?oc=5\" target=\"_blank\">European FinTech funding projected to increase 18% in 2026 as deals under $100m grow in H1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dXTU5INkFJTHNTckh1TkhsYkVfRVVBSElKMGtZMk4wY21EdnRqa2lJRi1rOTlTN19xX1ZJSHpKV2dkMHdkM3BVT3I2QmJNcllZZ2tmeUdiSW5QakhBR18wOHlELS1OaEljSU5wMDZBTTlZMExtUlltd0VTVzlVNFNEeVhyaWR0VktjUk5UWQ?oc=5\" target=\"_blank\">AI in banking: data and skills gaps threaten returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
       "lang": "en",
-      "title_zh": "European FinTech funding projected to increase 18% in 2026 as deals under $100m grow in H1",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWlkTDhyV01mb25jZThXdzFVUElmaGotYldWcV"
+      "title_zh": "AI in banking: data and skills gaps threaten returns",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dXTU5INkFJTHNTckh1TkhsYkVfRVVBSElKMG"
     },
     {
-      "title": "Snappi Fintech & AI Lab Summit: Bringing Academia and Industry Together to Shape the Future of Digital Financial Services",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDJ1U2x5SUdobzFmcUxEakVaY01YeFA3Yzdab25MaU1aNGVlRGlDQXVhM3ZaUGtDVEpMUkFsTEdiaVp2RDhMSEJwWEoxU2RkNU1nQUtVT0ZXTnFPRHFQdHZ4cDVfby1xQUN4RldYX1Z2Rk5UNG81d1JiSHNWT0NaVExsMDg1UTVIck1KZl8zZUJoSVNxdnFWRU50S0pHRXFPbW40SDBxcw?oc=5",
-      "source": "Snappi",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDJ1U2x5SUdobzFmcUxEakVaY01YeFA3Yzdab25MaU1aNGVlRGlDQXVhM3ZaUGtDVEpMUkFsTEdiaVp2RDhMSEJwWEoxU2RkNU1nQUtVT0ZXTnFPRHFQdHZ4cDVfby1xQUN4RldYX1Z2Rk5UNG81d1JiSHNWT0NaVExsMDg1UTVIck1KZl8zZUJoSVNxdnFWRU50S0pHRXFPbW40SDBxcw?oc=5\" target=\"_blank\">Snappi Fintech & AI Lab Summit: Bringing Academia and Industry Together to Shape the Future of Digital Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snappi</font>",
-      "lang": "en",
-      "title_zh": "Snappi Fintech & AI Lab Summit: Bringing Academia and Industry Together to Shape the Future of Digital Financial Services",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDJ1U2x5SUdobzFmcUxEakVaY01YeFA3Yzdab2"
-    },
-    {
-      "title": "智慧引领 链通全球——交通银行参展第23届中国—东盟博览会",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHVXd1lKSktWOFJ6a0UxZ0VkeHQ4VHkwR3ZfWDBveUZPamV5ZlphMVlrM0V6QVFXX19jMUw5a2JyODdvd1BtbVczelRTNEhSMjBXS092VFNRNUZ6cm5OZURNOXVoRmh6aGZXZ0lkY0R1RlNWaHJDREZad0VIUHgzaWFSTWxjYzh4Um1PenYwQy1qN3ZIZVhSM2pn?oc=5",
-      "source": "新华网客户端",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObHVXd1lKSktWOFJ6a0UxZ0VkeHQ4VHkwR3ZfWDBveUZPamV5ZlphMVlrM0V6QVFXX19jMUw5a2JyODdvd1BtbVczelRTNEhSMjBXS092VFNRNUZ6cm5OZURNOXVoRmh6aGZXZ0lkY0R1RlNWaHJDREZad0VIUHgzaWFSTWxjYzh4Um1PenYwQy1qN3ZIZVhSM2pn?oc=5\" target=\"_blank\">智慧引领 链通全球——交通银行参展第23届中国—东盟博览会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+      "title": "陈华国：新加坡金融业AI应用责任待厘清",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55WVR6OHVCTnlGNWVEZEtxeG8zMEtTMTRIaFQyS2NWZUd2YkV4WHhDS3F1aXdqcnllMTJMMG94OXdHMkZOZm1LNi1DeVdFdXV2NEttMV91U1NNdWRCRW5kNlYzYXJtbS01SEZB?oc=5",
+      "source": "联合早报",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE55WVR6OHVCTnlGNWVEZEtxeG8zMEtTMTRIaFQyS2NWZUd2YkV4WHhDS3F1aXdqcnllMTJMMG94OXdHMkZOZm1LNi1DeVdFdXV2NEttMV91U1NNdWRCRW5kNlYzYXJtbS01SEZB?oc=5\" target=\"_blank\">陈华国：新加坡金融业AI应用责任待厘清</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
       "lang": "zh",
-      "title_zh": "智慧引领 链通全球——交通银行参展第23届中国—东盟博览会",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObHVXd1lKSktWOFJ6a0UxZ0VkeHQ4VHkwR3ZfWD"
+      "title_zh": "陈华国：新加坡金融业AI应用责任待厘清",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE55WVR6OHVCTnlGNWVEZEtxeG8zMEtTMTRIaFQyS2"
     },
     {
-      "title": "AI in finance must be policed differently",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5",
+      "title": "Primer: Unifying Payments Data so AI can Optimise Checkouts",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczlUT1RsY3pLVUctSU90WUJnZXZIZVA4bXBzRHFnZnFQbEVhemxMSnozcTlQR3NZYlNrZ2FVNXZXaVZnMXUyUGpqRmFia2gySU9qM0pIcm5MWUR1U2VwUUNDQjF5OGpYSURIb1NGUFBZMGRocWpFWmZ6U0dOdWV0NV8xVDdtNzljOVpHek5EWjhwRHl3NVE?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNczlUT1RsY3pLVUctSU90WUJnZXZIZVA4bXBzRHFnZnFQbEVhemxMSnozcTlQR3NZYlNrZ2FVNXZXaVZnMXUyUGpqRmFia2gySU9qM0pIcm5MWUR1U2VwUUNDQjF5OGpYSURIb1NGUFBZMGRocWpFWmZ6U0dOdWV0NV8xVDdtNzljOVpHek5EWjhwRHl3NVE?oc=5\" target=\"_blank\">Primer: Unifying Payments Data so AI can Optimise Checkouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
+      "lang": "en",
+      "title_zh": "Primer: Unifying Payments Data so AI can Optimise Checkouts",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNczlUT1RsY3pLVUctSU90WUJnZXZIZVA4bXBzRH"
+    },
+    {
+      "title": "HSBC Deploys AI to Enhance Trade Finance Operations",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkJnbmVIZ3dtZHRhN2lwd3NrSkRnOTNhX2ZWcEhrdGxCTmxSUDV4SDFPcU5YQ2tmUTMybGpsaWxjUXdBYXRZS0NHVUI2Z0VMaXk2UjFFZkFmXzRDUkN1dDZrMHRnSUxIX0VveTYybmJnSlBJQnRYNkVHUzRrLTB1XzYxNTk3SEVsVWMwc1M2aTBhbUtQX3ZNMlJVc3FyR01UaEdrNEtTZWtTWnhObXc?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkJnbmVIZ3dtZHRhN2lwd3NrSkRnOTNhX2ZWcEhrdGxCTmxSUDV4SDFPcU5YQ2tmUTMybGpsaWxjUXdBYXRZS0NHVUI2Z0VMaXk2UjFFZkFmXzRDUkN1dDZrMHRnSUxIX0VveTYybmJnSlBJQnRYNkVHUzRrLTB1XzYxNTk3SEVsVWMwc1M2aTBhbUtQX3ZNMlJVc3FyR01UaEdrNEtTZWtTWnhObXc?oc=5\" target=\"_blank\">HSBC Deploys AI to Enhance Trade Finance Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "lang": "en",
+      "title_zh": "HSBC Deploys AI to Enhance Trade Finance Operations",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkJnbmVIZ3dtZHRhN2lwd3NrSkRnOTNhX2ZWcE"
+    },
+    {
+      "title": "央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZDM2Q2xqcDBuMk9ZTWNpVGRYOHpfX2Vkdm9PNWlhZHd4LTZTNmUxX2M5VDZrcklvWmNDVFV2MFhVVzFsRTZ5OEZvcVRRR3V3aDJB?oc=5",
+      "source": "wallstreetcn.com",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZDM2Q2xqcDBuMk9ZTWNpVGRYOHpfX2Vkdm9PNWlhZHd4LTZTNmUxX2M5VDZrcklvWmNDVFV2MFhVVzFsRTZ5OEZvcVRRR3V3aDJB?oc=5\" target=\"_blank\">央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wallstreetcn.com</font>",
+      "lang": "zh",
+      "title_zh": "央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZDM2Q2xqcDBuMk9ZTWNpVGRYOHpfX2Vkdm9PNW"
+    },
+    {
+      "title": "移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeEZSaDdQdXJ3WTR1T1gwcmlELTQ1b2d2TTFpMzhZYU5QVXhwWllPRTIyOFJaa3pQbmE0UUhNRUJPZzlnR0JR?oc=5",
+      "source": "同花顺",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeEZSaDdQdXJ3WTR1T1gwcmlELTQ1b2d2TTFpMzhZYU5QVXhwWllPRTIyOFJaa3pQbmE0UUhNRUJPZzlnR0JR?oc=5\" target=\"_blank\">移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "lang": "zh",
+      "title_zh": "移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeE"
+    },
+    {
+      "title": "FOO Embeds AI Across Fintech Product Development and Delivery",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNwZHItOGhjWDNpVzJ2QnJCR2xOdXBrbnptbTQtS0tpYTZ3a3RIbUJJMzBUWENTUUtlSXA3N1ZoblB5eEJVNWpha3J1RmUzQnNiV1QwV1JJOGVFa1dQV3c3SHczQTd1REN5RzJLNGZiV0h4cHhlZzRQUmJCamNaS1hKUTF4YzVURHc?oc=5",
+      "source": "TechAfrica News",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNwZHItOGhjWDNpVzJ2QnJCR2xOdXBrbnptbTQtS0tpYTZ3a3RIbUJJMzBUWENTUUtlSXA3N1ZoblB5eEJVNWpha3J1RmUzQnNiV1QwV1JJOGVFa1dQV3c3SHczQTd1REN5RzJLNGZiV0h4cHhlZzRQUmJCamNaS1hKUTF4YzVURHc?oc=5\" target=\"_blank\">FOO Embeds AI Across Fintech Product Development and Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechAfrica News</font>",
+      "lang": "en",
+      "title_zh": "FOO Embeds AI Across Fintech Product Development and Delivery",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNwZHItOGhjWDNpVzJ2QnJCR2xOdXBrbnptbT"
+    },
+    {
+      "title": "智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83NkxUMWxfb2c1MnVydnIzbU4wRkxRUXZlN2E4V3h1SWJZR2dWOEprVU1IZFVraEQyRHY0bmkzWF82aWRfN1BBS09CNjFlTmlYMXhEMGxqbTFaUG5HcWtQTi1qcUs2dXNUMUl1UzZKZnpSdw?oc=5",
+      "source": "cs.com.cn",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE83NkxUMWxfb2c1MnVydnIzbU4wRkxRUXZlN2E4V3h1SWJZR2dWOEprVU1IZFVraEQyRHY0bmkzWF82aWRfN1BBS09CNjFlTmlYMXhEMGxqbTFaUG5HcWtQTi1qcUs2dXNUMUl1UzZKZnpSdw?oc=5\" target=\"_blank\">智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cs.com.cn</font>",
+      "lang": "zh",
+      "title_zh": "智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE83NkxUMWxfb2c1MnVydnIzbU4wRkxRUXZlN2E4V3"
+    },
+    {
+      "title": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWFfblBhcDdMX0l1aWkzVkVfZ0phX1RzSzVqaEZPZklLak9WQW5ZaWVrV0U5SmhMcTFZZ0N2cml4aU8yY2loRzhEeTU4MmloMkMzcGp4Y091Xzh2OUJNdDlCdlo4SzBQVmhjeTl5UTNXRW9OYkJfUlJwMWlaU1FmNUwtWHNxNU9sUWFSRmxLVEk5NlBmVGZsYmlKTkJkMDByX29lNC1B?oc=5",
+      "source": "Moomoo",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWFfblBhcDdMX0l1aWkzVkVfZ0phX1RzSzVqaEZPZklLak9WQW5ZaWVrV0U5SmhMcTFZZ0N2cml4aU8yY2loRzhEeTU4MmloMkMzcGp4Y091Xzh2OUJNdDlCdlo4SzBQVmhjeTl5UTNXRW9OYkJfUlJwMWlaU1FmNUwtWHNxNU9sUWFSRmxLVEk5NlBmVGZsYmlKTkJkMDByX29lNC1B?oc=5\" target=\"_blank\">AI 智能体或致银行挤兑：华尔街警告低成本存款危机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "lang": "zh",
+      "title_zh": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWFfblBhcDdMX0l1aWkzVkVfZ0phX1RzSzVqaE"
+    },
+    {
+      "title": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cmZjYVRlaVZrRm9IZEVqWklBTC1iS0dWbG1TRXpKZ21TZkx5amdHMkFBQWl3b1ctcTh4WExwZEdjOVdvQzVRTVVEa2dGYUhuaDZVMlo1dENHYUttd2U5UV9Lbk0?oc=5",
+      "source": "证券之星",
+      "published": "2026-09-28",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cmZjYVRlaVZrRm9IZEVqWklBTC1iS0dWbG1TRXpKZ21TZkx5amdHMkFBQWl3b1ctcTh4WExwZEdjOVdvQzVRTVVEa2dGYUhuaDZVMlo1dENHYUttd2U5UV9Lbk0?oc=5\" target=\"_blank\">AI 智能体或致银行挤兑：华尔街警告低成本存款危机_滚动新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "lang": "zh",
+      "title_zh": "AI 智能体或致银行挤兑：华尔街警告低成本存款危机_滚动新闻",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cmZjYVRlaVZrRm9IZEVqWklBTC1iS0dWbG1TRX"
+    },
+    {
+      "title": "How to Know When the AI Boom Is About to Go Bust",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-27",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5\" target=\"_blank\">How to Know When the AI Boom Is About to Go Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "lang": "en",
+      "title_zh": "How to Know When the AI Boom Is About to Go Bust",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OW"
+    },
+    {
+      "title": "Banks have profited from idle cash for years. AI agents could change that.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk5PcGo0NWFPY0c4Z0lnWTc4MVlydWxIc3hMa0VjZm5sR2xYY1hQV1RhemZ2STBsOEtzYUdDQ21ZdDg5YUhfc0J5b3FyUXVybnIzdnlFbkJBQUZHdV9ET2o5VTVoXzk1Mm4zRWJtOTIyMmZ5S2VNTXp5VjNIaV9UVzhua2diQWc2bXotTHpIbWpuUXJ0X3RQTVpER1BDenNwRWxJeEppWTBuRDZvTA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk5PcGo0NWFPY0c4Z0lnWTc4MVlydWxIc3hMa0VjZm5sR2xYY1hQV1RhemZ2STBsOEtzYUdDQ21ZdDg5YUhfc0J5b3FyUXVybnIzdnlFbkJBQUZHdV9ET2o5VTVoXzk1Mm4zRWJtOTIyMmZ5S2VNTXp5VjNIaV9UVzhua2diQWc2bXotTHpIbWpuUXJ0X3RQTVpER1BDenNwRWxJeEppWTBuRDZvTA?oc=5\" target=\"_blank\">Banks have profited from idle cash for years. AI agents could change that.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en",
+      "title_zh": "Banks have profited from idle cash for years. AI agents could change that.",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk"
+    },
+    {
+      "title": "源达亮相华为全联接大会2026 ，共探AI驱动金融智能化新趋势",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5nTnF6NDBSUmNQRDFwdTZLcnhqUzZDZEZaMTBkVjM4dWRuNFJQSUg2R050eXFhRG52VHdxRldNcWllbERpNTRNaW9VWVg0S2VRazUxYlJLRkpWNkhaX25YaHVvUzFFU1M1MkFQaWduanFyY0RlUGw5Ni1ITDI0YWhKdEdPVko3QUZrbWRnQQ?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-09-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5nTnF6NDBSUmNQRDFwdTZLcnhqUzZDZEZaMTBkVjM4dWRuNFJQSUg2R050eXFhRG52VHdxRldNcWllbERpNTRNaW9VWVg0S2VRazUxYlJLRkpWNkhaX25YaHVvUzFFU1M1MkFQaWduanFyY0RlUGw5Ni1ITDI0YWhKdEdPVko3QUZrbWRnQQ?oc=5\" target=\"_blank\">源达亮相华为全联接大会2026 ，共探AI驱动金融智能化新趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "lang": "zh",
+      "title_zh": "源达亮相华为全联接大会2026 ，共探AI驱动金融智能化新趋势",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5nTnF6NDBSUmNQRDFwdTZLcnhqUzZDZEZaMT"
+    },
+    {
+      "title": "Fintech bytes: Northwestern Mutual picks Jump for enterprise AI",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ZURE9hc3M1U3BLdjUwS3ZMVnlCMUtFVTRsdGt2QmxFaGtEak9qWXdIcGhncDg5anFhMWU4MEI3ZXhRQWRscW1TSGRjTkV3Zm9zaHZPcXVJWU85anp5Y0JsdTdEMU9FVnVkMmJxM2xRamhrbDNaenB3bFNIN2dmX2laX25xQ0tGNDhIdWVzQkFuc0Nfd2lyYVMycHJCODI2VW5DdVRGLXVxSFQt?oc=5",
+      "source": "InvestmentNews",
+      "published": "2026-09-25",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ZURE9hc3M1U3BLdjUwS3ZMVnlCMUtFVTRsdGt2QmxFaGtEak9qWXdIcGhncDg5anFhMWU4MEI3ZXhRQWRscW1TSGRjTkV3Zm9zaHZPcXVJWU85anp5Y0JsdTdEMU9FVnVkMmJxM2xRamhrbDNaenB3bFNIN2dmX2laX25xQ0tGNDhIdWVzQkFuc0Nfd2lyYVMycHJCODI2VW5DdVRGLXVxSFQt?oc=5\" target=\"_blank\">Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "lang": "en",
+      "title_zh": "Fintech bytes: Northwestern Mutual picks Jump for enterprise AI",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ZURE9hc3M1U3BLdjUwS3ZMVnlCMUtFVTRsdG"
+    },
+    {
+      "title": "How can we tackle AI’s financial risks?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUpOZ0ZhRUxEeGFLbWw0WGp4bzZrdlJuajZvUWExbzVmXzJjWFpZd2pZaGd3d2dScDFhMEQzMGFvV1NiQlIxMWdKb0ZrYzZpLUZreERlZUQtNnRhRjNUQmFPeVc0V1VZRUFQYkhndFh6RVlZdXpXVDNOTjhzRmRhZndzWko?oc=5",
       "source": "Financial Times",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5\" target=\"_blank\">AI in finance must be policed differently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-09-25",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUpOZ0ZhRUxEeGFLbWw0WGp4bzZrdlJuajZvUWExbzVmXzJjWFpZd2pZaGd3d2dScDFhMEQzMGFvV1NiQlIxMWdKb0ZrYzZpLUZreERlZUQtNnRhRjNUQmFPeVc0V1VZRUFQYkhndFh6RVlZdXpXVDNOTjhzRmRhZndzWko?oc=5\" target=\"_blank\">How can we tackle AI’s financial risks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "lang": "en",
-      "title_zh": "AI in finance must be policed differently",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUG"
-    },
-    {
-      "title": "交通银行：AI赋能金融链通全球 沉浸式感受数智金融科技",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHBzNHk5VXJlbFQxVjRJYTVJa2JMLS12eElVdXhsQVhWZ29Eak9KTEhzY0VDZDdDN3RKMXZXVlA3UkR0OEdKQ0NDamVubGRBSk5HUGRpUXJwTWpTaVVWWWFJemFBZ3NBZi1Pd09NdFdlcTJwMVpNSWx6UklTeHM?oc=5",
-      "source": "新华网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHBzNHk5VXJlbFQxVjRJYTVJa2JMLS12eElVdXhsQVhWZ29Eak9KTEhzY0VDZDdDN3RKMXZXVlA3UkR0OEdKQ0NDamVubGRBSk5HUGRpUXJwTWpTaVVWWWFJemFBZ3NBZi1Pd09NdFdlcTJwMVpNSWx6UklTeHM?oc=5\" target=\"_blank\">交通银行：AI赋能金融链通全球 沉浸式感受数智金融科技</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
-      "lang": "zh",
-      "title_zh": "交通银行：AI赋能金融链通全球 沉浸式感受数智金融科技",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHBzNHk5VXJlbFQxVjRJYTVJa2JMLS12eElVdX"
-    },
-    {
-      "title": "吕家进出席2026智能经济论坛 解读金融智能化",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrR01zdndfOV96Y21uOVgtaTdkTXNFXzhtRXg4dkRuaDRObjVlcnYxSnNyNzcxWmppcWh0anJCZ3JmWTNRQ1BTaWhUT3NRdzBIWV9mb3FYOWhLYjAtWWxTenRkQ0ZybTA2a01Ra21QaEtPLWxONmZCRmJB?oc=5",
-      "source": "观察者网",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBrR01zdndfOV96Y21uOVgtaTdkTXNFXzhtRXg4dkRuaDRObjVlcnYxSnNyNzcxWmppcWh0anJCZ3JmWTNRQ1BTaWhUT3NRdzBIWV9mb3FYOWhLYjAtWWxTenRkQ0ZybTA2a01Ra21QaEtPLWxONmZCRmJB?oc=5\" target=\"_blank\">吕家进出席2026智能经济论坛 解读金融智能化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-      "lang": "zh",
-      "title_zh": "吕家进出席2026智能经济论坛 解读金融智能化",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBrR01zdndfOV96Y21uOVgtaTdkTXNFXzhtRXg4dk"
-    },
-    {
-      "title": "神州信息出席深圳香蜜湖国金院2026秋季会议，以金融AI治理实践助力\"智能向善\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWtLcFJVSzBoLUFFNDYwSUJiU3JiaW91UldhRElELWx2Y2ZmLU1GR08yM0ktNEpEYmFMdk5kdk0yZnlhT2M1Q0lmNHZDUW1SdUtvOENZWEJ5QWF2NGc?oc=5",
-      "source": "同花顺财经",
-      "published": "2026-09-21",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWtLcFJVSzBoLUFFNDYwSUJiU3JiaW91UldhRElELWx2Y2ZmLU1GR08yM0ktNEpEYmFMdk5kdk0yZnlhT2M1Q0lmNHZDUW1SdUtvOENZWEJ5QWF2NGc?oc=5\" target=\"_blank\">神州信息出席深圳香蜜湖国金院2026秋季会议，以金融AI治理实践助力\"智能向善\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "lang": "zh",
-      "title_zh": "神州信息出席深圳香蜜湖国金院2026秋季会议，以金融AI治理实践助力\"智能向善\"",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWtLcFJVSzBoLUFFNDYwSUJiU3JiaW91UldhRE"
-    },
-    {
-      "title": "AI, Data & Digital Discipline",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRckVReWJaeFAzVTdXVVRMZ0EwVmNkckljQURqa1FyWm5IWkR6X0lOM2tVSGRMLUFVcXE2U0tXTmxGVTh6UFZhMmd1Wk9fQUNuUjE2aFJPR0xWRERFenpMT0xuWUs5S3PSAW9BVV95cUxOdXBRenNWWktXaWtHOUc2bW9kTXVRRlZ3U3N0U1JnZUNiM3hqMWU0d3c5TVVhLUVIOUtRaGhKVTVhMW1mZW9OSUVjZDRfR19yWXZPY0dTTGp6UjE5NU1pNFZ3bVNjcl92d2pmZm5OUmc?oc=5",
-      "source": "Banking Frontiers",
-      "published": "2026-09-20",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRckVReWJaeFAzVTdXVVRMZ0EwVmNkckljQURqa1FyWm5IWkR6X0lOM2tVSGRMLUFVcXE2U0tXTmxGVTh6UFZhMmd1Wk9fQUNuUjE2aFJPR0xWRERFenpMT0xuWUs5S3PSAW9BVV95cUxOdXBRenNWWktXaWtHOUc2bW9kTXVRRlZ3U3N0U1JnZUNiM3hqMWU0d3c5TVVhLUVIOUtRaGhKVTVhMW1mZW9OSUVjZDRfR19yWXZPY0dTTGp6UjE5NU1pNFZ3bVNjcl92d2pmZm5OUmc?oc=5\" target=\"_blank\">AI, Data & Digital Discipline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Banking Frontiers</font>",
-      "lang": "en",
-      "title_zh": "AI, Data & Digital Discipline",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRckVReWJaeFAzVTdXVVRMZ0EwVmNkckljQURqa1"
-    },
-    {
-      "title": "AI进入证券投资之后，源达如何理解金融科技带来的新变化",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVndrSkg3U1FwckcwVV95WWZHV3k0V2ZsYmhTMWVaM0VQYzJfZGd4bTU3dWhPWjQ2TjU1M0JVaDlxRFhnN3dhdkt4RkFOTmpGdE1Oc3BTQ2RkNmIzb1lCaHBDb2dyR01UTEtNRGpCWGhkUFZaZ1JZdWFvTkNNQkVYYUFTem5FN19qUi1SUHR4SDM1cllj?oc=5",
-      "source": "新浪财经",
-      "published": "2026-09-18",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQVndrSkg3U1FwckcwVV95WWZHV3k0V2ZsYmhTMWVaM0VQYzJfZGd4bTU3dWhPWjQ2TjU1M0JVaDlxRFhnN3dhdkt4RkFOTmpGdE1Oc3BTQ2RkNmIzb1lCaHBDb2dyR01UTEtNRGpCWGhkUFZaZ1JZdWFvTkNNQkVYYUFTem5FN19qUi1SUHR4SDM1cllj?oc=5\" target=\"_blank\">AI进入证券投资之后，源达如何理解金融科技带来的新变化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "lang": "zh",
-      "title_zh": "AI进入证券投资之后，源达如何理解金融科技带来的新变化",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQVndrSkg3U1FwckcwVV95WWZHV3k0V2ZsYmhTMW"
-    },
-    {
-      "title": "CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JSZ0gzUjFpU2FPZjNuQjVFMHQ1RklMMWFTM3NLc3VGWnM3MXlKZHB2ckFnSzZ6YnM5cVJzM1RpQ3lSWTN0aFFFV2E4WkdwWUUtdkpBWU4wSW9UYXJFbmgyNU9pOWZNWnc0OXVFM2RKNXd1aU9SdC0tV2o5b20yaXlpNk5hZGRQYy1EWjFXQW04VU4teU03NTZFQXJYVW5XcnJvTnI3T2FEQVdQUC1WNGhuTF9aV2gxbExwTWJFczh2VWhLTkcyc3dR?oc=5",
-      "source": "Consumer Finance Monitor",
-      "published": "2026-09-18",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JSZ0gzUjFpU2FPZjNuQjVFMHQ1RklMMWFTM3NLc3VGWnM3MXlKZHB2ckFnSzZ6YnM5cVJzM1RpQ3lSWTN0aFFFV2E4WkdwWUUtdkpBWU4wSW9UYXJFbmgyNU9pOWZNWnc0OXVFM2RKNXd1aU9SdC0tV2o5b20yaXlpNk5hZGRQYy1EWjFXQW04VU4teU03NTZFQXJYVW5XcnJvTnI3T2FEQVdQUC1WNGhuTF9aV2gxbExwTWJFczh2VWhLTkcyc3dR?oc=5\" target=\"_blank\">CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Consumer Finance Monitor</font>",
-      "lang": "en",
-      "title_zh": "CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JSZ0gzUjFpU2FPZjNuQjVFMHQ1RklMMWFTM3"
-    },
-    {
-      "title": "Kastle raises $24 million Series A for banking AI",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDFVVkl1UE5tWXlCRGgyTzk4NDlKRnFkT2s2bmstOTJmZ21GOXU3NGE3RmszamhtNnNCeXI1SVoxckd1dXpLSmloM2xXbUdHd1BSSktQQ081ZG1LNGR5M2lMMWk2RFMzbEhOV1U0NGdpU3h3OTBjbkJiUDhUUnpvWXdWbHpaTHpZZWM0Y01XX2RaVWQ3enFMTGtEcFpQX050?oc=5",
-      "source": "The American Bazaar",
-      "published": "2026-09-17",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDFVVkl1UE5tWXlCRGgyTzk4NDlKRnFkT2s2bmstOTJmZ21GOXU3NGE3RmszamhtNnNCeXI1SVoxckd1dXpLSmloM2xXbUdHd1BSSktQQ081ZG1LNGR5M2lMMWk2RFMzbEhOV1U0NGdpU3h3OTBjbkJiUDhUUnpvWXdWbHpaTHpZZWM0Y01XX2RaVWQ3enFMTGtEcFpQX050?oc=5\" target=\"_blank\">Kastle raises $24 million Series A for banking AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
-      "lang": "en",
-      "title_zh": "Kastle raises $24 million Series A for banking AI",
-      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDFVVkl1UE5tWXlCRGgyTzk4NDlKRnFkT2s2bm"
+      "title_zh": "How can we tackle AI’s financial risks?",
+      "ai_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUpOZ0ZhRUxEeGFLbWw0WGp4bzZrdlJuajZvUW"
     }
   ]
 }

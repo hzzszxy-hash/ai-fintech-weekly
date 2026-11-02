@@ -1,0 +1,332 @@
+{
+  "fetch_date": "2026-11-02",
+  "week": "2026-W44",
+  "total_count": 20,
+  "lookback_days": 7,
+  "en_news": [
+    {
+      "title": "Chamath flags a hidden risk building under the AI boom",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0NsRHVNa0xEcUl2SnJvZWF4UVNRb0YtMF9ZOHZLWTVMVklYMzZ5Vi1CRE45VXctamFGNU53aFR5WVRDNkY1Y05ydXo0NjNaTUg0OTJtSXpWMWQ0dXZrcmZ4Y1RDanZnaUFjRmJQU05ENDBnVXlUUXNhLUFsV1QtTW5FU0RWdGN0MGp3?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0NsRHVNa0xEcUl2SnJvZWF4UVNRb0YtMF9ZOHZLWTVMVklYMzZ5Vi1CRE45VXctamFGNU53aFR5WVRDNkY1Y05ydXo0NjNaTUg0OTJtSXpWMWQ0dXZrcmZ4Y1RDanZnaUFjRmJQU05ENDBnVXlUUXNhLUFsV1QtTW5FU0RWdGN0MGp3?oc=5\" target=\"_blank\">Chamath flags a hidden risk building under the AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "lang": "en"
+    },
+    {
+      "title": "AI is breaking the search business model",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExlZmpPdVFqSEFISjZVbUZwVDY0MjQxbW5jbEw4dmxEekhoWWVBckpIUGljQzV0UUIyR01jMjM2Ykk5bGVhaWFjTkFrREdydlZ0UVRQQmtiTE5iM21ZcXIzZDBvOTBRVlE0RDlHV1pWUkxDZU82dTFGTGJrUnhtTlFScF83cU1vWG1wRHNDMEM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExlZmpPdVFqSEFISjZVbUZwVDY0MjQxbW5jbEw4dmxEekhoWWVBckpIUGljQzV0UUIyR01jMjM2Ykk5bGVhaWFjTkFrREdydlZ0UVRQQmtiTE5iM21ZcXIzZDBvOTBRVlE0RDlHV1pWUkxDZU82dTFGTGJrUnhtTlFScF83cU1vWG1wRHNDMEM?oc=5\" target=\"_blank\">AI is breaking the search business model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5\" target=\"_blank\">Oracle files to sell $20 billion in new stock, bonds to finance AI buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Fernando Castanheira: Why AI Visibility is Vital for Banks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBlUTZLWmJSMnZ6UXhqTk5NTUwyTlpITndKcS1ORHVROEdkc1dIekhQbl9HU3JxR2pNRmRQbjd0dWtFNVhEaXN3XzBjUmlKYm9QM1pjbnFoMTE3dlBfT3dpNTBaTVJFUEx0NXBONzRiMWh0Z18xNEJkZEViU0pySnpoYmZzbE9XTy1GbWJlMVJKTkhJ?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBlUTZLWmJSMnZ6UXhqTk5NTUwyTlpITndKcS1ORHVROEdkc1dIekhQbl9HU3JxR2pNRmRQbjd0dWtFNVhEaXN3XzBjUmlKYm9QM1pjbnFoMTE3dlBfT3dpNTBaTVJFUEx0NXBONzRiMWh0Z18xNEJkZEViU0pySnpoYmZzbE9XTy1GbWJlMVJKTkhJ?oc=5\" target=\"_blank\">Fernando Castanheira: Why AI Visibility is Vital for Banks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "White House’s Hassett Dismisses Concern Over Financing of AI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkRxbW1VQ2d1LUJYTmNsMkhBRFpkbW5YRmx5Z01OZHA1YXY2aEU4a0hJaFpYQzZPR1Z4Z2dyb01Ba3RpZ1gta2hHOU10TnRCa1pySHA3OE9tTGdaU1JqQmRMUENqS0M5M2l5MjROdTFUdVBydVkyNGZhZndBZUc3MGQ5STB4X3hpZFhFZVpDT25ONWNrSjhqbkVGUVdUWjZlYW84?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkRxbW1VQ2d1LUJYTmNsMkhBRFpkbW5YRmx5Z01OZHA1YXY2aEU4a0hJaFpYQzZPR1Z4Z2dyb01Ba3RpZ1gta2hHOU10TnRCa1pySHA3OE9tTGdaU1JqQmRMUENqS0M5M2l5MjROdTFUdVBydVkyNGZhZndBZUc3MGQ5STB4X3hpZFhFZVpDT25ONWNrSjhqbkVGUVdUWjZlYW84?oc=5\" target=\"_blank\">White House’s Hassett Dismisses Concern Over Financing of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Nasdaq execs talk Texas strategy, deploying AI against financial crimes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0tlQ1BHeTFsUjN5Q2FVOG10OXc0eGhvN011aVhUV2FQZzlWWi1jQ0JEdmFISzQ5QWFxNUw4cnZyQ3p0T1ctNTdvdXh4YU0tc2t1aUlHMzdSdGpLYkZ1VVB4YThjOUpXY1pqVGRHcjVuUWhvS1JxTmhIcy14czZBcksyOGtTT0VpVFRET3AtWWhrZEI2UW9EQ3VQZ01NV2k3NG5EekhxZHdzb2t0bC1v?oc=5",
+      "source": "Dallas News",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0tlQ1BHeTFsUjN5Q2FVOG10OXc0eGhvN011aVhUV2FQZzlWWi1jQ0JEdmFISzQ5QWFxNUw4cnZyQ3p0T1ctNTdvdXh4YU0tc2t1aUlHMzdSdGpLYkZ1VVB4YThjOUpXY1pqVGRHcjVuUWhvS1JxTmhIcy14czZBcksyOGtTT0VpVFRET3AtWWhrZEI2UW9EQ3VQZ01NV2k3NG5EekhxZHdzb2t0bC1v?oc=5\" target=\"_blank\">Nasdaq execs talk Texas strategy, deploying AI against financial crimes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Du Xiaoman's Xuanyuan 4.5 Financial LLM Debuts in Hong Kong, Inference Cost Just One-Tenth of General Models",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UGYtc01odzFERUZlY0JENzFKcDM4MV9YSFFPaDRWdGh0NXFoSnJoREpZcDc4bm5nS2s2MWRLM2ZZaWwwRF9raHpMcnk1THI3SDBsX0tYMXM1RllBaGhoQkhwRm55QjdIWW53cU5zMXB3MmlWVEE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83UGYtc01odzFERUZlY0JENzFKcDM4MV9YSFFPaDRWdGh0NXFoSnJoREpZcDc4bm5nS2s2MWRLM2ZZaWwwRF9raHpMcnk1THI3SDBsX0tYMXM1RllBaGhoQkhwRm55QjdIWW53cU5zMXB3MmlWVEE?oc=5\" target=\"_blank\">Du Xiaoman's Xuanyuan 4.5 Financial LLM Debuts in Hong Kong, Inference Cost Just One-Tenth of General Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How Hong Kong’s fintech strategy is progressing – and where growth still lags",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFo3UUlaODU0S3ZYMGdoTmg1NjJ2cWgyTkd6dnY5djVQU0ZaOGwwcU9nekNHbnhkaTRqTE14MnlYNFJDbkwxclZlc19oMkI1ZllxbXVlcC1zMndLYmtkQ094aGt6Rml4UUM0LUxOdjhCOHEwZ1F0S2tTSzEwYVFURVZKb3FPZ19TWWlCVEd6ZDBLNV9tZ2VzX2sxQTl2Mzhyc3RyTjR3OWR2MkRkd0RfV2xjUm1TbGNmV2l6OHQ4dTNRRDgtLUR2TVE4ZHNOZw?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFo3UUlaODU0S3ZYMGdoTmg1NjJ2cWgyTkd6dnY5djVQU0ZaOGwwcU9nekNHbnhkaTRqTE14MnlYNFJDbkwxclZlc19oMkI1ZllxbXVlcC1zMndLYmtkQ094aGt6Rml4UUM0LUxOdjhCOHEwZ1F0S2tTSzEwYVFURVZKb3FPZ19TWWlCVEd6ZDBLNV9tZ2VzX2sxQTl2Mzhyc3RyTjR3OWR2MkRkd0RfV2xjUm1TbGNmV2l6OHQ4dTNRRDgtLUR2TVE4ZHNOZw?oc=5\" target=\"_blank\">How Hong Kong’s fintech strategy is progressing – and where growth still lags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Where in compliance does AI have the greatest deployment depth and autonomy?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG1UN3h3VmlKMmRzV2F4RlFOTnNVU1VBeUNkUEMtTUJLNjdJWWhKelVrVWlsRG13bTNNb1V6cDJtZ0dvSTJBdHJLb0NzLURLMGxQdzFnQkVCX0w4U1hUalVpeEtpeF92alhzX05GeUd4SEhMMlpyZ0t1dm1pN3FBNmhuY1JKTUl5WGwxbjVkM2JQU0FMallfdHBseUtzOGxhanc0M0VXT243QkY4MjRv?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG1UN3h3VmlKMmRzV2F4RlFOTnNVU1VBeUNkUEMtTUJLNjdJWWhKelVrVWlsRG13bTNNb1V6cDJtZ0dvSTJBdHJLb0NzLURLMGxQdzFnQkVCX0w4U1hUalVpeEtpeF92alhzX05GeUd4SEhMMlpyZ0t1dm1pN3FBNmhuY1JKTUl5WGwxbjVkM2JQU0FMallfdHBseUtzOGxhanc0M0VXT243QkY4MjRv?oc=5\" target=\"_blank\">Where in compliance does AI have the greatest deployment depth and autonomy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5\" target=\"_blank\">HSBC to open Hong Kong AI Institute following Singapore launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "lang": "en"
+    },
+    {
+      "title": "FCA Issues Guidance for Firms on Their Use of AI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0RJajZpWGtZSDBudWplLTZLN3ItTXJHYVVKTUhITVZscnpYMXh0MlVXWmRXMUFyQy1xSWE2Q3ZGTTVONWlyd2xzYVVEX18zVnlkQ3lTZUp5N1NoRUVjVlBYOEpkYkQyNkhzdHRwOUFtUTg4TlludlduRzhvZ251VC12MTJtOUFEU2FVYzN1WlJocnlkel9RUGxjYkszdw?oc=5",
+      "source": "https://www.fintechanddigitalassets.com/",
+      "published": "2026-10-30",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQb0RJajZpWGtZSDBudWplLTZLN3ItTXJHYVVKTUhITVZscnpYMXh0MlVXWmRXMUFyQy1xSWE2Q3ZGTTVONWlyd2xzYVVEX18zVnlkQ3lTZUp5N1NoRUVjVlBYOEpkYkQyNkhzdHRwOUFtUTg4TlludlduRzhvZ251VC12MTJtOUFEU2FVYzN1WlJocnlkel9RUGxjYkszdw?oc=5\" target=\"_blank\">FCA Issues Guidance for Firms on Their Use of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.fintechanddigitalassets.com/</font>",
+      "lang": "en"
+    }
+  ],
+  "zh_news": [
+    {
+      "title": "高盛限制交易员和银行家使用某些人工智能工具",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjAzWXBXNnN4bGU5WlRRT0ZyenIxenlYUndER2xNRFAyNFJfd20wT0hBaEY4SVNrV3BoeVpGTTdPcG9hY0Q3MTlLcXRCLTFvemNqZ2ZWVXU4MTJ1d0ltYm52azZmMjBBTEZHQmo2b0s4QUhnN0dfTkYtcTZBdXdfN2NVSndfUjA?oc=5",
+      "source": "新浪财经",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjAzWXBXNnN4bGU5WlRRT0ZyenIxenlYUndER2xNRFAyNFJfd20wT0hBaEY4SVNrV3BoeVpGTTdPcG9hY0Q3MTlLcXRCLTFvemNqZ2ZWVXU4MTJ1d0ltYm52azZmMjBBTEZHQmo2b0s4QUhnN0dfTkYtcTZBdXdfN2NVSndfUjA?oc=5\" target=\"_blank\">高盛限制交易员和银行家使用某些人工智能工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI开始替你管钱了？香港金融管理局推出代理式金融新项目",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3V5RVlydlA0a3dlSFBfWFlDMUtkeWl5Ny1HQ2FQNXkzQzltMWNOUDl3ZlhFaDNsSi0wc2lIQ280MV9aRzFtekNMNmVZX1RaRXZEd0x4NXZlbXlJRTlpc2VmaG5seFVqSGJTX0NfT0tjZ0VaZW54YmR0bC1vaFRNM0tiNDZ6dl93WDVjTGp1dw?oc=5",
+      "source": "21财经",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3V5RVlydlA0a3dlSFBfWFlDMUtkeWl5Ny1HQ2FQNXkzQzltMWNOUDl3ZlhFaDNsSi0wc2lIQ280MV9aRzFtekNMNmVZX1RaRXZEd0x4NXZlbXlJRTlpc2VmaG5seFVqSGJTX0NfT0tjZ0VaZW54YmR0bC1vaFRNM0tiNDZ6dl93WDVjTGp1dw?oc=5\" target=\"_blank\">AI开始替你管钱了？香港金融管理局推出代理式金融新项目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "聚焦AI 赋能金融科技赛道，浦东搭建产业与资本对接桥梁",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zY29HQWJkc3RqTDlvVVNPRTdjQ00yWVl2TVRyS200bHI0M2tLYlhxNGtRSFJ2OFplMUdwUE5NQTVhbjBNTHFOcjhoMnY1MVQ3VkZuMVBKS09wYXVOVTNzRnVOZ0U0TkJRbHptcGdxeUUxWDNaekZPSThheXBXdW8?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1zY29HQWJkc3RqTDlvVVNPRTdjQ00yWVl2TVRyS200bHI0M2tLYlhxNGtRSFJ2OFplMUdwUE5NQTVhbjBNTHFOcjhoMnY1MVQ3VkZuMVBKS09wYXVOVTNzRnVOZ0U0TkJRbHptcGdxeUUxWDNaekZPSThheXBXdW8?oc=5\" target=\"_blank\">聚焦AI 赋能金融科技赛道，浦东搭建产业与资本对接桥梁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "让AI和金融企业坐在一张桌子前，浦东进一步为产业与资本搭建沟通桥梁",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQktxQ2NXdmJXeVM1bi00eDZhY3ZFaGo0d2lpU2xwTHFVNVltTXFERzJJZm1YR2RSYjlVV1RHRzVjdzBYV0FlOUhRQ0FhTmtlVW5xM2xLSng3Zw?oc=5",
+      "source": "上观新闻",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQktxQ2NXdmJXeVM1bi00eDZhY3ZFaGo0d2lpU2xwTHFVNVltTXFERzJJZm1YR2RSYjlVV1RHRzVjdzBYV0FlOUhRQ0FhTmtlVW5xM2xLSng3Zw?oc=5\" target=\"_blank\">让AI和金融企业坐在一张桌子前，浦东进一步为产业与资本搭建沟通桥梁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "度小满CEO朱光：AI 让金融服务从“千人千面”走向“一人千面”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3R6TC10cHlDanZObWNJS1BjNzlESjk2dC1kOE82TW9VNmo5MEstSmMxTGlxc01sZ0lNbkxMd2dYMGlMMk4wQnJfRGlUYmVIRUY1V29sdTFkZktCdjZ5T3dWem5wMzdpanBIbGgtUnQ0YnNjWlNNLVdtU2dMT1Bvdg?oc=5",
+      "source": "新华网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3R6TC10cHlDanZObWNJS1BjNzlESjk2dC1kOE82TW9VNmo5MEstSmMxTGlxc01sZ0lNbkxMd2dYMGlMMk4wQnJfRGlUYmVIRUY1V29sdTFkZktCdjZ5T3dWem5wMzdpanBIbGgtUnQ0YnNjWlNNLVdtU2dMT1Bvdg?oc=5\" target=\"_blank\">度小满CEO朱光：AI 让金融服务从“千人千面”走向“一人千面”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "中行：依托香港 助力国内AI产业链对接全球资本与市场",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1henNvaWZTU3FoemhNWjhWTFhmdVRwU2Y1V19BX0tzNEVEdkpUNTdpQXVra0FDamc5cmExcWthQTJnUlBUbE8wZTBqTzFOYnRiQnM4c08tcmhpbkZoa0Vlci1n?oc=5",
+      "source": "观点网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1henNvaWZTU3FoemhNWjhWTFhmdVRwU2Y1V19BX0tzNEVEdkpUNTdpQXVra0FDamc5cmExcWthQTJnUlBUbE8wZTBqTzFOYnRiQnM4c08tcmhpbkZoa0Vlci1n?oc=5\" target=\"_blank\">中行：依托香港 助力国内AI产业链对接全球资本与市场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "“数智赋能 金融向新” 浦东AI +金融科技投融资对接会举办",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12aXFHNGI0Q3A1dm5FQ1V2dkItd2pUcVl0dk9ya0o5N3JuWURmOGxIODhpal8wU1pmc1NrZzFqYzFXQlg2SEo0MWdFaVl1cmxVQjg0YUtiN2lCQlNmNGNQRGxlbzg5NHdkOHpNR2RUbkc?oc=5",
+      "source": "上海新闻",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE12aXFHNGI0Q3A1dm5FQ1V2dkItd2pUcVl0dk9ya0o5N3JuWURmOGxIODhpal8wU1pmc1NrZzFqYzFXQlg2SEo0MWdFaVl1cmxVQjg0YUtiN2lCQlNmNGNQRGxlbzg5NHdkOHpNR2RUbkc?oc=5\" target=\"_blank\">“数智赋能 金融向新” 浦东AI +金融科技投融资对接会举办</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海新闻</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "陈茂波：明确AI金融代理问责原则 三方向推进本港金融科技发展",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JV3dCeTFDaU1mSFdwSjJDWE40bUd1bkNmUjNPRThUYVlTTU12Z2stVUk4bXhtQ0ltcEpMWlJ6ZUtRRm1rVldMdjBrNXIxbVExT3lESA?oc=5",
+      "source": "https://www.hkong.cn/",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JV3dCeTFDaU1mSFdwSjJDWE40bUd1bkNmUjNPRThUYVlTTU12Z2stVUk4bXhtQ0ltcEpMWlJ6ZUtRRm1rVldMdjBrNXIxbVExT3lESA?oc=5\" target=\"_blank\">陈茂波：明确AI金融代理问责原则 三方向推进本港金融科技发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.hkong.cn/</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93WjkyU294U2UxV21BQnhvYVh6b0tibm4wcF9rZjFjNEU5U1V0SnZTYVJPNFhPNk1jaVFvVDBQc2ZNMGJPVFdkaG1vZlFRNGFLRnNNQQ?oc=5",
+      "source": "https://www.hkong.cn/",
+      "published": "2026-11-01",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE93WjkyU294U2UxV21BQnhvYVh6b0tibm4wcF9rZjFjNEU5U1V0SnZTYVJPNFhPNk1jaVFvVDBQc2ZNMGJPVFdkaG1vZlFRNGFLRnNNQQ?oc=5\" target=\"_blank\">度小满与香港科技大学联合发布轩辕4.5金融大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.hkong.cn/</font>",
+      "lang": "zh"
+    }
+  ],
+  "all_news": [
+    {
+      "title": "Chamath flags a hidden risk building under the AI boom",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0NsRHVNa0xEcUl2SnJvZWF4UVNRb0YtMF9ZOHZLWTVMVklYMzZ5Vi1CRE45VXctamFGNU53aFR5WVRDNkY1Y05ydXo0NjNaTUg0OTJtSXpWMWQ0dXZrcmZ4Y1RDanZnaUFjRmJQU05ENDBnVXlUUXNhLUFsV1QtTW5FU0RWdGN0MGp3?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0NsRHVNa0xEcUl2SnJvZWF4UVNRb0YtMF9ZOHZLWTVMVklYMzZ5Vi1CRE45VXctamFGNU53aFR5WVRDNkY1Y05ydXo0NjNaTUg0OTJtSXpWMWQ0dXZrcmZ4Y1RDanZnaUFjRmJQU05ENDBnVXlUUXNhLUFsV1QtTW5FU0RWdGN0MGp3?oc=5\" target=\"_blank\">Chamath flags a hidden risk building under the AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "lang": "en"
+    },
+    {
+      "title": "高盛限制交易员和银行家使用某些人工智能工具",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjAzWXBXNnN4bGU5WlRRT0ZyenIxenlYUndER2xNRFAyNFJfd20wT0hBaEY4SVNrV3BoeVpGTTdPcG9hY0Q3MTlLcXRCLTFvemNqZ2ZWVXU4MTJ1d0ltYm52azZmMjBBTEZHQmo2b0s4QUhnN0dfTkYtcTZBdXdfN2NVSndfUjA?oc=5",
+      "source": "新浪财经",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjAzWXBXNnN4bGU5WlRRT0ZyenIxenlYUndER2xNRFAyNFJfd20wT0hBaEY4SVNrV3BoeVpGTTdPcG9hY0Q3MTlLcXRCLTFvemNqZ2ZWVXU4MTJ1d0ltYm52azZmMjBBTEZHQmo2b0s4QUhnN0dfTkYtcTZBdXdfN2NVSndfUjA?oc=5\" target=\"_blank\">高盛限制交易员和银行家使用某些人工智能工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI开始替你管钱了？香港金融管理局推出代理式金融新项目",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3V5RVlydlA0a3dlSFBfWFlDMUtkeWl5Ny1HQ2FQNXkzQzltMWNOUDl3ZlhFaDNsSi0wc2lIQ280MV9aRzFtekNMNmVZX1RaRXZEd0x4NXZlbXlJRTlpc2VmaG5seFVqSGJTX0NfT0tjZ0VaZW54YmR0bC1vaFRNM0tiNDZ6dl93WDVjTGp1dw?oc=5",
+      "source": "21财经",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3V5RVlydlA0a3dlSFBfWFlDMUtkeWl5Ny1HQ2FQNXkzQzltMWNOUDl3ZlhFaDNsSi0wc2lIQ280MV9aRzFtekNMNmVZX1RaRXZEd0x4NXZlbXlJRTlpc2VmaG5seFVqSGJTX0NfT0tjZ0VaZW54YmR0bC1vaFRNM0tiNDZ6dl93WDVjTGp1dw?oc=5\" target=\"_blank\">AI开始替你管钱了？香港金融管理局推出代理式金融新项目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "AI is breaking the search business model",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExlZmpPdVFqSEFISjZVbUZwVDY0MjQxbW5jbEw4dmxEekhoWWVBckpIUGljQzV0UUIyR01jMjM2Ykk5bGVhaWFjTkFrREdydlZ0UVRQQmtiTE5iM21ZcXIzZDBvOTBRVlE0RDlHV1pWUkxDZU82dTFGTGJrUnhtTlFScF83cU1vWG1wRHNDMEM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExlZmpPdVFqSEFISjZVbUZwVDY0MjQxbW5jbEw4dmxEekhoWWVBckpIUGljQzV0UUIyR01jMjM2Ykk5bGVhaWFjTkFrREdydlZ0UVRQQmtiTE5iM21ZcXIzZDBvOTBRVlE0RDlHV1pWUkxDZU82dTFGTGJrUnhtTlFScF83cU1vWG1wRHNDMEM?oc=5\" target=\"_blank\">AI is breaking the search business model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5\" target=\"_blank\">Oracle files to sell $20 billion in new stock, bonds to finance AI buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Fernando Castanheira: Why AI Visibility is Vital for Banks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBlUTZLWmJSMnZ6UXhqTk5NTUwyTlpITndKcS1ORHVROEdkc1dIekhQbl9HU3JxR2pNRmRQbjd0dWtFNVhEaXN3XzBjUmlKYm9QM1pjbnFoMTE3dlBfT3dpNTBaTVJFUEx0NXBONzRiMWh0Z18xNEJkZEViU0pySnpoYmZzbE9XTy1GbWJlMVJKTkhJ?oc=5",
+      "source": "FinTech Magazine",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBlUTZLWmJSMnZ6UXhqTk5NTUwyTlpITndKcS1ORHVROEdkc1dIekhQbl9HU3JxR2pNRmRQbjd0dWtFNVhEaXN3XzBjUmlKYm9QM1pjbnFoMTE3dlBfT3dpNTBaTVJFUEx0NXBONzRiMWh0Z18xNEJkZEViU0pySnpoYmZzbE9XTy1GbWJlMVJKTkhJ?oc=5\" target=\"_blank\">Fernando Castanheira: Why AI Visibility is Vital for Banks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Magazine</font>",
+      "lang": "en"
+    },
+    {
+      "title": "聚焦AI 赋能金融科技赛道，浦东搭建产业与资本对接桥梁",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zY29HQWJkc3RqTDlvVVNPRTdjQ00yWVl2TVRyS200bHI0M2tLYlhxNGtRSFJ2OFplMUdwUE5NQTVhbjBNTHFOcjhoMnY1MVQ3VkZuMVBKS09wYXVOVTNzRnVOZ0U0TkJRbHptcGdxeUUxWDNaekZPSThheXBXdW8?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1zY29HQWJkc3RqTDlvVVNPRTdjQ00yWVl2TVRyS200bHI0M2tLYlhxNGtRSFJ2OFplMUdwUE5NQTVhbjBNTHFOcjhoMnY1MVQ3VkZuMVBKS09wYXVOVTNzRnVOZ0U0TkJRbHptcGdxeUUxWDNaekZPSThheXBXdW8?oc=5\" target=\"_blank\">聚焦AI 赋能金融科技赛道，浦东搭建产业与资本对接桥梁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "White House’s Hassett Dismisses Concern Over Financing of AI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkRxbW1VQ2d1LUJYTmNsMkhBRFpkbW5YRmx5Z01OZHA1YXY2aEU4a0hJaFpYQzZPR1Z4Z2dyb01Ba3RpZ1gta2hHOU10TnRCa1pySHA3OE9tTGdaU1JqQmRMUENqS0M5M2l5MjROdTFUdVBydVkyNGZhZndBZUc3MGQ5STB4X3hpZFhFZVpDT25ONWNrSjhqbkVGUVdUWjZlYW84?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkRxbW1VQ2d1LUJYTmNsMkhBRFpkbW5YRmx5Z01OZHA1YXY2aEU4a0hJaFpYQzZPR1Z4Z2dyb01Ba3RpZ1gta2hHOU10TnRCa1pySHA3OE9tTGdaU1JqQmRMUENqS0M5M2l5MjROdTFUdVBydVkyNGZhZndBZUc3MGQ5STB4X3hpZFhFZVpDT25ONWNrSjhqbkVGUVdUWjZlYW84?oc=5\" target=\"_blank\">White House’s Hassett Dismisses Concern Over Financing of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "让AI和金融企业坐在一张桌子前，浦东进一步为产业与资本搭建沟通桥梁",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQktxQ2NXdmJXeVM1bi00eDZhY3ZFaGo0d2lpU2xwTHFVNVltTXFERzJJZm1YR2RSYjlVV1RHRzVjdzBYV0FlOUhRQ0FhTmtlVW5xM2xLSng3Zw?oc=5",
+      "source": "上观新闻",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQktxQ2NXdmJXeVM1bi00eDZhY3ZFaGo0d2lpU2xwTHFVNVltTXFERzJJZm1YR2RSYjlVV1RHRzVjdzBYV0FlOUhRQ0FhTmtlVW5xM2xLSng3Zw?oc=5\" target=\"_blank\">让AI和金融企业坐在一张桌子前，浦东进一步为产业与资本搭建沟通桥梁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "Nasdaq execs talk Texas strategy, deploying AI against financial crimes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0tlQ1BHeTFsUjN5Q2FVOG10OXc0eGhvN011aVhUV2FQZzlWWi1jQ0JEdmFISzQ5QWFxNUw4cnZyQ3p0T1ctNTdvdXh4YU0tc2t1aUlHMzdSdGpLYkZ1VVB4YThjOUpXY1pqVGRHcjVuUWhvS1JxTmhIcy14czZBcksyOGtTT0VpVFRET3AtWWhrZEI2UW9EQ3VQZ01NV2k3NG5EekhxZHdzb2t0bC1v?oc=5",
+      "source": "Dallas News",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0tlQ1BHeTFsUjN5Q2FVOG10OXc0eGhvN011aVhUV2FQZzlWWi1jQ0JEdmFISzQ5QWFxNUw4cnZyQ3p0T1ctNTdvdXh4YU0tc2t1aUlHMzdSdGpLYkZ1VVB4YThjOUpXY1pqVGRHcjVuUWhvS1JxTmhIcy14czZBcksyOGtTT0VpVFRET3AtWWhrZEI2UW9EQ3VQZ01NV2k3NG5EekhxZHdzb2t0bC1v?oc=5\" target=\"_blank\">Nasdaq execs talk Texas strategy, deploying AI against financial crimes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Du Xiaoman's Xuanyuan 4.5 Financial LLM Debuts in Hong Kong, Inference Cost Just One-Tenth of General Models",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UGYtc01odzFERUZlY0JENzFKcDM4MV9YSFFPaDRWdGh0NXFoSnJoREpZcDc4bm5nS2s2MWRLM2ZZaWwwRF9raHpMcnk1THI3SDBsX0tYMXM1RllBaGhoQkhwRm55QjdIWW53cU5zMXB3MmlWVEE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83UGYtc01odzFERUZlY0JENzFKcDM4MV9YSFFPaDRWdGh0NXFoSnJoREpZcDc4bm5nS2s2MWRLM2ZZaWwwRF9raHpMcnk1THI3SDBsX0tYMXM1RllBaGhoQkhwRm55QjdIWW53cU5zMXB3MmlWVEE?oc=5\" target=\"_blank\">Du Xiaoman's Xuanyuan 4.5 Financial LLM Debuts in Hong Kong, Inference Cost Just One-Tenth of General Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+      "lang": "en"
+    },
+    {
+      "title": "How Hong Kong’s fintech strategy is progressing – and where growth still lags",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFo3UUlaODU0S3ZYMGdoTmg1NjJ2cWgyTkd6dnY5djVQU0ZaOGwwcU9nekNHbnhkaTRqTE14MnlYNFJDbkwxclZlc19oMkI1ZllxbXVlcC1zMndLYmtkQ094aGt6Rml4UUM0LUxOdjhCOHEwZ1F0S2tTSzEwYVFURVZKb3FPZ19TWWlCVEd6ZDBLNV9tZ2VzX2sxQTl2Mzhyc3RyTjR3OWR2MkRkd0RfV2xjUm1TbGNmV2l6OHQ4dTNRRDgtLUR2TVE4ZHNOZw?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFo3UUlaODU0S3ZYMGdoTmg1NjJ2cWgyTkd6dnY5djVQU0ZaOGwwcU9nekNHbnhkaTRqTE14MnlYNFJDbkwxclZlc19oMkI1ZllxbXVlcC1zMndLYmtkQ094aGt6Rml4UUM0LUxOdjhCOHEwZ1F0S2tTSzEwYVFURVZKb3FPZ19TWWlCVEd6ZDBLNV9tZ2VzX2sxQTl2Mzhyc3RyTjR3OWR2MkRkd0RfV2xjUm1TbGNmV2l6OHQ4dTNRRDgtLUR2TVE4ZHNOZw?oc=5\" target=\"_blank\">How Hong Kong’s fintech strategy is progressing – and where growth still lags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+      "lang": "en"
+    },
+    {
+      "title": "Where in compliance does AI have the greatest deployment depth and autonomy?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG1UN3h3VmlKMmRzV2F4RlFOTnNVU1VBeUNkUEMtTUJLNjdJWWhKelVrVWlsRG13bTNNb1V6cDJtZ0dvSTJBdHJLb0NzLURLMGxQdzFnQkVCX0w4U1hUalVpeEtpeF92alhzX05GeUd4SEhMMlpyZ0t1dm1pN3FBNmhuY1JKTUl5WGwxbjVkM2JQU0FMallfdHBseUtzOGxhanc0M0VXT243QkY4MjRv?oc=5",
+      "source": "FinTech Global",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG1UN3h3VmlKMmRzV2F4RlFOTnNVU1VBeUNkUEMtTUJLNjdJWWhKelVrVWlsRG13bTNNb1V6cDJtZ0dvSTJBdHJLb0NzLURLMGxQdzFnQkVCX0w4U1hUalVpeEtpeF92alhzX05GeUd4SEhMMlpyZ0t1dm1pN3FBNmhuY1JKTUl5WGwxbjVkM2JQU0FMallfdHBseUtzOGxhanc0M0VXT243QkY4MjRv?oc=5\" target=\"_blank\">Where in compliance does AI have the greatest deployment depth and autonomy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Global</font>",
+      "lang": "en"
+    },
+    {
+      "title": "度小满CEO朱光：AI 让金融服务从“千人千面”走向“一人千面”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3R6TC10cHlDanZObWNJS1BjNzlESjk2dC1kOE82TW9VNmo5MEstSmMxTGlxc01sZ0lNbkxMd2dYMGlMMk4wQnJfRGlUYmVIRUY1V29sdTFkZktCdjZ5T3dWem5wMzdpanBIbGgtUnQ0YnNjWlNNLVdtU2dMT1Bvdg?oc=5",
+      "source": "新华网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3R6TC10cHlDanZObWNJS1BjNzlESjk2dC1kOE82TW9VNmo5MEstSmMxTGlxc01sZ0lNbkxMd2dYMGlMMk4wQnJfRGlUYmVIRUY1V29sdTFkZktCdjZ5T3dWem5wMzdpanBIbGgtUnQ0YnNjWlNNLVdtU2dMT1Bvdg?oc=5\" target=\"_blank\">度小满CEO朱光：AI 让金融服务从“千人千面”走向“一人千面”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "中行：依托香港 助力国内AI产业链对接全球资本与市场",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1henNvaWZTU3FoemhNWjhWTFhmdVRwU2Y1V19BX0tzNEVEdkpUNTdpQXVra0FDamc5cmExcWthQTJnUlBUbE8wZTBqTzFOYnRiQnM4c08tcmhpbkZoa0Vlci1n?oc=5",
+      "source": "观点网",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1henNvaWZTU3FoemhNWjhWTFhmdVRwU2Y1V19BX0tzNEVEdkpUNTdpQXVra0FDamc5cmExcWthQTJnUlBUbE8wZTBqTzFOYnRiQnM4c08tcmhpbkZoa0Vlci1n?oc=5\" target=\"_blank\">中行：依托香港 助力国内AI产业链对接全球资本与市场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "“数智赋能 金融向新” 浦东AI +金融科技投融资对接会举办",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12aXFHNGI0Q3A1dm5FQ1V2dkItd2pUcVl0dk9ya0o5N3JuWURmOGxIODhpal8wU1pmc1NrZzFqYzFXQlg2SEo0MWdFaVl1cmxVQjg0YUtiN2lCQlNmNGNQRGxlbzg5NHdkOHpNR2RUbkc?oc=5",
+      "source": "上海新闻",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE12aXFHNGI0Q3A1dm5FQ1V2dkItd2pUcVl0dk9ya0o5N3JuWURmOGxIODhpal8wU1pmc1NrZzFqYzFXQlg2SEo0MWdFaVl1cmxVQjg0YUtiN2lCQlNmNGNQRGxlbzg5NHdkOHpNR2RUbkc?oc=5\" target=\"_blank\">“数智赋能 金融向新” 浦东AI +金融科技投融资对接会举办</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海新闻</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "陈茂波：明确AI金融代理问责原则 三方向推进本港金融科技发展",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JV3dCeTFDaU1mSFdwSjJDWE40bUd1bkNmUjNPRThUYVlTTU12Z2stVUk4bXhtQ0ltcEpMWlJ6ZUtRRm1rVldMdjBrNXIxbVExT3lESA?oc=5",
+      "source": "https://www.hkong.cn/",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JV3dCeTFDaU1mSFdwSjJDWE40bUd1bkNmUjNPRThUYVlTTU12Z2stVUk4bXhtQ0ltcEpMWlJ6ZUtRRm1rVldMdjBrNXIxbVExT3lESA?oc=5\" target=\"_blank\">陈茂波：明确AI金融代理问责原则 三方向推进本港金融科技发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.hkong.cn/</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5\" target=\"_blank\">HSBC to open Hong Kong AI Institute following Singapore launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "lang": "en"
+    },
+    {
+      "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93WjkyU294U2UxV21BQnhvYVh6b0tibm4wcF9rZjFjNEU5U1V0SnZTYVJPNFhPNk1jaVFvVDBQc2ZNMGJPVFdkaG1vZlFRNGFLRnNNQQ?oc=5",
+      "source": "https://www.hkong.cn/",
+      "published": "2026-11-01",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE93WjkyU294U2UxV21BQnhvYVh6b0tibm4wcF9rZjFjNEU5U1V0SnZTYVJPNFhPNk1jaVFvVDBQc2ZNMGJPVFdkaG1vZlFRNGFLRnNNQQ?oc=5\" target=\"_blank\">度小满与香港科技大学联合发布轩辕4.5金融大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.hkong.cn/</font>",
+      "lang": "zh"
+    },
+    {
+      "title": "FCA Issues Guidance for Firms on Their Use of AI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0RJajZpWGtZSDBudWplLTZLN3ItTXJHYVVKTUhITVZscnpYMXh0MlVXWmRXMUFyQy1xSWE2Q3ZGTTVONWlyd2xzYVVEX18zVnlkQ3lTZUp5N1NoRUVjVlBYOEpkYkQyNkhzdHRwOUFtUTg4TlludlduRzhvZ251VC12MTJtOUFEU2FVYzN1WlJocnlkel9RUGxjYkszdw?oc=5",
+      "source": "https://www.fintechanddigitalassets.com/",
+      "published": "2026-10-30",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQb0RJajZpWGtZSDBudWplLTZLN3ItTXJHYVVKTUhITVZscnpYMXh0MlVXWmRXMUFyQy1xSWE2Q3ZGTTVONWlyd2xzYVVEX18zVnlkQ3lTZUp5N1NoRUVjVlBYOEpkYkQyNkhzdHRwOUFtUTg4TlludlduRzhvZ251VC12MTJtOUFEU2FVYzN1WlJocnlkel9RUGxjYkszdw?oc=5\" target=\"_blank\">FCA Issues Guidance for Firms on Their Use of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.fintechanddigitalassets.com/</font>",
+      "lang": "en"
+    }
+  ]
+}
